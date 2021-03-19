@@ -17,6 +17,7 @@ The islands in the Above have teleport gates which allow a player on foot to mov
 
 ## Environment
 The Above features a unique terrain formed by biome-specific islands in the sky. Between the islands is a vast expanse of nothingness known as the Void.
+
 ## Table of Contense
 
 [Biomes](biomes.md)
