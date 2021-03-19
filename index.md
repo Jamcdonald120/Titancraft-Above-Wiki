@@ -27,5 +27,7 @@ The Above features a unique terrain formed by biome-specific islands in the sky.
 
 [Loot](loot.md)
 
+[Enchantments](enchantments.md)
+
 [Advancments](advancments.md)
 
