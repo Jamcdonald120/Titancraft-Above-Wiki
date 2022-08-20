@@ -7,13 +7,16 @@ The Above is a deadly dimension modded in Titancraft. The Above is filled with c
 
 To access the Above, the player needs to stand in the middle of the wood shrine, in the under ground area of spawn.
 ## Traits
-The Above is formed by a bunch of floating islands separated by the “Void”. A player which falls off into the void will be teleported to the Overworld, high in the sky over the Shopping District. The player will safely land in the ocean by the ship.
+The Above is formed by a bunch of floating islands separated by the “Void”. A player which falls off into the void will be teleported to the Overworld, high in the sky over the Shopping District. The player will safely land in the ocean by the ship.  Note: items that fall into the void are lost.  Be cautions when aranging your inventory while falling and avoid dieing near the edge of an island.
+
 The Above is Adventure Mode only, so players can't break or place any item or block there, but will be able to interact with chests, leavers, buttons etc.
 Most creatures found in the Above are hostile and deadly.
 No matter how far you will fly, when going back to the Overworld you will get back to the same place at spawn. 
 The islands in the Above have teleport gates which allow a player on foot to move from island to island.
 ![An image of the Above with gates that let you travel between islands.](gate.png)
 
+Here is a map that includes the gates
+![Map with gates](gate_map.png)
 
 ## Environment
 The Above features a unique terrain formed by biome-specific islands in the sky. Between the islands is a vast expanse of nothingness known as the Void.
