@@ -12,10 +12,11 @@ The Above is formed by a bunch of floating islands separated by the “Void”. 
 The Above is Adventure Mode only, so players can't break or place any item or block there, but will be able to interact with chests, leavers, buttons etc.
 Most creatures found in the Above are hostile and deadly.
 No matter how far you will fly, when going back to the Overworld you will get back to the same place at spawn. 
-The islands in the Above have teleport gates which allow a player on foot to move from island to island.
+The islands in the Above have teleport gates which allow a player on foot to move from island to island.  Each gate is color coded to its opposite and all gates are bi-directional. 
 ![An image of the Above with gates that let you travel between islands.](gate.png)
 
-Here is a map that includes the gates
+Here is a map that includes the gates.
+
 ![Map with gates](gate_map.png)
 
 ## Environment
