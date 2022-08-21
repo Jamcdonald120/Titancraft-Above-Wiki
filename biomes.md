@@ -9,8 +9,7 @@ The Lake|The Lake is on the south side of the Above, and hidden under the Lake l
 The Snowy Mountain|The Snowy Mountain is on the north side of the Above, and contains an icy cave system under its mountains which is where Kermode spawns, and a cave containing the boat races.|![The Snowy Mountain](biomes/snow.png)	
 The Flower Forest|The Flower Forest biome is on the north east corner of the Above, and shares an island with The Savanna. It contains a lot of bee nests and a honey cave which is where the Bee Queen spawns.|![The Flower Forrest](biomes/flower.png)	
 The Forest Hill|The Forest Hill is on the north west side of the Above, and contains a spider cave full of cobwebs, the main entrance to Broodmother’s cave.  There is also an entrance to the cave system. The nearby hills contain a river of gold said to heal curses.|![The Forest Hill](biomes/hill.png)	
-The Desert|The Desert is on the south side of the Above. The Desert contains one of the entrances
-to the cave system, and a pyramid that is currently not open.|![The Mesa](biomes/desert.png)	
+The Desert|The Desert is on the south side of the Above. The Desert contains one of the entrances to the cave system, and a pyramid that is currently not open.|![The Mesa](biomes/desert.png)	
 The Mesa|The Mesa is south side of the Above. The mesa biome contains a U.F.O on the south part, and a cave full of knockback spiders.![The Mesa](biomes/mesa.png)	
 The Volcano|The Volcano is on the south west side of the above.  It is a large volcano with deep pools of lava.  Some pools have treasure at the bottom.  The Volcano also houses Midas' lair.|![The Mesa](biomes/volcano.png)	
 The Jungle|The Jungle is on the west side of the above.  There are currently no encounters of interest here.|![The Jungle](biomes/jungle.png)	
