@@ -24,13 +24,13 @@ The Above features a unique terrain formed by biome-specific islands in the sky.
 
 ## Table of Contense
 
-[Biomes](biomes)
+[Biomes](biomes.md)
 
-[Structures](structures) (under construction)
+[Structures](structures.md) (under construction)
 
-[Bosses](bosses) (under construction)
+[Bosses](bosses.md) (under construction)
 
-[Loot](loot) (under construction)
+[Loot](loot.md) (under construction)
 
 [Enchantments](enchantments.md) (needs update)
 
