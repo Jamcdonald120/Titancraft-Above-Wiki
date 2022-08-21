@@ -1,5 +1,6 @@
 # Enchantments
-The above has various special enchantments worked by "Grifter Magic"
+
+The above has various special enchantments worked by "Grifter Magic".
 Due to the unique nature of the Titan Shard loot, some of the enchants require explaining. This list is always in-progress and incomplete. If you know more, contact avivg2001 on Discord
 
 
