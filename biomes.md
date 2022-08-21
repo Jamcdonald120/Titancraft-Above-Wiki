@@ -10,7 +10,7 @@ The Snowy Mountain|The Snowy Mountain is on the north side of the Above, and con
 The Flower Forest|The Flower Forest biome is on the north east corner of the Above, and shares an island with The Savanna. It contains a lot of bee nests and a honey cave which is where the Bee Queen spawns.|![The Flower Forrest](biomes/flower.png)	
 The Forest Hill|The Forest Hill is on the north west side of the Above, and contains a spider cave full of cobwebs, the main entrance to Broodmother’s cave.  There is also an entrance to the cave system. The nearby hills contain a river of gold said to heal curses.|![The Forest Hill](biomes/hill.png)	
 The Desert|The Desert is on the south side of the Above. The Desert contains one of the entrances to the cave system, and a pyramid that is currently not open.|![The Desert](biomes/desert.png)	
-The Mesa|The Mesa is south side of the Above. The mesa biome contains a U.F.O on the south part, and a cave full of knockback spiders.![The Mesa](biomes/mesa.png)	
+The Mesa|The Mesa is south side of the Above. The mesa biome contains a U.F.O on the south part, and a cave full of knockback spiders.|![The Mesa](biomes/mesa.png)	
 The Volcano|The Volcano is on the south west side of the above.  It is a large volcano with deep pools of lava.  Some pools have treasure at the bottom.  The Volcano also houses Midas' lair.|![The Volcano](biomes/volcano.png)	
 The Jungle|The Jungle is on the west side of the above.  There are currently no encounters of interest here.|![The Jungle](biomes/jungle.png)	
 Pig Race Island|This Mixed Biome island is in the far south east of the Above. This island is the race ground of the pigrace.  Just off the east of this island is Kovic's island.|![Pigrace Island](biomes/pigrace.png)	
