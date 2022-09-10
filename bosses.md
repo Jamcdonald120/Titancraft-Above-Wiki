@@ -39,7 +39,7 @@ Gremora spawns inside the witch hut in the Swamp biome. While Gremora is active,
 - Healing, Regeneration, food, full armor, totems suggested because Gremora and her witch minions deal a lot of damage.
 - Ender pearls to get to her faster when slowed down by her slowness pots.
 
-A player that kills Gremora alone will achieve the [It Cost Everything](advancements.md#it-costs-everything) achievement.
+A player that kills Gremora alone will achieve the [It Cost Everything](advancements.md#it-cost-everything) achievement.
 
 **Difficulty Level:** Hard
 
@@ -119,4 +119,4 @@ Kovac is a villager that spawns inside of the shrine at the far end of The Plain
 
 ## Beau
 
-Beau is a wanderer merchant that spawns in different locations every in game day during daytime. players can buy from Beau mini blocks (1 shard + specific block = 8 mini blocks), and when they do they get the [Its a small world](advancements.md#its-a-small-world) advancement, the [Second pickings](advancements.md#second-pickings) if a player buys something that wasn't sold last time, and if they buy everything they get the [Everything must go](advancments.md#everything-must-go) advancement.
+Beau is a wanderer merchant that spawns in different locations every in game day during daytime. players can buy from Beau mini blocks (1 shard + specific block = 8 mini blocks), and when they do they get the [Its a small world](advancements.md#its-a-small-world) advancement, the [Second pickings](advancements.md#second-pickings) if a player buys something that wasn't sold last time, and if they buy everything they get the [Everything must go](advancements.md#everything-must-go) advancement.
