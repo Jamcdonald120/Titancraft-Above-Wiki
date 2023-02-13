@@ -10,7 +10,7 @@ Philia: (block)|Turns one kind of block to a specific block that is written in t
 Green thumb|It make things “green”|Tools
 Void|The player gets no loot from mobs|Tools/Weapons
 Pulverize|Turns coarse dirt into gravel, and gravel into sand. Nether wart blocks to nether warts|Shears and Shovels
-Extract|Can do the following things|wet sponges -> water buckets<br>andesite -> diorite<br>granite -> nether quartz<br>diorite -> nether quartz|Tools
+Extract|Can do the following things:<br>wet sponges -> water buckets<br>andesite -> diorite<br>granite -> nether quartz<br>diorite -> nether quartz|Tools
 Bleach|Removes the dye color from blocks.|Tools
 Squid Jig|Gives the fishing rod a higher chance to pull up an ink sack.<br>Sadly it does not make a squid dance :(|Fishing Rod
 Catch and Release|Have a chance to catch buckets with fish inside. The buckets can obtain cods, salmons, puffer-fishes, and all kinds of tropical fish.|Fishing rods

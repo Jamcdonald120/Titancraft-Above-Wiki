@@ -107,7 +107,7 @@ The Broodmother is a spider that makes her lair inside of a web-filled cave in t
 - ~64 cobwebs
 
 ## Midus
-Midus is a Piglin who turns everything he touches to gold.  He lives in a golden cave in the volcano.  If Midus hits you, he doesnt do dammage, but rather, he turns 1 random item in your inventory or piece of equiped armor into gold.  If you run out of armor to be converted, you die.  Full stop.  No totems can save you from this.
+Midus is a Piglin who turns everything he touches to gold.  He lives in a golden cave in the volcano.  If Midus hits you, he doesn't do damage, but rather, he turns 1 random item in your inventory or piece of equipped armor into gold.  If you run out of armor to be converted, you die.  Full stop.  No totems can save you from this.
 
 Once you have been killed, a statue of yourself will appear in the foyer.  Clicking this statues Gold Block Head will give you all of the items you died with back.  Any items that have been turned to gold can be restored by throwing them into the golden spring over in the Spruce hills biome. 
 
@@ -119,4 +119,17 @@ Kovac is a villager that spawns inside of the shrine at the far end of The Plain
 
 ## Beau
 
+Possible Coords: x: 49735, y: 119, z: -176
+
 Beau is a wanderer merchant that spawns in different locations every in game day during daytime. players can buy from Beau mini blocks (1 shard + specific block = 8 mini blocks), and when they do they get the [Its a small world](advancements.md#its-a-small-world) advancement, the [Second pickings](advancements.md#second-pickings) if a player buys something that wasn't sold last time, and if they buy everything they get the [Everything must go](advancements.md#everything-must-go) advancement.
+
+## Jenner
+
+Coords: x: 499940, y: 106, z: 404
+
+Trades
+
+- 1 Titan Shard -> Some Lost Stuff
+
+Jenner is a merchant that is located in a blimp in the Hills biome.
+

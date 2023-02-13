@@ -20,7 +20,7 @@ Gives the player 15 mins of invisibility.
 
 ## Draught of deadliness
 
-![Draught of Deadliness](./loot/graught-of-deadliness.png){:width="64px"}
+![Draught of Deadliness](./loot/draught-of-deadliness.png){:width="64px"}
 
 Haste II (3:00)
 When Applied +20% Attack speed.
