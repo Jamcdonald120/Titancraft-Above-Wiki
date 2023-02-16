@@ -21,4 +21,5 @@
 | Second Pickings <a name="second-pickings"></a> | | |
 | Everything must go <a name="everything-must-go"></a> | | |
 | Wash Away Your Failure | Remove the Curse of Midas | |
+| Go Quest, Young Man <a name="go-quest-young-man"></a> | Complete a job for Victor | |
 

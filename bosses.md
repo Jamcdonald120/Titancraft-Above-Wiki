@@ -113,6 +113,16 @@ Once you have been killed, a statue of yourself will appear in the foyer.  Click
 
 # NPCs
 
+## Victor
+
+![Victor's Tower](./npcs/victors-tower.png)
+
+Coords: x: 50293, y: 93, z: 608
+
+Victor is a quest giver located in a tower in the Lake biome to the south-east. After completing a quest you will receive the [Go Quest, Young Man](advancements.md#go-quest-young-man) advancement.
+
+Quest Text: I've gotten word that there's an archaeologist trapped in one of the tombs in the desert. Just like one of those science hippies to get themselves in trouble and expect someone else to bail them out. Can you deal with it?
+
 ## Kovac
 
 Kovac is a villager that spawns inside of the shrine at the far end of The Plains. He spawns as a zombie village full diamond gear, and when he is being converted back to village with a golden apple and a weakness potion the player will receive the [An Apple a Day](advancements.md#an-apple-a-day) advancement and be able to turn armor into chainmail armor. (more information needed). when cured Kovac will reward you with a titanshard.
