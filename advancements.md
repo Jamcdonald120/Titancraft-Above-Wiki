@@ -2,7 +2,7 @@
 
 | Advancement | In-game Description | Description |
 | ----------- | ------------------- | ------------|
-| Look up, waaaay up! | | Get to the above for the first time. good luck up there, you will need it. |
+| The Above |Enter the Above | Get to the above for the first time. good luck up there, you will need it. |
 | Down to Earth | | Jump off the above, off you go! |
 | A swine-r is You | Complete a pig race | weee! |
 | Ice science enrichment center | complete all five iceboats courses | Wwweeeeeeeeeeeeeeeeee!!! |
@@ -22,4 +22,4 @@
 | Everything must go <a name="everything-must-go"></a> | | |
 | Wash Away Your Failure | Remove the Curse of Midas | |
 | Go Quest, Young Man <a name="go-quest-young-man"></a> | Complete a job for Victor | |
-
+| Close Encounter | Get abducted by a UFO | ------------|
