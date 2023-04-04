@@ -22,9 +22,10 @@
 | Save me tango! | Encounter some of the Above's more dangerous denizens | You did it! you have slayed your first above mob! that's a start. |
 | My, What Big Teeth You Have... | Encounter a Mimic | Those chests are alive, be careful |
 | Confront the Problem! | Fight! Win! And call me when you get back, darling; I enjoy our visits | Defeat any of the Above Boss Mobs |
-| Keymaster | Obtain three different Fallen Specter souls | Those staff members hit hard, but we hit harder |
-| Break the Fallen | Help take down the Fallen One and his Minions | Now that took some time and effort, was it worth it? |
-| Bond, James Bond | Kill one of each of the Fallen Specters | You're on a murder spree |
+| Keymaster <a name="keymaster"></a> | Obtain three different Fallen Specter souls | Those staff members hit hard, but we hit harder |
+| Break the Fallen <a name="break-the-fallen"></a> | Help take down the Fallen One and his Minions | Now that took some time and effort, was it worth it? |
+| Glory Hog <a name="glory-hog"></a> | Get the killing blow on all 3 Fallen One Stages | Really?! You could not let anyone have the final say could you |
+| Bond, James Bond <a name="james-bond"></a> | Kill one of each of the Fallen Specters | You're on a murder spree |
 | Cleaning house | Solve the Dark Mansion's puzzle after clearing it of illagers | well thats impressive, you just commited a genocide! |
 | Above Them All | Defeat each of the Above's boss mobs | Geez. If you get this achievement you are a legend! maybe let some others try getting this achievement too. |
 | Clean coup <a name="clean-coup"></a> | Kill the Queen, *without* killing any of her subjects | It is a hive mind, once the head is gone, everything is falling apart. all you gotta focus is the head. |
