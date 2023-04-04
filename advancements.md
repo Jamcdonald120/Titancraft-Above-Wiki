@@ -4,7 +4,7 @@
 | ----------- | ------------------- | ------------|
 | The Above |Enter the Above | Get to the above for the first time. good luck up there, you will need it. |
 | Run Away | Jump off the Above, back to the Overworld| Jump off the above, off you go! |
-| Thunder- struck <a name="thunder-struck"></a> | Get struck directly by Volt's Lightning | Ouch! this lighting really hurts! |
+| Thunderstruck <a name="thunder-struck"></a> | Get struck directly by Volt's Lightning | Ouch! this lighting really hurts! |
 | Off with your head! <a name="off-with-your-head"></a> | Lose your life at the hands of Von Feind | "Greeting sirs, This is me von the merchant and I have been wandering in these lands chopping heads of a variety of players. Would you like me to chop your head off? its free!" |
 | Wash Away Your Failure | Remove the Curse of Midas | Throw your gold nuggets into the pool and get your items back |
 | Zero-Sum Game | You just can't win either way, can you? | Win the Trapdoor Mini-Game |
