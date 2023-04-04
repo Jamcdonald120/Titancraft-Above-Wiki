@@ -31,7 +31,7 @@
 | Clean coup <a name="clean-coup"></a> | Kill the Queen, *without* killing any of her subjects | It is a hive mind, once the head is gone, everything is falling apart. all you gotta focus is the head. |
 | It Cost Everything <a name="it-cost-everything"></a> | Kill Gremora... Alone | now THAT'S impressive! must have been an epic battle… can’t believe you didn’t waited for me, I would have brought along some popcorn! |
 | With my Bear hands! <a name="with-my-bear-hands"></a>| Defeat Kermode without a weapon | hehe, Kermode goes Brrrrrr…... |
-| Where’s the Flame- thrower?! | Kill it with Fire! | Kill the Broodmother using fire damage |
+| Kill it with Fire! | Where’s the Flame- thrower?! | Kill the Broodmother using fire damage |
 | Go For the Gold | Defeat Midas in full gold | You're were fighting on equal footing, what great sportmanship |
 | A-MAZE-ing! | Enter the Labyrinth | You want to become buried as a mummy? |
 | Uh Oh... | Encounter one of the Labyrinth's many dangers | Be careful where you step, it might get hot |
