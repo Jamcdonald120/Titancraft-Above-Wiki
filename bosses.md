@@ -111,9 +111,6 @@ Midus is a Piglin who turns everything he touches to gold.  He lives in a golden
 
 Once you have been killed, a statue of yourself will appear in the foyer.  Clicking this statues Gold Block Head will give you all of the items you died with back.  Any items that have been turned to gold can be restored by throwing them into the golden spring over in the Spruce hills biome. 
 
-<details>
-  <summary>Spoiler warning</summary>
-
 ## Specters
 
 The staff has been turned into headless Specters. You'll find them in one of the Arena's scattered around the Above. They are passive mobs until you attack them, and then it's fight on! They are tough bosses and come at you with high speed. Upon death they drop their respective souls. Collect three different ones to earn the [Keymaster](advancements.md#keymaster) or the [Bond, James Bond](advancements.md#james-bond) advancement.
@@ -133,8 +130,6 @@ The Fallen One has returned for his revenge. After obtaining three different Spe
 **Difficulty Level:** Very Hard
 
 **Rewards:** 3 Titanshards
-
-</details>
 
 # NPCs
 
