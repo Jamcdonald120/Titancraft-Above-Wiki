@@ -6,10 +6,10 @@ Due to the unique nature of the Titan Shard loot, some of the enchants require e
 
 Name|Effect|Comes on
 ----|------|--------
-Philia: (block)|Turns one kind of block to a specific block that is written in the (block) space<br>For example, when used on leaves it causes saplings of the named Philia type to drop even if one is not using shears or silk touch (ie. breaking spruce leaves yields acacia saplings with Philia: Acacia)|Axe<br>Shears<br>Hoe
+Philia: (block)|Turns one kind of block to a specific block that is written in the (block) space<br>For example, when used on leaves it causes saplings of the named Philia type to drop even if one is not using shears or silk touch (ie. breaking spruce leaves yields acacia saplings with Philia: Acacia)|Pickaxe<br>Axe<br>Shears<br>Hoe
 Green thumb|It make things “green”|Tools
 Void|The player gets no loot from mobs|Tools/Weapons
-Pulverize|Turns coarse dirt into gravel, and gravel into sand. Nether wart blocks to nether warts|Shears and Shovels
+Pulverize|Turns coarse dirt into gravel, and gravel into sand. Nether wart blocks to nether warts|Pickaxe<br>Shears<br>Shovels
 Extract|Can do the following things:<br>wet sponges -> water buckets<br>andesite -> diorite<br>granite -> nether quartz<br>diorite -> nether quartz|Tools
 Bleach|Removes the dye color from blocks.|Tools
 Squid Jig|Gives the fishing rod a higher chance to pull up an ink sack.<br>Sadly it does not make a squid dance :(|Fishing Rod
