@@ -30,7 +30,7 @@ The Above features a unique terrain formed by biome-specific islands in the sky.
 
 [Biomes](biomes.md)
 
-[Structures](structures.md) (under construction)
+[Structures](structures.md)
 
 [Bosses](bosses.md)
 
