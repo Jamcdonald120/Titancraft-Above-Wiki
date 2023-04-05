@@ -3,7 +3,7 @@
 The Above contains a multitude of boss monsters, who drop the coveted Titan Shards upon defeat.
 
 
-## Bee Queen
+## Bee Queen <a name="bee-queen"></a>
 
 The Bee Queen spawns in the Flower Forest biome. She is not very strong compared to other bosses, but she makes up for that by having a literal swarm of soldier bees that will attack any player or creature nearby. If a player manages to kill only the Queen and not the servants they will achieve the [Clean Coup](advancements.md#clean-coup) advancement.
 
@@ -13,7 +13,7 @@ The Bee Queen spawns in the Flower Forest biome. She is not very strong compared
 
 **Rewards:** 1 Titanshard, 1 stack of Wither Roses
 
-## Von Fiend
+## Von Fiend <a name="von-fiend"></a>
 
 Von Fiend spawns in the Savanna biome near the cars. He is a supernaturally buff Vindicator that has a huge number of hit points and hits hard enough to kill a player in two hits. Von Fiend is also skilled, as he only kills his enemies by chopping their head clean off. When a player is murdered by Von Fiend for the first time they will achieve the [Off with your head!](advancements.md#off-with-your-head) achievement. When von Chop the players head of he will hold that head in his hand, and when picking up a new head it will replace the one he was currently carrying. The head which Von holds upon death will drop on the ground and the player could pick it up.
 
@@ -28,7 +28,7 @@ Von Fiend spawns in the Savanna biome near the cars. He is a supernaturally buff
 
 **Rewards:** 4 Titanshards, Head Hunter Axe
 
-## Gremora
+## Gremora <a name="gremora"></a>
 
 Gremora spawns inside the witch hut in the Swamp biome. While Gremora is active, normal witch mobs will spawn in and around her hut and are hostile to the player. When engaged she will do the usual witchy thing of tossing Potions of Poison--but what makes her unique is her ability to teleport after taking a certain amount of damage, leaving a Lingering Potion of Slowness in her wake. Gremora's ability to teleport to a random spot inside or outside the hut gives her time to drink Potions of Healing to restore her massive HP pool. Since the player is slowed down, it becomes difficult to catch up to her before she fully heals.
 
@@ -49,7 +49,7 @@ A player that kills Gremora alone will achieve the [It Cost Everything](advancem
 - Occasionally 1 random Above potion with a unique effect
 - ~64 of a regular witch drop such as glowstone dust or sticks
 
-## Volt
+## Volt <a name="volt"></a>
 
 Volt spawns in his own little island just south of the central spawn island. He is an iron golem infused with the power of ELECTRICITY allowing him to zap players, spawn charged creepers, and move at lightning speeds. Due to the nature of the fight, it is easy to get killed immediately after a totem pop. Volt has several different custom attacks, including hurling the player up into the air, leaping into the air and stomping on the player, summoning lightning bolts, and charging creepers.
 
@@ -82,7 +82,7 @@ Luckily, Volt is still an iron golem and as such has AI that the player can use 
 - 4 Titanshards
 - 1 SpEciAL Poppy
 
-## Kermode
+## Kermode <a name="kermode"></a>
 
 Kermode spawns in the Snowy biome inside of a cave. I don't have much to say here, she's a bear. She mauls you. if a player defeats Kermode without a weapon that player gets the [With my Bear hands!](advancements.md#with-my-bear-hands) achievement. 
 
@@ -95,7 +95,7 @@ Kermode spawns in the Snowy biome inside of a cave. I don't have much to say her
 - 1 Titanshard
 - ~64 blue ice
 
-## Broodmother
+## Broodmother <a name="broodmother"></a>
 
 The Broodmother is a spider that makes her lair inside of a web-filled cave in the Forest biome. There are several entrances to her cave, allowing players a choice in how to approach the fight. The cave spawns cave spiders constantly, which amps up the difficulty of the fight. The Broodmother has seen fit to festoon her arena with cobwebs, which make it difficult to maneuver and fight her. 
 
@@ -106,7 +106,7 @@ The Broodmother is a spider that makes her lair inside of a web-filled cave in t
 - 3 Titanshards
 - ~64 cobwebs
 
-## Midas
+## Midas <a name="midas"></a>
 Midas is a Piglin who turns everything he touches to gold.  He lives in a golden cave in the volcano.  If Midas hits you, he doesn't do damage, but rather, he turns 1 random item in your inventory or piece of equipped armor into gold.  If you run out of armor to be converted, you die.  Full stop.  No totems can save you from this.
 
 Once you have been killed, a statue of yourself will appear in the foyer.  Clicking this statues Gold Block Head will give you all of the items you died with back.  Any items that have been turned to gold can be restored by throwing them into the golden spring over in the Spruce hills biome. 
@@ -114,7 +114,7 @@ Once you have been killed, a statue of yourself will appear in the foyer.  Click
 <details>
   <summary>Spoiler warning</summary>
 
-<h2 id="specters">Specters</h2>
+<h2 id="specters">Specters <a name="spectrers"></a></h2>
 
 <p>The staff has been turned into headless Specters. You’ll find them in one of the Arena’s scattered around the Above. They are passive mobs until you attack them, and then it’s fight on! They are tough bosses and come at you with high speed. Upon death they drop their respective souls. Collect three different ones to earn the <a href="/Titancraft-Above-Wiki/advancements.html#keymaster">Keymaster</a> or the <a href="/Titancraft-Above-Wiki/advancements.html#james-bond">Bond, James Bond</a> advancement.</p>
 
@@ -124,7 +124,7 @@ Once you have been killed, a statue of yourself will appear in the foyer.  Click
 
 <p><strong>Rewards:</strong> 1 Specter Soul</p>
 
-<h2 id="the-fallen-one">The Fallen One</h2>
+<h2 id="the-fallen-one">The Fallen One <a name="fallen-one"></a></h2>
 
 <p>The Fallen One has returned for his revenge. After obtaining three different Spectre Souls, take them to the Fallen One’s tower near the Volcano and offer them up one by one to get access to his Arena. After passing through the third gate you have time to prepare yourself for the fight ahead. Defeating the Fallen will earn you the <a href="/Titancraft-Above-Wiki/advancements.html#break-the-fallen">Break the Fallen</a> achievement. If you managed to deal the final blow at every stage you will earn the <a href="/Titancraft-Above-Wiki/advancements.html#glory-hog">GloryHog</a> achievement.</p>
 
@@ -138,7 +138,7 @@ Once you have been killed, a statue of yourself will appear in the foyer.  Click
 
 # NPCs
 
-## Victor
+## Victor <a name="Victor"></a>
 
 ![Victor's Tower](./npcs/victors-tower.png)
 
@@ -148,17 +148,17 @@ Victor is a quest giver located in a tower in the Lake biome to the south-east. 
 
 Quest Text: I've gotten word that there's an archaeologist trapped in one of the tombs in the desert. Just like one of those science hippies to get themselves in trouble and expect someone else to bail them out. Can you deal with it?
 
-## Kovac
+## Kovac <a name="kovac"></a>
 
 Kovac is a villager that spawns inside of the shrine at the far end of The Plains. He spawns as a zombie village full diamond gear, and when he is being converted back to village with a golden apple and a weakness potion the player will receive the [An Apple a Day](advancements.md#an-apple-a-day) advancement and be able to turn armor into chainmail armor. (more information needed). when cured Kovac will reward you with a titanshard.
 
-## Beau
+## Beau <a name="Beau"></a>
 
 Possible Coords: x: 49735, y: 119, z: -176
 
 Beau is a wanderer merchant that spawns in different locations every in game day during daytime. players can buy from Beau mini blocks (1 shard + specific block = 8 mini blocks), and when they do they get the [Its a small world](advancements.md#its-a-small-world) advancement, the [Second pickings](advancements.md#second-pickings) if a player buys something that wasn't sold last time, and if they buy everything they get the [Everything must go](advancements.md#everything-must-go) advancement.
 
-## Jenner
+## Jenner <a name="Jenner"></a>
 
 Coords: x: 499940, y: 106, z: 404
 
