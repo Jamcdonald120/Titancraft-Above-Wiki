@@ -74,7 +74,7 @@ Below a large oak tree you can find a large beehive filled with honey. All the b
 
 ## Car Lot
 
-![Von Feind's cars](Structures/Von Feind.png)
+![Von Fiend's cars](Structures/Von Feind.png)
 
 What are two abandoned cars doing in the Above? You can try you hand at being a car burglar, but be careful. [Von Fiend](bosses.md#von-fiend) might be lurking around ready to chop your head off!
 
