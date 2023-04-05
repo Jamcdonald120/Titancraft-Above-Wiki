@@ -111,13 +111,13 @@ Midas is a Piglin who turns everything he touches to gold.  He lives in a golden
 
 Once you have been killed, a statue of yourself will appear in the foyer.  Clicking this statues Gold Block Head will give you all of the items you died with back.  Any items that have been turned to gold can be restored by throwing them into the golden spring over in the Spruce hills biome.
 
-<a name="spectrers">
-<a name="fallen-one">
+<a name="spectrers"></a>
+<a name="fallen-one"></a>
   
 <details>
   <summary>Spoiler warning</summary>
 
-<h2 id="specters">Specters</a></h2>
+<h2 id="specters">Specters</h2>
 
 <p>The staff has been turned into headless Specters. You’ll find them in one of the Arena’s scattered around the Above. They are passive mobs until you attack them, and then it’s fight on! They are tough bosses and come at you with high speed. Upon death they drop their respective souls. Collect three different ones to earn the <a href="/Titancraft-Above-Wiki/advancements.html#keymaster">Keymaster</a> or the <a href="/Titancraft-Above-Wiki/advancements.html#james-bond">Bond, James Bond</a> advancement.</p>
 
@@ -127,7 +127,7 @@ Once you have been killed, a statue of yourself will appear in the foyer.  Click
 
 <p><strong>Rewards:</strong> 1 Specter Soul</p>
 
-<h2 id="the-fallen-one">The Fallen One</a></h2>
+<h2 id="the-fallen-one">The Fallen One</h2>
 
 <p>The Fallen One has returned for his revenge. After obtaining three different Spectre Souls, take them to the Fallen One’s tower near the Volcano and offer them up one by one to get access to his Arena. After passing through the third gate you have time to prepare yourself for the fight ahead. Defeating the Fallen will earn you the <a href="/Titancraft-Above-Wiki/advancements.html#break-the-fallen">Break the Fallen</a> achievement. If you managed to deal the final blow at every stage you will earn the <a href="/Titancraft-Above-Wiki/advancements.html#glory-hog">GloryHog</a> achievement.</p>
 
