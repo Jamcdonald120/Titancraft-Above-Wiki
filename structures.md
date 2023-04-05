@@ -64,6 +64,8 @@ Located in the Swamp you can find this crooked hut. Walking around there are lot
 
 ## Broodmother's Den
 
+![Broodmother's Den](Structures/Broodmother.png)
+
 Inside this cobweb filled cave you'll find hordes of spider spinning their webs waiting to trap you. If you dare make your way deep inside this cave you can find the [Broodmother](bosses.md#broodmother) herself. Enter at your own risk and face all these spiders, or find the back entrance and slay her without alerting her minions.
 
 ## Ice Cavern
