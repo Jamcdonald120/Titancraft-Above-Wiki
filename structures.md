@@ -96,6 +96,6 @@ Inside the side of the Volcano you'll find a this fortress. Inside there are sta
 
 ## The Citadel
 
-![The Citadel](Structures/Fallen_One.png)
+![The Citadel](Arenas/Fallen_One.png)
 
 A new addition to the Above. This imposing tower looms imposingly near the Volcano. Inside you'll need to offer some souls to explore further inside. Explore the inside at your own risk, or face the wrath of the [Fallen one](bosses.md#fallen-one)
