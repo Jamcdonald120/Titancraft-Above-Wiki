@@ -155,13 +155,13 @@ Quest Text: I've gotten word that there's an archaeologist trapped in one of the
 
 Kovac is a villager that spawns inside of the shrine at the far end of The Plains. He spawns as a zombie village full diamond gear, and when he is being converted back to village with a golden apple and a weakness potion the player will receive the [An Apple a Day](advancements.md#an-apple-a-day) advancement and be able to turn armor into chainmail armor. (more information needed). when cured Kovac will reward you with a titanshard.
 
-## Beau <a name="Beau"></a>
+## Beau <a name="beau"></a>
 
 Possible Coords: x: 49735, y: 119, z: -176
 
 Beau is a wanderer merchant that spawns in different locations every in game day during daytime. players can buy from Beau mini blocks (1 shard + specific block = 8 mini blocks), and when they do they get the [Its a small world](advancements.md#its-a-small-world) advancement, the [Second pickings](advancements.md#second-pickings) if a player buys something that wasn't sold last time, and if they buy everything they get the [Everything must go](advancements.md#everything-must-go) advancement.
 
-## Jenner <a name="Jenner"></a>
+## Jenner <a name="jenner"></a>
 
 Coords: x: 499940, y: 106, z: 404
 
