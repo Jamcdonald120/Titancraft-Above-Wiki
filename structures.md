@@ -14,6 +14,18 @@ The Blimp is the first structure you will encounter. It's on the main island pro
 
 Victor's Tower is close to the main island. [Victor](bosses.md#Victor) lives here. He is a well known adventurer. However he is retired and now makes sure people in need receive the help they want. You can pick up special Above related quests.
 
+## Pirate's Cave
+
+![Pirate's Cave](Structures/Pirate_Cave.png)
+
+Ofcourse there are pirates in the Above. Will they have loot hidden away somewhere in the Above? Try and find their hidden cave and find their treasure chest.
+
+## Trapdoor mini-game
+
+![Trapdoor mini-game](Structures/Trapdoor.png)
+
+Have fast hands? Faster then anyone? Try and close all the trapdoors before they are opened again. Before you can try this mini-game, you'll have to find it's hidden location. Will it be behind a waterfall, under a tree, or maybe under a rock somwhere in the plains?
+
 ## Pig Racing Pen
 
 ![Pig Racing Pen](Structures/Pig_Race.png)
@@ -41,7 +53,7 @@ The largest structure in the Above is the Mansion. Similar to regurlar Mansions 
 <details>
   <summary>Guide to the puzzle</summary>
   
-  <img src="/Titancraft-Above-Wiki/Structures/Mansion_Key.png" alt="Mansion Guide" /></p>
+  <img src="/Titancraft-Above-Wiki/Structures/Mansion_Key.png" alt="Mansion Guide" />
 </details>
 
 ## Witch's Hut
@@ -68,6 +80,8 @@ If you can find this seemingly regular cave, you'll discover that inside it's a 
 
 ## Queen Bee's Beehive
 
+![Queen Bee's Beehive](Structures/Queen-Bee.png)
+
 Below a large oak tree you can find a large beehive filled with honey. All the bees in the area make their home here in this Flower Forest. Often you'll be able to find the [Queen Bee](bosses.md#bee-queen) herself.
 
 ## Car Lot
@@ -77,6 +91,8 @@ Below a large oak tree you can find a large beehive filled with honey. All the b
 What are two abandoned cars doing in the Above? You can try you hand at being a car burglar, but be careful. [Von Fiend](bosses.md#von-fiend) might be lurking around ready to chop your head off!
 
 ## Spider's Den
+
+![Spider's Den](Structures/Spider_Den.png)
 
 Unlike the Broodmother's Den, thespiders inside this passage are not your average spiders. Traverse at your own risk and see if you can light up the entire passage to be able to find your treasure.
 
