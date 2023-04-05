@@ -39,4 +39,4 @@
 | Time to Start Excavating | Uncover the pyramid's hidden library | What a bookworm you are |
 | Escape Alive <a name="escape-alive"></a>| Find your way through the labyrinth | You are a real Indiana Jones |
 | There's Only One Explanation | The tunnels are changing. | Back again so soon? Let's see if you get out alive this time |
-| Close Encounter <a name="close encounter"></a>| Get abducted by a UFO | You're brave, you never know what can happen |
+| Close Encounter <a name="close-encounter"></a>| Get abducted by a UFO | You're brave, you never know what can happen |
