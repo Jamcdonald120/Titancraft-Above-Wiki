@@ -41,7 +41,7 @@ The largest structure in the Above is the Mansion. Similar to regurlar Mansions 
 <details>
   <summary>Guide to the puzzle</summary>
   
-  ![Puzzle guide](Structures/Mansion_Puzzle.png)
+  ![Puzzle guide](/Titancraft-Above-Wiki/Structures/Mansion_Puzzle.png)
 </details>
 
 ## Witch's Hut
