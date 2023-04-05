@@ -48,7 +48,7 @@ The largest structure in the Above is the Mansion. Similar to regurlar Mansions 
 
 ![Witch's Hut](Structures/Witch_Hut.png)
 
-Located in the Swamp you can find this crooked hut. Walking around there are lots of witches here, but they are just apprentices to the one hiding in the tower. [Gamore](bosses.md#gamora) is up to no good brewing all sorts of potions here. Will you fall to her magic or can you endure and come out victorious?
+Located in the Swamp you can find this crooked hut. Walking around there are lots of witches here, but they are just apprentices to the one hiding in the tower. [Gamora](bosses.md#gamora) is up to no good brewing all sorts of potions here. Will you fall to her magic or can you endure and come out victorious?
 
 ## Broodmother's Den
 
