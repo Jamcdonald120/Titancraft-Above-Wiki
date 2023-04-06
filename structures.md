@@ -24,7 +24,7 @@ Ofcourse there are pirates in the Above. Will they have loot hidden away somewhe
 
 ![Trapdoor mini-game](Structures/Trapdoor.png)
 
-Have fast hands? Faster then anyone? Try and close all the trapdoors before they are opened again. Before you can try this mini-game, you'll have to find it's hidden location. Will it be behind a waterfall, under a tree, or maybe under a rock somwhere in the plains?
+Have fast hands? Faster then anyone? Try and close all the trapdoors before they are opened again. Before you can try this mini-game, you'll have to find it's hidden location. Will it be behind a waterfall, under a tree, or maybe under a rock somewhere in the plains?
 
 ## Pig Racing Pen
 
@@ -36,13 +36,13 @@ This pen will sometimes hold 4 different pigs. When it does, get your friends to
 
 ![Kovak's Workshop](Structures/Kovak.png)
 
-On the edge of the map you'll find a small island with a tiny workshop. From time to time a zombie villager will spawn here. Bring a potion and a nice Golden Apple as a snack. In no time you'll meet [Kovak](bosses.md#kovak) and earn yourself the [An Apple a Day](advancements.md#an-apple-a-day) advancement. He is able to change your gear to any type of material you want for the small price one Titanshard.
+On the edge of the map you'll find a small island with a tiny workshop. From time to time a zombie villager will spawn here. Bring a potion and a nice Golden Apple as a snack. In no time you'll meet [Kovak](bosses.md#kovak) and earn yourself the [An Apple a Day](advancements.md#an-apple-a-day) advancement. He is able to change your gear to any type of material you want for the small price one Titanshard and a full block of said material.
 
 ## The Labyrinth
 
 ![The Labyrinth](Structures/Pyramid.png)
 
-One of the larger structures will be the Desert Temple. Inside this tomb you'll find yourself stuck in a massive labyrinth filled with boobytraps and ofcourse some amazing loot. making it out alive for the first time will earn you the [Escape Alive](advancements.md#escape-alive) advancement. If you want to feel like Indiana Jones this is defintily the place to go.
+One of the larger structures will be the Desert Temple. Inside this tomb you'll find yourself stuck in a massive labyrinth filled with boobytraps and ofcourse some amazing loot. making it out alive for the first time will earn you the [Escape Alive](advancements.md#escape-alive) advancement. If you want to feel like Indiana Jones this is definitively the place to go.
 
 ## The Mansion
 
@@ -72,7 +72,7 @@ Inside this cobweb filled cave you'll find hordes of spider spinning their webs 
 
 ![Ice Cavern](Structures/Kermode.png)
 
-The snow filled tundra holds many secrets. Traversing this cold landscape can be harsh so finding shelter in a cave seems like a good idea. Not all caves are as save as they seem to be. If you stumble across a specifici one you'll find [Kermode](bosses.md#kermode) has made his home here. Better keep your sword ready, this bear might be too much for just fists too handle... Or is he?
+The snow filled tundra holds many secrets. Traversing this cold landscape can be harsh so finding shelter in a cave seems like a good idea. Not all caves are as save as they seem to be. If you stumble across this specific one you'll find [Kermode](bosses.md#kermode) has made her home here. Better keep your sword ready, this bear might be too much for just fists too handle... Or is she?
 
 ## Ice Boat Raceway
 
@@ -82,7 +82,7 @@ If you can find this seemingly regular cave, you'll discover that inside it's a 
 
 ## Queen Bee's Beehive
 
-![Queen Bee's Beehive](Structures/Queen-Bee.png)
+![Queen Bee's Beehive](Structures/Queen_Bee.png)
 
 Below a large oak tree you can find a large beehive filled with honey. All the bees in the area make their home here in this Flower Forest. Often you'll be able to find the [Queen Bee](bosses.md#bee-queen) herself.
 
@@ -96,7 +96,7 @@ What are two abandoned cars doing in the Above? You can try you hand at being a 
 
 ![Spider's Den](Structures/Spider_Den.png)
 
-Unlike the Broodmother's Den, thespiders inside this passage are not your average spiders. Traverse at your own risk and see if you can light up the entire passage to be able to find your treasure.
+Unlike the Broodmother's Den, the spiders inside this passage are not your average spiders. Traverse at your own risk and see if you can light up the entire passage to be able to find your treasure.
 
 ## The UFO
 
@@ -114,4 +114,4 @@ Inside the side of the Volcano you'll find a this fortress. Inside there are sta
 
 ![The Citadel](Arenas/Fallen_One.png)
 
-A new addition to the Above. This imposing tower looms imposingly near the Volcano. Inside you'll need to offer some souls to explore further inside. Explore the inside at your own risk, or face the wrath of the [Fallen one](bosses.md#fallen-one)
+A new addition to the Above. This imposing tower looms imposingly near the Volcano. Inside you'll need to offer some souls to explore further inside. Explore the inside at your own risk, or face the wrath of the [Fallen One](bosses.md#fallen-one)
