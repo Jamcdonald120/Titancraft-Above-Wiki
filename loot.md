@@ -75,7 +75,7 @@ Item frame coupon: allows the player to make Item Frames invisible…? I don't k
 
 Mob modification coupon: allows the player to change a mob AI as they wish (for example removing their AI, making them passive ect…)
 
-spawner coupons: allows the player…. pls help me I don't know what a spawner coupon does D:
+spawner coupons: allows the player to create a NON FUNCTIONAL spawner with any mob of their choice spinning in the center.
 
 Armorstand, block, book/sign, Item frame, mob modification, spawner coupons cannot be redeemed automatically through 
 
