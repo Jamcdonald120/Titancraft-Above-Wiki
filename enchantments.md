@@ -19,7 +19,7 @@ Chisel|Changes items to a different variant (ironically not their chiseled one i
 Angler|Only catches Fish (no Junk or Treasure). |Fishing rod
 Rush|Permanently gives you the speed beacon effect|Pants
 Picky|Eliminates the chance for Junk or Treasure, and increases the chances for Tropical or Pufferfish (decreasing the chances of Cod)|Fishing Rod
-
+Hydrate|Rehydrates the following blocks/items:<br>dirt -> mud<br>concrete powder -> concrete<br>dead coral -> coral<br>sponge -> wet sponge<br>grass -> sea grass<br>fern -> kelp|Pickaxe<br>Shears<br>Shovels
 
 
 
