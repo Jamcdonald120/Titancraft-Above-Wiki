@@ -155,25 +155,10 @@ Beau is a wanderer merchant that spawns in different locations every in game day
 
 Players can buy from Beau mini blocks (1 shard + specific block = 8 mini blocks), and when they do they get the [Its a small world](advancements.md#its-a-small-world) advancement, the [Second pickings](advancements.md#second-pickings) if a player buys something that wasn't sold last time, and if they buy everything they get the [Everything must go](advancements.md#everything-must-go) advancement.
 
-Trades:
+Trades are semi-randomly generated based on the inventory of the first player who interacts with them.  All trades are mini block versions of minecraft blocks.  All trades cost 1 titanshard and 1 block and yield 8 mini blocks based on that block.
 
-- 1 Titan Shard + 1 Oak Planks -> 8 Oak Planks mini block
-- 1 Titan Shard + 1 Birch Planks -> 8 Birch Planks mini block
-- 1 Titan Shard + 1 Snow Block -> 8 Snow Block mini block
-- 1 Titan Shard + 1 Diamond Block -> 8 Diamond Block mini block
-- 1 Titan Shard + 1 Green Concrete -> 8 Green Concrete mini block
-- 1 Titan Shard + 1 Sandstone -> 8 Sandstone mini block
-- 1 Titan Shard + 1 Dirt -> 8 Dirt mini block
-- 1 Titan Shard + 1 Deepslate -> 8 Deepslate mini block
-- 1 Titan Shard + 1 Prismarine -> 8 Prismarine mini block
-- 1 Titan Shard + 1 Tuff  -> 8 Tuff mini block
-- 1 Titan Shard + 1 Moss Block  -> 8 Moss Block mini block
-- 1 Titan Shard + 1 Nether Wart Block  -> 8 Nether Wart Block mini block
-- 1 Titan Shard + 1 Glowstone  -> 8 Glowstone mini block
-- 1 Titan Shard + 1 Cobblestone -> 8 Cobblestone mini block
-- 1 Titan Shard + 1 Bricks -> 8 Bricks mini block
-- 1 Titan Shard + 1 Deepslate Coal Ore -> 8 Deepslate Coal Ore mini block
-
+It is unknown if there is any block that cant be made into a mini block this way.
+  
 ## Jenner <a name="jenner"></a>
 
 Coords: x: 499940, y: 106, z: 404
