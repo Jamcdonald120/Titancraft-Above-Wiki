@@ -81,7 +81,8 @@ Luckily, Volt is still an iron golem and as such has AI that the player can use 
 **Rewards:**
 - 4 Titanshards
 - 1 SpEciAL Poppy
-
+- Channling Trident
+  
 ## Kermode <a name="kermode"></a>
 
 Kermode spawns in the Snowy biome inside of a cave. I don't have much to say here, she's a bear. She mauls you. if a player defeats Kermode without a weapon that player gets the [With my Bear hands!](advancements.md#with-my-bear-hands) achievement. 
