@@ -94,7 +94,7 @@ Kermode spawns in the Snowy biome inside of a cave. I don't have much to say her
 **Rewards:**
 
 - 1 Titanshard
-- ~64 blue ice
+- ~32 blue ice
 
 ## Broodmother <a name="broodmother"></a>
 
