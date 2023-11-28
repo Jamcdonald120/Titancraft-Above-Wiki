@@ -20,7 +20,7 @@ Angler|Only catches Fish (no Junk or Treasure). |Fishing rod
 Rush|Permanently gives you the speed beacon effect|Pants
 Picky|Eliminates the chance for Junk or Treasure, and increases the chances for Tropical or Pufferfish (decreasing the chances of Cod)|Fishing Rod
 
-In this google spreadsheet we try to keep track of which Enchantments are able to go on which tools/gear specifically and what they do. Feel free to add changes to the doc if you have new information.
-https://docs.google.com/spreadsheets/d/1zKhgQ5w0t3z0gVz6x-AaQFFGCDRWLfawK56m1KbemzE/edit?usp=sharing
+In this <a href="https://docs.google.com/spreadsheets/d/1zKhgQ5w0t3z0gVz6x-AaQFFGCDRWLfawK56m1KbemzE/edit?usp=sharing">Google Spreadsheet</a> we try to keep track of which Enchantments are able to go on which tools/gear specifically and what they do. Feel free to add changes to the doc if you have new information.
+ 
 
 
