@@ -21,3 +21,6 @@ Rush|Permanently gives you the speed beacon effect|Pants
 Picky|Eliminates the chance for Junk or Treasure, and increases the chances for Tropical or Pufferfish (decreasing the chances of Cod)|Fishing Rod
 Hydrate|Turns grass into sea grass, ferns into kelp, and most importantly dirt into mud|Shears
 Persist|Extends the despawn timer of the item enchanted with the enchantment to 30 game minutes (at level 5 (presumably this adds 5 minutes per level, plus the original 5 minutes))|Tools/Weapons (Presumably)/ Armor (presumably)
+
+In this google spreadsheet we keep track of all the enchantments on specific tools/gear and what they affect. Feel free to help make this a more complete list.
+https://docs.google.com/spreadsheets/d/1zKhgQ5w0t3z0gVz6x-AaQFFGCDRWLfawK56m1KbemzE/edit?usp=sharing
