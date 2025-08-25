@@ -4,9 +4,9 @@
 
 The Above is a deadly dimension modded in Titancraft. The Above is filled with crazy landscapes, bosses, puzzles, and a horde of crazy strong hostile mobs. This guide is a community work based on the guide originally created by avivg2001, Trollentia, and Arvital. This guide should be considered a work in progress, and as such has parts that need to be filled out and/or edited. If you are willing to contribute to the guide, or if you have any questions you may contact jamcdonald120 through Discord OR just create a pull request on the [github](https://github.com/Jamcdonald120/Titancraft-Above-Wiki/tree/gh-pages).
 ## Accessing
-![The shrine used to access The Above](accessing.png)
+![The shrine used to access The Above](accessingS10.png)
 
-To access the Above, the player needs to stand in the middle of the wood shrine, in the under ground area of spawn.
+To access the Above, the player needs to climb into the balloon basket located on top of the spawn factory building.
 
 ## Traits
 
