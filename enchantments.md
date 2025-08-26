@@ -9,18 +9,22 @@ Name|Effect|Comes on
 Philia: (block)|Turns one kind of block to a specific block that is written in the (block) space<br>For example, when used on leaves it causes saplings of the named Philia type to drop even if one is not using shears or silk touch (ie. breaking spruce leaves yields acacia saplings with Philia: Acacia)|Pickaxe<br>Axe<br>Shears<br>Hoe
 Green thumb|It make things “green”|Tools
 Void|The player gets no loot from mobs|Tools/Weapons
-Pulverize|Turns coarse dirt into gravel, and gravel into sand. Nether wart blocks to nether warts|Pickaxe<br>Shears<br>Shovels
+Pulverize|Turns coarse dirt into gravel, and gravel into sand. Nether wart blocks to nether warts|Tools
 Extract|Can do the following things:<br>wet sponges -> water buckets<br>andesite -> diorite<br>granite -> nether quartz<br>diorite -> nether quartz|Tools
 Bleach|Removes the dye color from blocks.|Tools
 Squid Jig|Gives the fishing rod a higher chance to pull up an ink sack.<br>Sadly it does not make a squid dance :(|Fishing Rod
 Catch and Release|Have a chance to catch buckets with fish inside. The buckets can obtain cods, salmons, puffer-fishes, and all kinds of tropical fish.|Fishing rods
 Forge|Changes blocks as if they had been through a smelter.<br>Ore > Ingots<br>Sand > Glass<br>Sandstone > Smooth sandstone<br>Quartz block > Smooth Quartz block<br>Netherrack > Nether bricks (the loose bricks not the block)<br>Nether brick block > Cracked nether brick<br>Polished blackstone brick block > Cracked polished blackstone brick block<br>Doesn’t work on stone bricks for some reason. |Tools, fishing rods
-Chisel|Changes items to a different variant (ironically not their chiseled one in most cases.)<br><br>Sandstone > Cut sandstone<br>Quartz block > Quartz brick block<br>Nether brick block > Chiseled nether brick<br>(Does not seem to work on stone bricks or polished/any kind of blackstone.)|tools
+Chisel|Changes items to a different variant (ironically not their chiseled one in most cases.)<br><br>Sandstone > Cut sandstone<br>Quartz block > Quartz brick block<br>Nether brick block > Chiseled nether brick<br>(Does not seem to work on stone bricks or polished/any kind of blackstone.)|Tools
 Angler|Only catches Fish (no Junk or Treasure). |Fishing rod
 Rush|Permanently gives you the speed beacon effect|Pants
 Picky|Eliminates the chance for Junk or Treasure, and increases the chances for Tropical or Pufferfish (decreasing the chances of Cod)|Fishing Rod
-Hydrate|Turns grass into sea grass, ferns into kelp, and most importantly dirt into mud|Shears
+Hydrate|Turns grass into sea grass, ferns into kelp, and most importantly dirt into mud|Tools (except shovel)/Weapons
 Persist|Extends the despawn timer of the item enchanted with the enchantment to 30 game minutes (at level 5 (presumably this adds 5 minutes per level, plus the original 5 minutes))|Tools/Weapons (Presumably)/ Armor (presumably)
+Bane of swine|Effective against "pig type" mobs|Weapons
+Bane of mortals|Effective against players and "normal mortal type" mobs|Weapons
+Resonance|Unsure yet|Shard
+Glass cutter|Instamining glass (exclusive with silk touch)|Tools
 
 In this <a href="https://docs.google.com/spreadsheets/d/1zKhgQ5w0t3z0gVz6x-AaQFFGCDRWLfawK56m1KbemzE/edit?usp=sharing)">Google Spreadsheet</a> we keep track of all the enchantments on specific tools/gear and what they affect. Feel free to help make this a more complete list.
 
