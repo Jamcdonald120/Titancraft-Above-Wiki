@@ -75,9 +75,12 @@ Item frame coupon: allows the player to make Item Frames invisible…? I don't k
 
 Mob modification coupon: allows the player to change a mob AI as they wish (for example removing their AI, making them passive ect…)
 
-spawner coupons: allows the player…. pls help me I don't know what a spawner coupon does D:
+spawner coupons: gives players a decorative, non-functional spawner of a mob of their choice.
 
-Armorstand, block, book/sign, Item frame, mob modification, spawner coupons cannot be redeemed automatically through 
+size coupons: let players rescale a mob with a nametag.
+
+sound coupons: let players upload a sound to play on the server.
+
 
 ## Power Potion
 
@@ -102,4 +105,6 @@ Get transported to the above
 ## Luck
 
 1 minute of luck
+
+
 
