@@ -18,9 +18,12 @@ No matter how far you will fly, when going back to the Overworld you will get ba
 The islands in the Above have teleport gates which allow a player on foot to move from island to island.  Each gate is color coded to its opposite and all gates are bi-directional. 
 ![An image of the Above with gates that let you travel between islands.](gate.png)
 
-Here is a map that includes the gates.
+The following map includes all points of interest:
 
-![Map with gates](gate_map.png)
+<details>
+  <summary>Spoiler!: Annotated map with all points of interest.</summary>
+  <img src="SPOILER_annotated_map.png" title="Annotated map"/>
+</details>
 
 ## Environment
 
