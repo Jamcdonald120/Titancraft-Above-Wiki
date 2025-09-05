@@ -10,7 +10,7 @@ To access the Above, the player needs to climb into the balloon basket located o
 
 ## Traits
 
-The Above is formed by a bunch of floating islands separated by the “Void”. A player which falls off into the void will be teleported to the Overworld, high in the sky over the Shopping District. The player will safely land in the ocean by the ship.  Note: items that fall into the void are lost.  Be cautious when arranging your inventory while falling and avoid dying near the edge of an island.
+The Above is formed by a bunch of floating islands separated by the “Void”. A player which falls off into the void will be teleported to the Overworld, high in the sky over the Shopping District. The player will safely land on a landing pad.  Note: items that fall into the void are lost.  Be cautious when arranging your inventory while falling and avoid dying near the edge of an island.
 
 The Above is Adventure Mode only, so players can't break or place any item or block there, but will be able to interact with chests, levers, buttons etc.
 Most creatures found in the Above are hostile and deadly.
