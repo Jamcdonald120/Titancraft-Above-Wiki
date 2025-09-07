@@ -2,56 +2,56 @@
 
 ## Titan Shard
 
-![Titan Shard](./loot/titan-shard.png){:width="64px"}
+![Titan Shard](./loot/titan-shard.png)
 
 Titan Shards are obtained by defeating mob bosses or solving the Mansion puzzle. These Titan shards later can be traded in to get unique rewards, including weapons, armor, and equipment with impossible to craft enchantments! 
 
 ## Head Hunter Axe
 
-![Head Hunter Axe](./loot/head-hunter-axe.png){:width="64px"}
+![Head Hunter Axe](./loot/head-hunter-axe.png)
 
 The Head Hunter Axe is obtained by defeating Von Fiend. This axe has 1 durability and is capable of one-shotting any normal mob in the game. Hitting a mob with it will destroy the axe, and reward the player with the head of the mob.
 
 ## Disappearing Potion
 
-![Disappearing Potion](./loot/disappearing-potion.png){:width="64px"}
+![Disappearing Potion](./loot/disappearing-potion.png)
 
 Gives the player 15 mins of invisibility.
 
 ## Draught of deadliness
 
-![Draught of Deadliness](./loot/draught-of-deadliness.png){:width="64px"}
+![Draught of Deadliness](./loot/draught-of-deadliness.png)
 
 Haste II (3:00)
 When Applied +20% Attack speed.
 
 ## Blackness Brew
 
-![Blackness Brew](./loot/blackness-brew.png){:width="64px"}
+![Blackness Brew](./loot/blackness-brew.png)
 
 blindness (5:00)
 
 ## Distilled Daylight
 
-![Daylight Distilled](./loot/daylight-distilled.png){:width="64px"}
+![Daylight Distilled](./loot/daylight-distilled.png)
 
 Night vision (30:00)
 
 ## Salamander Serum
 
-![Salamander Serum](./loot/salamander-serum.png){:width="64px"}
+![Salamander Serum](./loot/salamander-serum.png)
 
 Fire Resistance (30:00)
 
 ## BOOM stick
 
-![BOOM stick](./loot/boomstick.png){:width="64px"}
+![BOOM stick](./loot/boomstick.png)
 
 Knockback X
 
 ## Coupons
 
-![Coupon](./loot/coupon.png){:width="64px"}
+![Coupon](./loot/coupon.png)
 
 There are a variety of things coupons can do that players could not be able to do in vanilla survival. Each kind of coupon allows the player to do a diffrent thing, and when used they disappear. Most of the coupon can be redeemed in the Kiosk under the volcano pathway at spawn.
 
