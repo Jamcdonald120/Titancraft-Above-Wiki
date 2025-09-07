@@ -43,27 +43,14 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Jamcdonald120/Titancraft-Above-Wiki/blob/gh-pages/',
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   feedOptions: {
-        //     type: ['rss', 'atom'],
-        //     xslt: true,
-        //   },
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/Jamcdonald120/Titancraft-Above-Wiki/blob/gh-pages/',
-        //   // Useful options to enforce blogging best practices
-        //   onInlineTags: 'warn',
-        //   onInlineAuthors: 'warn',
-        //   onUntruncatedBlogPosts: 'warn',
-        // },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -94,11 +81,11 @@ const config: Config = {
         //   position: 'left',
         //   label: 'Wiki',
         // },
-        {to: '/docs/category/bosses', label: 'Bosses', position: 'left'},
-        {to: '/docs/category/npcs', label: 'NPCs', position: 'left'},
-        {to: '/docs/category/structures', label: 'Structures', position: 'left'},
-        {to: '/docs/advancements', label: 'Advancements', position: 'left'},
-        {to: '/docs/enchantments', label: 'Enchantments', position: 'left'},
+        {to: '/bosses', label: 'Bosses', position: 'left'},
+        {to: '/npcs', label: 'NPCs', position: 'left'},
+        {to: '/structures', label: 'Structures', position: 'left'},
+        {to: '/advancements', label: 'Advancements', position: 'left'},
+        {to: '/enchantments', label: 'Enchantments', position: 'left'},
         {
           href: 'https://github.com/Jamcdonald120/Titancraft-Above-Wiki/',
           label: 'GitHub',
@@ -112,11 +99,11 @@ const config: Config = {
         {
           title: 'Wiki',
           items: [
-            {to: '/docs/category/bosses', label: 'Bosses'},
-            {to: '/docs/category/npcs', label: 'NPCs'},
-            {to: '/docs/category/structures', label: 'Structures'},
-            {to: '/docs/advancements', label: 'Advancements'},
-            {to: '/docs/enchantments', label: 'Enchantments'},
+            {to: '/bosses', label: 'Bosses'},
+            {to: '/npcs', label: 'NPCs'},
+            {to: '/structures', label: 'Structures'},
+            {to: '/advancements', label: 'Advancements'},
+            {to: '/enchantments', label: 'Enchantments'},
           ],
         },
         {
