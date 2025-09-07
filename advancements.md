@@ -27,7 +27,7 @@
 | Glory Hog <a name="glory-hog"></a> | Get the killing blow on all 3 Fallen One Stages | Really?! You could not let anyone have the final say could you |
 | Bond, James Bond <a name="james-bond"></a> | Kill one of each of the Fallen Specters | You're on a murder spree |
 | Cleaning house <a name="cleaning-house"></a>| Solve the Dark Mansion's puzzle after clearing it of illagers | well thats impressive, you just commited a genocide! |
-| Above Them All | Defeat each of the Above's boss mobs | Geez. If you get this achievement you are a legend! maybe let some others try getting this achievement too. |
+| Above Them All | Defeat each of the Above's boss mobs | Geez. If you get this achievement you are a legend! maybe let some others try getting this achievement too.<br/><br/>Bosses:<br/>Kermode<br/>Brood Mother<br/>Queen Bee<br/>Von Fiend<br/>Gremora <br/>Midas<br/>Volt |
 | Clean coup <a name="clean-coup"></a> | Kill the Queen, *without* killing any of her subjects | It is a hive mind, once the head is gone, everything is falling apart. all you gotta focus is the head. |
 | It Cost Everything <a name="it-cost-everything"></a> | Kill Gremora... Alone | now THAT'S impressive! must have been an epic battle… can’t believe you didn’t waited for me, I would have brought along some popcorn! |
 | With my Bear hands! <a name="with-my-bear-hands"></a>| Defeat Kermode without a weapon | hehe, Kermode goes Brrrrrr…... |
