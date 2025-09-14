@@ -18,8 +18,8 @@ const config: Config = {
   url: 'https://jamcdonald120.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // baseUrl: '/Titancraft-Above-Wiki/',
-  baseUrl: '/',
+  baseUrl: '/Titancraft-Above-Wiki/',
+  // baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
