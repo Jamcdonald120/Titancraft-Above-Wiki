@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Titancraft Above Wiki',
   tagline: 'The wiki for the Above on Titancraft, Tangotek\'s private patreon minecraft server',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/blimp-icon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -70,10 +70,10 @@ const config: Config = {
     // image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Titancraft Above Wiki',
-      // logo: {
-      //   alt: 'Titancraft Above Wiki Logo',
-      //   src: 'img/logo.svg',
-      // },
+      logo: {
+        alt: 'Titancraft Above Wiki Logo',
+        src: 'img/blimp-icon.svg',
+      },
       items: [
         // {
         //   type: 'docSidebar',
