@@ -38,6 +38,10 @@ The following map includes all points of interest:
   ![Annotated map](./SPOILER_annotated_map.png)
 </details>
 
+<Spoiler context="Annotated map with all points of interest.">
+	![Annotated map](./SPOILER_annotated_map.png)
+</Spoiler>
+
 ## Environment
 
 The Above features a unique terrain formed by biome-specific islands in the sky. Between the islands is a vast expanse of nothingness known as the Void.
