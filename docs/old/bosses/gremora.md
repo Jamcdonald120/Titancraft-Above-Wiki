@@ -9,7 +9,7 @@ Gremora spawns inside the witch hut in the Swamp biome. While Gremora is active,
 - Healing, Regeneration, food, full armor, totems suggested because Gremora and her witch minions deal a lot of damage.
 - Ender pearls to get to her faster when slowed down by her slowness pots.
 
-A player that kills Gremora alone will achieve the [It Cost Everything](advancements.md#it-cost-everything) achievement.
+A player that kills Gremora alone will achieve the [It Cost Everything](../advancements.md#it-cost-everything) achievement.
 
 **Difficulty Level:** Hard
 

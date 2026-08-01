@@ -82,11 +82,11 @@ const config: Config = {
         //   position: 'left',
         //   label: 'Wiki',
         // },
-        {to: '/bosses', label: 'Bosses', position: 'left'},
-        {to: '/npcs', label: 'NPCs', position: 'left'},
-        {to: '/structures', label: 'Structures', position: 'left'},
-        {to: '/advancements', label: 'Advancements', position: 'left'},
-        {to: '/enchantments', label: 'Enchantments', position: 'left'},
+        // {to: '/bosses', label: 'Bosses', position: 'left'},
+        // {to: '/npcs', label: 'NPCs', position: 'left'},
+        // {to: '/structures', label: 'Structures', position: 'left'},
+        // {to: '/advancements', label: 'Advancements', position: 'left'},
+        // {to: '/enchantments', label: 'Enchantments', position: 'left'},
         {
           href: 'https://github.com/Jamcdonald120/Titancraft-Above-Wiki/',
           label: 'GitHub',
@@ -100,11 +100,11 @@ const config: Config = {
         {
           title: 'Wiki',
           items: [
-            {to: '/bosses', label: 'Bosses'},
-            {to: '/npcs', label: 'NPCs'},
-            {to: '/structures', label: 'Structures'},
-            {to: '/advancements', label: 'Advancements'},
-            {to: '/enchantments', label: 'Enchantments'},
+            // {to: '/bosses', label: 'Bosses'},
+            // {to: '/npcs', label: 'NPCs'},
+            // {to: '/structures', label: 'Structures'},
+            // {to: '/advancements', label: 'Advancements'},
+            // {to: '/enchantments', label: 'Enchantments'},
           ],
         },
         {

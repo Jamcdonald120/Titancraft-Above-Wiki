@@ -4,7 +4,7 @@
 
 Coords: x: 50293, y: 93, z: 608
 
-Victor is a quest giver located in a tower in the Lake biome to the south-east. After completing a quest you will receive the [Go Quest, Young Man](advancements.md#go-quest-young-man) advancement.
+Victor is a quest giver located in a tower in the Lake biome to the south-east. After completing a quest you will receive the [Go Quest, Young Man](../advancements.md#go-quest-young-man) advancement.
 
 There are various quests.
 

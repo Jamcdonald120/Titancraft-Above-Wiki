@@ -2,7 +2,7 @@
 
 Volt spawns in his own little island just south of the central spawn island. He is an iron golem infused with the power of ELECTRICITY allowing him to zap players, spawn charged creepers, and move at lightning speeds. Due to the nature of the fight, it is easy to get killed immediately after a totem pop. Volt has several different custom attacks, including hurling the player up into the air, leaping into the air and stomping on the player, summoning lightning bolts, and charging creepers.
 
-Getting hit by one of his lightning bolts grants the achievement [thunder struck](advancements.md#thunder-struck).
+Getting hit by one of his lightning bolts grants the achievement [thunder struck](../advancements.md#thunder-struck).
 
 Luckily, Volt is still an iron golem and as such has AI that the player can use to their advantage: he will always prioritize attacking hostile mobs, including phantoms. This can help give the player time to recover from his fast, unrelenting damage output.
 

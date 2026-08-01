@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+[Season 10 and earlier](./old/intro.md)
+
 - Horses
 - Pig races
 	- 6 pigs
