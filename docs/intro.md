@@ -2,32 +2,63 @@
 sidebar_position: 1
 ---
 
+# Getting started
+
+:::note
+
+The wiki is in the process of being updated for the current season. If you have any updates or corrections you can edit this on Github or post in the Discord channel.
+
+:::
+
+The Above is a deadly dimension on the Titancraft server. The Above is filled with crazy landscapes, bosses, puzzles, and a horde of crazy strong hostile mobs. This guide is a community work with contributions from many people. If you want to contribute to the guide, or if you have any questions you may contact jamcdonald120 or AaronAsAChimp through Discord or create a pull request on the [Github](https://github.com/Jamcdonald120/Titancraft-Above-Wiki/tree/gh-pages).
+
+## Reporting bugs
+
+Any issues regarding the Above (not including this wiki) can be submitted to the [Titancraft bug tracker](https://github.com/Titancraft-Datapacking/Titancraft-BugTracker/issues).
+
+## Getting ready
+
+Before entering, the above is best experienced with no gamma mod and hit boxes turned off. There is a high likelyhood of dieing, do not bring any armor, tools, or items that you don't want to loose.
+
+To access the Above, use the launch platform located at spawn. You will need to accept the EULA before entering.
+
+:::note
+
+Items that fall into the void are lost. Be cautious when arranging your inventory while falling and avoid dying near the edge of an island.
+
+:::
+
+## The Above spawn
+
+You will arrive in the Above falling into a pond on the central spawn island. From there you can access the other islands through the portals located near the edges of the island.
+
+The Above is Adventure Mode only, so you can't break or place any items or blocks including shulkers, but will be able to interact with chests, levers, and buttons. Make sure everything you need is in your inventory, enderchest, or bundles.
+
+There are many NPCs around the Above.
+
+### The well
+
+To trade Titanshards for loot you can go to the well on the Above spawn island. There you can choose your loot category and drop the required shards into the well. Activating the lever will raise the bucket in the well and retrieve your loot.
+
+Categories
+
+- Random - 3 Titanshards
+- Weapon - 5 Titanshards
+- Tool - 5 Titanshards
+- Armor - 5 Titanshards
+- Coupon- 5 Titanshards
+- Resource - 5 Titanshards
+- Potion - 5 Titanshards
+
+## Returning from the Above
+
+To return from the Above jump of the edge of any island. You will fall and return to the Overworld safely landing in a pool of water at spawn. Say "Hi" to the Emotional Support Squid!
+
+## Previous seasons of the above
+
 [Season 10 and earlier](./old/intro.md)
 
-- Use regular bug reporting in server links
-- You will need to accept the EULA to enter the above
-- Best experienced with no gamma mod and hit boxes turned off
-- Transportation
-	- Elytra doesn't work
-		- "The air is too think for regular elytra"
-	- Walk faster on paths
-	- Portals
-	- Horses
-		- Deposit of 1 titan shard is required
-		- No elytra
-		- Get deposit back when returning horse
-	- Chorus fruit work in some spots
-	- 2 other undocumented means of transporation
-		- Special elytra?
-- Above spawn
-	- Can not place shulkers, you are limited to what you can get out of your ender chest or bundles.
-- Well
-	- Need titan shard
-	- Choose category 
-		- Random is 3 titan shards
-		- The others are 5 titan shards
-	- throw them in the well and flip lever
-		- Loot in 
+
 - Pig races
 	- 6 pigs, you can have 2-6 players race
 	- first to get 30 points
@@ -183,3 +214,79 @@ sidebar_position: 1
 	- Resetting is based on player who loads
 		- If a player runs an event more often it will reset less often for them
 
+----
+
+From sassy2face
+
+New Titan Splinters
+    9 titan splinters = 1 titanshard gem
+    throw splinters on dais in front of morgana in the above village
+    new cheaper way to convert later (to be figured out by patrons >_>)
+Titan Shards reward change
+    3 shards - random reward
+    5 shards - selected reward (from chosen category)
+6 categories
+    Weapon
+    Tool
+    Armor
+        new leap enchantment (pants)
+    Coupon
+    Resource
+        SHERDS
+    Potion
+NEW ABOVE RECAP (<10% was shown on stream)
+*disabled elytra "the air is too thin"
+*horses, portals, and 2 other forms of movement 
+*A DOZEN quests added
+*mobs now in the above ON PURPOSE
+*many bosses in the above have a hardened skin that an arrow just cant penetrate
+-pig races
+    much bigger island 
+    now 6 piggies for 6 players at once
+    beacons are rainbow ordered:
+        red     - 1 pt
+        yellow     - 2 pts
+        green    - 3 pts
+        blue    - 4 pts
+        purple    - 5 pts
+-bunnies
+    no changes
+-beastmaster (NEW)
+    located in mangrove swamp
+    defeat the beasts to defeat the beastmaster
+-archery (NEW to the above)
+    all the same points
+    points only count if you hit the center of the block
+    whoever can hit the most wins
+    must use the CROSSBOW
+    40 points and above you get rewards for playing
+-Ragnok's Cave
+    TIME HEIST
+    click the totem, get locked in, and search for gems to place on the pedestals
+    once all the gems are in, Ragnok the Undying spawns "wearing lingerie" (thanks zed)
+    defeat all the totems to defeat the big boss, climb the vine to exit
+-save the baby turtle (quest)
+    tropical palm island
+    defeat the turtle haters and save the baby turtles
+-boat races
+    viewing platform on top
+    5 levels and a leaderboard!
+    jumping out the boat forfeits current boat run
+    each level has different "training" challenges
+    goal = get to the gold blocks
+    arena hosts the race, level determines the difficulty of your race
+-strider piggies
+    one gold block spawns at a time
+    2 levels, 3 sets of stairs in different corners
+    if you get off your mob, you can't get back in
+-fallen one fight
+    each spectre drops a soul, use the hearts to summon fallen one
+    throw soul onto pedestal for lore along the way
+    can only use one soul at a time
+    *need 3 souls in total, 3 separate souls
+    when boss bar is white, he is invulnerable, no damage taken at all
+    when boss bar is red, fallen one can be damaged
+    glowing minions are stream mods, plus Anita 
+    needs 10 hits by a thrown trident (middle bar)
+Have fun consolidating lol lmk if you have any questions on my notes 😅 
+also can i get that wiki link?? Lol thanks again ❤️‍🔥
