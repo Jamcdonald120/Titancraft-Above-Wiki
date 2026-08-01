@@ -43,7 +43,6 @@ sidebar_position: 1
 		- Immune when he has a pet out
 - Mesa
 	- Stables in mesa
-	- Press button on command block to get to Archery
 	- Archery
 		- Need two free inventory slots
 		- Shoot target blocks
@@ -52,10 +51,11 @@ sidebar_position: 1
 		- Use crossbow
 			- Single click to use
 			- Do not have other arrows in inventory, the supplied arrow has special metadata on it.
+		- 40 points and above you get rewards for playing
 - Time heist
 	- click totem
-	- get locked in 
-	- collect 4 gems
+	- get locked in
+	- collect 4 gems and place them on the pedestle
 		- Diamond block
 		- Amethist
 		- ...
@@ -81,6 +81,7 @@ sidebar_position: 1
 	- Boat race
 		- (seems unchanged)
 		- 5 levels
+		- Getting out the boat forfeits current boat run
 		- Arenas are the empty bays
 			- Entering an already occupied arena will allow you to spectate
 		- Levels are the course
@@ -88,12 +89,15 @@ sidebar_position: 1
 	- Strider race
 		- (same as pigs, but go for the glowing blocks)
 		- Only one glowing block is availa at a time
+		- 2 levels, 3 sets of stairs in different corners
+		- If you get off your mob, you can't get back in
 - Volcano island
 	- Castle from Tango's patreon announcement
 	- (boss) The fallen one
 		- (unchanged?)
 		- Hunt spectres
 			- Each drops a soul
+			- You will need 3 souls total
 		- Drop souls on pedestle (lodestone)
 		- Each door has its own lock (lodestone)
 			- Can only use one stone at a time
@@ -168,5 +172,6 @@ sidebar_position: 1
 ## Technical
 
 	- Above is on a separate server
-	- 
+	- Resetting is based on player who loads
+		- If a player runs an event more often it will reset less often for them
 
