@@ -4,12 +4,16 @@ sidebar_position: 1
 
 [Season 10 and earlier](./old/intro.md)
 
+- Use regular bug reporting in server links
 - Transportation
+	- Walk faster on paths
 	- Horses
+		- Deposit of 1 titan shard is required
 		- No elytra
 		- Get deposit back when returning horse
-	- Walk faster on paths
+	- Chorus fruit work in some spots
 	- 2 other undocumented means of transporation
+		- Special elytra?
 - Well
 	- Need titan shard
 	- Choose category 
@@ -63,7 +67,7 @@ sidebar_position: 1
 		- After collecting the gems the boss spawns
 		- Ragnok the Undying
 	- Exit through the glowberry vines in center
-- Desert
+- Ocean island
 	- Quests
 		- Defend turtles from waves of mobs.
 			- the quest fails if all 5 turtles dies
@@ -116,6 +120,8 @@ sidebar_position: 1
 		- Throw shards in the well?
 	- Spin the wheel
 		- Choose random category from well
+	- Not enough minerals
+	- Run away
 - Loot
 	- Titan splinters
 		- Throw splinters on table in front of Morgana
@@ -132,7 +138,7 @@ sidebar_position: 1
 
 ## Background
 
-- 5.5 years to build
+- 5.5 years to build - started in November 2020
 	- Building
 		- Drop
 		- Aelfy
@@ -143,4 +149,11 @@ sidebar_position: 1
 		- DeadNight
 		- Mirabella
 - Tree is from Drop's base - 3 seasons ago
+- All of the islands were made by Aelfy using World Painter
+- Ocean island - world painter didn't have a setting for coral or kelp so all of it was added by hand by Lite and Aelfy
+
+## Technical
+
+	- Above is on a separate server
+	- 
 
