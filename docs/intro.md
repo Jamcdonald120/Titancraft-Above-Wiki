@@ -10,6 +10,13 @@ sidebar_position: 1
 		- Get deposit back when returning horse
 	- Walk faster on paths
 	- 2 other undocumented means of transporation
+- Well
+	- Need titan shard
+	- Choose category 
+		- Random is 3 titan shards
+		- The others are 5 titan shards
+	- throw them in the well and flip lever
+		- Loot in 
 - Pig races
 	- 6 pigs
 	- first to get 30 points
@@ -99,12 +106,29 @@ sidebar_position: 1
 					- if you pick up a used one it wont throw and you can discard it.
 			- Phase 3 swords
 			- When te boss bar is white he is invulnerable
-			- 
+
+		- Arena designed by Asher with detailing by Aelfy and Zalvy
 - Achievements
 	- Hot feet walkin'!
 		- From Strider race
-- Titan splinters
-
+	- Break the fallen
+	- Whats that Lassie?!
+		- Throw shards in the well?
+	- Spin the wheel
+		- Choose random category from well
+- Loot
+	- Titan splinters
+		- Throw splinters on table in front of Morgana
+		- 9 splinters make 1 Titanshard
+			- Cheaper way to conver to titan shards?
+	- Titan shard
+	- Well loot
+		- Mace - Bane of mortals
+		- Leggings - Leap 2
+		- Extra suspicious stew
+			- Night vision
+		- Boomstick
+		- Every sherd
 
 ## Background
 
@@ -119,5 +143,4 @@ sidebar_position: 1
 		- DeadNight
 		- Mirabella
 - Tree is from Drop's base - 3 seasons ago
-- 
 
