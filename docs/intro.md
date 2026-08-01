@@ -5,6 +5,8 @@ sidebar_position: 1
 [Season 10 and earlier](./old/intro.md)
 
 - Use regular bug reporting in server links
+- You will need to accept the EULA to enter the above
+- Best experienced with no gamma mod and hit boxes turned off
 - Transportation
 	- Elytra doesn't work
 		- "The air is too think for regular elytra"
@@ -17,6 +19,8 @@ sidebar_position: 1
 	- Chorus fruit work in some spots
 	- 2 other undocumented means of transporation
 		- Special elytra?
+- Above spawn
+	- Can not place shulkers, you are limited to what you can get out of your ender chest or bundles.
 - Well
 	- Need titan shard
 	- Choose category 
@@ -25,7 +29,7 @@ sidebar_position: 1
 	- throw them in the well and flip lever
 		- Loot in 
 - Pig races
-	- 6 pigs
+	- 6 pigs, you can have 2-6 players race
 	- first to get 30 points
 	- ride through the beacon beams (rainbow order is less points?)
 		- Red - 1 pt
@@ -36,6 +40,7 @@ sidebar_position: 1
 - Bunny egg hunt
 	- Killer bunnies
 	- Find all of the eggs
+	- Will respawn here if you die
 - Mangrove swamp
 	- New Boss
 	- Beastmaster (Piglin brute)
@@ -95,6 +100,7 @@ sidebar_position: 1
 	- Castle from Tango's patreon announcement
 	- (boss) The fallen one
 		- (unchanged?)
+		- Arena designed by Asher with detailing by Aelfy and Zalvy
 		- Hunt spectres
 			- Each drops a soul
 			- You will need 3 souls total
@@ -113,12 +119,12 @@ sidebar_position: 1
 			- Phase 1 swords
 			- Phase 2 use tridents
 				- Hit him with the trident when the boss bar is red
+				- Needs 10 hits from a trident
 				- Tridents only work once
 					- if you pick up a used one it wont throw and you can discard it.
 			- Phase 3 swords
-			- When te boss bar is white he is invulnerable
-
-		- Arena designed by Asher with detailing by Aelfy and Zalvy
+			- When the boss bar is white he is invulnerable, wait until the bar is red to attack
+			- Will respawn here if you die
 - Achievements
 	- Hot feet walkin'!
 		- From Strider race
@@ -139,6 +145,7 @@ sidebar_position: 1
 		- Random
 		- Weapon
 			- Mace - Bane of mortals
+			- Head Humber Axe
 		- Tool
 			- Boomstick
 				- (correct category?)
@@ -167,6 +174,7 @@ sidebar_position: 1
 - Wanted to make it more than just hard boss fights.
 - Tree is from Drop's base - 3 seasons ago
 - All of the islands were made by Aelfy using World Painter
+- ~80% of the caves were done by Drop
 - Ocean island - world painter didn't have a setting for coral or kelp so all of it was added by hand by Lite and Aelfy
 
 ## Technical
