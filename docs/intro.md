@@ -41,11 +41,16 @@ sidebar_position: 1
 - Time heist
 	- click totem
 	- get locked in 
-	- collect gems
+	- collect 4 gems
+		- Diamond block
+		- Amethist
+	- Enemies
+		- Piglin "... Guard?"
+		- Silver fish called "Ragnok?"
+			- Kill mobs
+		- Puffer fish
+	- Right click on particles in corner of after you get the gem?
 - Titan splinters
-	- 
-
-
 
 
 ## Background
