@@ -61,8 +61,48 @@ sidebar_position: 1
 		- Defend turtles from waves of mobs.
 			- the quest fails if all 5 turtles dies
 - Frozen cave
+	- Enemies
+		- Breeze
+		- (frozen skeletons?)
 	- Boat race
 		- (seems unchanged)
+		- 5 levels
+		- Arenas are the empty bays
+			- Entering an already occupied arena will allow you to spectate
+		- Levels are the course
+- Bastion area
+	- Strider race
+		- (same as pigs, but go for the glowing blocks)
+		- Only one glowing block is availa at a time
+- Volcano island
+	- Castle from Tango's patreon announcement
+	- (boss) The fallen one
+		- (unchanged?)
+		- Hunt spectres
+			- Each drops a soul
+		- Drop souls on pedestle (lodestone)
+		- Each door has its own lock (lodestone)
+			- Can only use one stone at a time
+		- Enemies
+			- "Fallen minion" - Baby zombies with player heads
+				- Phase 1: Mrs. T, and Terk, Aelfy
+				- Phase 2: Stream mods, Anita
+				- Phase 3: Autobot?, 
+				- Strat: Kite minions and have someone else kill them.
+			- Phantoms
+		- Boss
+			- The fallen one (Tango)
+			- Phase 1 swords
+			- Phase 2 use tridents
+				- Hit him with the trident when the boss bar is red
+				- Tridents only work once
+					- if you pick up a used one it wont throw and you can discard it.
+			- Phase 3 swords
+			- When te boss bar is white he is invulnerable
+			- 
+- Achievements
+	- Hot feet walkin'!
+		- From Strider race
 - Titan splinters
 
 
