@@ -6,7 +6,10 @@ sidebar_position: 1
 
 - Use regular bug reporting in server links
 - Transportation
+	- Elytra doesn't work
+		- "The air is too think for regular elytra"
 	- Walk faster on paths
+	- Portals
 	- Horses
 		- Deposit of 1 titan shard is required
 		- No elytra
@@ -25,11 +28,11 @@ sidebar_position: 1
 	- 6 pigs
 	- first to get 30 points
 	- ride through the beacon beams (rainbow order is less points?)
-		- Red
-		- Yellow
-		- Green
-		- Blue
-		- Purple
+		- Red - 1 pt
+		- Yellow - 2 pts
+		- Green - 3 pts
+		- Blue - 4 pts
+		- Purple - 5 pts
 - Bunny egg hunt
 	- Killer bunnies
 	- Find all of the eggs
@@ -129,12 +132,21 @@ sidebar_position: 1
 			- Cheaper way to conver to titan shards?
 	- Titan shard
 	- Well loot
-		- Mace - Bane of mortals
-		- Leggings - Leap 2
-		- Extra suspicious stew
-			- Night vision
-		- Boomstick
-		- Every sherd
+		- Random
+		- Weapon
+			- Mace - Bane of mortals
+		- Tool
+			- Boomstick
+				- (correct category?)
+		- Armor
+			- Leggings - Leap 2
+		- Coupon
+		- Resource
+			- Every sherd
+		- Potion
+			- Extra suspicious stew
+				- Night vision
+				- (correct category?)
 
 ## Background
 
@@ -148,6 +160,7 @@ sidebar_position: 1
 		- Limbrogger
 		- DeadNight
 		- Mirabella
+- Wanted to make it more than just hard boss fights.
 - Tree is from Drop's base - 3 seasons ago
 - All of the islands were made by Aelfy using World Painter
 - Ocean island - world painter didn't have a setting for coral or kelp so all of it was added by hand by Lite and Aelfy
