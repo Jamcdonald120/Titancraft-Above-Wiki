@@ -1,0 +1,3 @@
+- Mesa
+	- Stables in mesa
+	- [Archery](../games/archery)

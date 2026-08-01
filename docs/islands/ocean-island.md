@@ -1,0 +1,4 @@
+- Ocean island
+	- Quests
+		- Defend turtles from waves of mobs.
+			- the quest fails if all 5 turtles dies

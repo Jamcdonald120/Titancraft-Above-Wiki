@@ -1,0 +1,10 @@
+- Achievements
+	- Hot feet walkin'!
+		- From Strider race
+	- Break the fallen
+	- Whats that Lassie?!
+		- Throw shards in the well?
+	- Spin the wheel
+		- Choose random category from well
+	- Not enough minerals
+	- Run away

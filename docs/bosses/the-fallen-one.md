@@ -1,0 +1,28 @@
+# The Fallen One
+
+	- (unchanged?)
+	- Arena designed by Asher with detailing by Aelfy and Zalvy
+	- Hunt spectres
+		- Each drops a soul
+		- You will need 3 souls total
+	- Drop souls on pedestle (lodestone)
+	- Each door has its own lock (lodestone)
+		- Can only use one stone at a time
+	- Enemies
+		- "Fallen minion" - Baby zombies with player heads
+			- Phase 1: Mrs. T, and Terk, Aelfy
+			- Phase 2: Stream mods, Anita
+			- Phase 3: Autobot?, 
+			- Strat: Kite minions and have someone else kill them.
+		- Phantoms
+	- Boss
+		- The fallen one (Tango)
+		- Phase 1 swords
+		- Phase 2 use tridents
+			- Hit him with the trident when the boss bar is red
+			- Needs 10 hits from a trident
+			- Tridents only work once
+				- if you pick up a used one it wont throw and you can discard it.
+		- Phase 3 swords
+		- When the boss bar is white he is invulnerable, wait until the bar is red to attack
+		- Will respawn here if you die
