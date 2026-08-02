@@ -1,4 +1,5 @@
-- Time heist
+# Time heist
+
 	- click totem
 	- get locked in
 	- collect 4 gems and place them on the pedestle

@@ -1,3 +1,7 @@
-- Volcano island
-	- Castle from Tango's patreon announcement, redone with newer blocks
-	- [The Fallen One](../bosses/the-fallen-one.md)
+# Volcano island
+
+- Castle from Tango's patreon announcement, redone with newer blocks
+
+## Bosses
+
+- [The Fallen One](../bosses/the-fallen-one.md)

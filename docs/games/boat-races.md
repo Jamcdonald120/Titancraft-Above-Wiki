@@ -1,0 +1,8 @@
+# Boat races
+
+- (seems unchanged)
+- 5 levels
+- Getting out the boat forfeits current boat run
+- Arenas are the empty bays
+	- Entering an already occupied arena will allow you to spectate
+- Levels are the course

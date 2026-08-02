@@ -1,5 +1,3 @@
-- Mangrove swamp
-	- New Boss
-	- Beastmaster (Piglin brute)
-		- Spawns Beasties (polar bears, sniffers)
-		- Immune when he has a pet out
+# Mangrove swamp
+
+- [Beastmaster](../bosses/beastmaster)
