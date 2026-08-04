@@ -24,3 +24,4 @@ Each island has a material block associated with it.
 |[Mesa Island](mesa.md)|Teracotta||
 |Grimora's Swamp Island|Clay|Grimora|
 |[Snow Mountain Island](snow.md)|Ice|Ice Maze|
+|Dark Oak Forest Island|Dark Oak Planks|The Mansion, Hansel and Gretel|
