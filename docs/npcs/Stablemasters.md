@@ -5,6 +5,7 @@ The Stablemasters are villagers who run the High Horses™ stables dotted around
 |Stablemaster|Branch|Location|Notes|
 |---|---|---|---|
 |Ron|Central|The Village, south west in a two story house|Ron will reminisce about a time Tango visited and they were quite starstruck|
+|Siobhan|South West|Jungle Village||
 |||||
 
 
