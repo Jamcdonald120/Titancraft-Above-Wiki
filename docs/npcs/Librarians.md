@@ -2,7 +2,7 @@
 
 In the Village there are three librarians who work in the library. The library is central to the Village, built of stone and has stained glass windows.
 
-The library also contains ender chests as well as lecturns with information about [Coupons](../loot.md#Coupons)
+The library also contains ender chests as well as lecturns with information about [Coupons](../loot.md#coupons)
 
 ## Giles
 
