@@ -6,10 +6,12 @@ There are a number of traders wandering around the Above that players may encoun
 
 |Name|Wool Color|Items sold|
 |---|---|---|
-|Beau|Blue|Miniblocks|
+|Beau|Blue|Miniblocks - Blocks are semi-randomly generated based on the inventory of the first player to interact per day. Trades require a [Titanshard Gem](../loot.md#gems) as well as the block, in exchange for 8 miniblocks |
 |Bernie/Bonnie|Gray|[Tools](../loot.md#tools)|
 |Bjorn|Brown|[Coupons](../loot.md#coupons)|
 |Bobby|Cyan/White stripes|[Resources](../loot.md#resources)|
+||||
+|Loot Cache|Cyan|No trader, just a pile of loot chests and an ender chest|
 
 :::note
 
