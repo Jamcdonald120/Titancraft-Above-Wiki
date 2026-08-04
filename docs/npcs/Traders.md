@@ -9,7 +9,7 @@ There are a number of traders wandering around the Above that players may encoun
 |Beau|Blue|Miniblocks - Blocks are semi-randomly generated based on the inventory of the first player to interact per day. Trades require a [Titanshard Gem](../loot.md#gems) as well as the block, in exchange for 8 miniblocks |
 |Bernie/Bonnie|Gray|[Tools](../loot.md#tools)|
 |Bjorn|Brown|[Coupons](../loot.md#coupons)|
-|Bobby|Cyan/White stripes|[Resources](../loot.md#resources)|
+|Bobby/Bailey|Cyan/White stripes|[Resources](../loot.md#resources)|
 |Bartholomew/Brooke|White|[Titanshard Gems](../loot.md#gems) - at discounted rates. Generally between 15 and 24 [Titanshard Splinters](../loot.md#splinters) for 3 Gems, which would normally cost 27 at the Shrine of Shattered Shards
 |Bridgette|Black|Armor|
 |Barbara|Green|Books|
