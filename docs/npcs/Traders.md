@@ -10,6 +10,10 @@ There are a number of traders wandering around the Above that players may encoun
 |Bernie/Bonnie|Gray|[Tools](../loot.md#tools)|
 |Bjorn|Brown|[Coupons](../loot.md#coupons)|
 |Bobby|Cyan/White stripes|[Resources](../loot.md#resources)|
+|Bartholomew/Brooke|White|[Titanshard Gems](../loot.md#gems) - at discounted rates. Generally between 15 and 24 [Titanshard Splinters](../loot.md#splinters) for 3 Gems, which would normally cost 27 at the Shrine of Shattered Shards
+|Bridgette|Black|Armor|
+|Barbara|Green|Books|
+|Belinda|Yellow|Potions|
 ||||
 |Loot Cache|Cyan|No trader, just a pile of loot chests and an ender chest|
 
