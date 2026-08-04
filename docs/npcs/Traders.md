@@ -17,4 +17,4 @@ This list is incomplete, please help fill in missing details
 
 :::
 
-Hints to their current locations can be purchased from Harriet for 1 Titanshard Gem.
+Hints to their current locations can be purchased from Harriet for a single Titanshard Gem.
