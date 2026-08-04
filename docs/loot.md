@@ -1,15 +1,16 @@
 # Loot
 
-## Titansplinters
+## Titanshards 
+### Splinters
 
-The loot dropped from most events in the Above is Titansplinters. You can throw 9 Titansplinters on the table in front of Morgana on the spawn island and they will convert them into 1 Titanshard.
+The most frequent loot in the Above is the Titanshard Splinter. These cannot be redeemed on their own and must be converted to Titanshard Gems first. [Morgana](npcs/Morgana.md), the cleric of the Shrine of the Shattered Shard, will convert 9 Splinters into 1 Gem for you. Wandering Traders may offer a better exchange rate.
 
-## Titanshards
+### Gems
 
-Titanshards are a highly sought after currency on Titancraft. They can be traded at the well for special items with special enchantments that are available in the Above.
+Titanshard Gems are the highly sought after currency on Titancraft. They can be exchanged for a random reward at the Well in the Village, or exchanged for specific items with various traders around the Above.
+
 
 ## The well
-
 
 ### Weapons
 
