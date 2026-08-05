@@ -48,7 +48,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Jamcdonald120/Titancraft-Above-Wiki/blob/gh-pages/',
+            'https://github.com/Jamcdonald120/Titancraft-Above-Wiki/blob/main/',
         },
         blog: false,
         theme: {
