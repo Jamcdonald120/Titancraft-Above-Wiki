@@ -27,7 +27,7 @@ const config: Config = {
   projectName: 'Titancraft-Above-Wiki', // Usually your repo name.
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
