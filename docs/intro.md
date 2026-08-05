@@ -4,56 +4,40 @@ sidebar_position: 1
 
 # Getting started
 
+This page is a spoiler free introduction to "what even is the Above?" The rest of this wiki, however will contain spoilers. Readers beware!
+
 :::note
 
 The wiki is in the process of being updated for the current season. If you have any updates or corrections you can edit this on Github or post in the Discord channel.
 
 :::
 
-The Above is a deadly dimension on the Titancraft server. The Above is filled with crazy landscapes, bosses, puzzles, and a horde of crazy strong hostile mobs. This guide is a community work with contributions from many people. If you want to contribute to the guide, or if you have any questions you may contact jamcdonald120 or AaronAsAChimp through Discord or create a pull request on the [Github](https://github.com/Jamcdonald120/Titancraft-Above-Wiki/tree/gh-pages).
+The Above is an entirely custom made deadly dimension built specially for the Titancraft server. It is filled with unique landscapes, single and multiplayer minigames, combat bosses, puzzles, and a ton of secrets to discover. The Above is intended as end-game content and introduces new powerful mobs and game mechanics that aren't in vanilla minecraft. Expect the unexpected, always be on your guard. The Above can be explored solo but is better (and safer) when explored with a friend.. or seven. There are numerous Above exclusive rewards that bring a "vanilla+" style element to Titancraft.
 
-## Reporting bugs
+This guide is a community work with contributions from many players. The Titancraft staff and mods are not involved, it is for players, by players. If you want to contribute to the guide, or if you have any questions, contact jamcdonald120 or AaronAsAChimp through Discord or create a pull request on the [Github](https://github.com/Jamcdonald120/Titancraft-Above-Wiki/tree/gh-pages). Bugs and issues with the Above itself should be reported via the [Titancraft bug tracker](https://github.com/Titancraft-Datapacking/Titancraft-BugTracker/issues).
 
-Any issues regarding the Above (not including this wiki) can be submitted to the [Titancraft bug tracker](https://github.com/Titancraft-Datapacking/Titancraft-BugTracker/issues).
+## Getting ready to go
 
-## Getting ready
+Before entering the Above, there are some things you should know:
 
-Before entering, the above is best experienced with no gamma mod and hit boxes turned off. There is a high likelyhood of dieing, do not bring any armor, tools, or items that you don't want to loose.
+- There is a high likelihood of dying, do not bring any armor, tools, or items that you couldn't bear losing.
+- Items that fall into the void are destroyed.
+- Elytra do not work in the Above.
+- The whole Above is in adventure mode, that means no block placing or destroying. Which, in turn, means you can't unpack items from any shulker boxes. You can take only what you carry.
+- Some challenges reset periodically, if you enter an area and it seems devoid of activity, try coming back later.
+- Some challenges are available with no reset, but have rewards that reset daily.
+- If you accept a quest, leaving the Above before completion and turning it in will fail that quest.
+- The above is best experienced with no gamma mod and hit boxes turned off. Some mods have compatibility issues.
 
-To access the Above, use the launch platform located at spawn. You will need to accept the EULA before entering.
+## Going to the Above
 
-:::note
+When you're geared up and ready to access the Above, use the launch platform located beneath the spawn tree in the overworld. The first time you enter, you will need to read and accept the EULA.
 
-Items that fall into the void are lost. Be cautious when arranging your inventory while falling and avoid dying near the edge of an island.
+## Arrival
 
-:::
-
-## The Above spawn
-
-You will arrive in the Above falling into a pond on the central spawn island. From there you can access the other islands through the portals located near the edges of the island.
-
-The Above is Adventure Mode only, so you can't break or place any items or blocks including shulkers, but will be able to interact with chests, levers, and buttons. Make sure everything you need is in your inventory, enderchest, or bundles.
-
-There are many NPCs around the Above.
-
-### The well
-
-To trade Titanshards for loot you can go to the well on the Above spawn island. There you can choose your loot category and drop the required shards into the well. Activating the lever will raise the bucket in the well and retrieve your loot.
-
-Categories
-
-- Random - 3 Titanshards
-- Weapon - 5 Titanshards
-- Tool - 5 Titanshards
-- Armor - 5 Titanshards
-- Coupon- 5 Titanshards
-- Resource - 5 Titanshards
-- Potion - 5 Titanshards
+Once you've been launched into the sky, you'll fall into a lake on the central island. This island acts as a hub, has many friendly NPCs and, although no area is truly safe in the Above, is generally the safest place to be. From here you can begin your adventure! Good luck, have fun, don't die!
 
 ## Returning from the Above
 
-To return from the Above jump of the edge of any island. You will fall and return to the Overworld safely landing in a pool of water at spawn. Say "Hi" to the Emotional Support Squid!
+To return from the Above jump of the edge of any island into the void. You will fall and return to the Overworld safely landing in a pool of water at spawn. Say "Hi" to the Emotional Support Squid!
 
-## Previous seasons of the above
-
-[Season 10 and earlier](./old/intro.md)
