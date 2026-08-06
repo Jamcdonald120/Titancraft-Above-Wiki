@@ -10,14 +10,14 @@ Each island has a material block associated with it.
 
 |Island names|Block|Notable Points of Interest|
 |---|---|---|
-|Village Island<br>Spawn Island<br>Starter Island|Stripped Oak|Spawn, The Village, Mineshaft hub|
+|Village Island<br></br>Spawn Island<br></br>Starter Island|Stripped Oak|Spawn, The Village, Mineshaft hub|
 |[Mangrove Swamp Island](mangrove-swamp.md)|Stripped Mangrove log||
-|Dried Riverbed Island<br>Crypt Island|Coarse Dirt|Dullahan's Crypt|
-|Birch Island<br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
+|Dried Riverbed Island<br></br>Crypt Island|Coarse Dirt|Dullahan's Crypt|
+|Birch Island<br></br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
 |Volt's Island|Iron Ore|Volt|
-|[Volcano Island<br>Nether Island](volcano.md)|Blackstone|Resetting Bastion, Strider racing, Vera|
+|[Volcano Island<br></br>Nether Island](volcano.md)|Blackstone|Resetting Bastion, Strider racing, Vera|
 |Spruce Mountain Island|Spruce Log||
-|[Turtle Island<br>Ocean Island<br>Tropical Island](ocean-island.md)|Prismarine|Ocean Monument|
+|[Turtle Island<br></br>Ocean Island<br></br>Tropical Island](ocean-island.md)|Prismarine|Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
 |Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
 |Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
