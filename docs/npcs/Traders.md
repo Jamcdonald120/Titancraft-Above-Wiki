@@ -14,6 +14,7 @@ There are a number of traders wandering around the Above that players may encoun
 |Bridgette / Baxter|Black|Armor|
 |Barbara / Benny|Green|Books|
 |Belinda|Yellow|Potions|
+|Brennen||Weapons|
 ||||
 |Loot Cache|Cyan|No trader, just a pile of loot chests and an ender chest|
 
@@ -23,4 +24,4 @@ This list is incomplete, please help fill in missing details
 
 :::
 
-Hints to their current locations can be purchased from Harriet for a single Titanshard Gem.
+Hints to their current locations can be purchased from [Harriet](Harriet.md) for a single [Titanshard Gem](../loot.md#gems).
