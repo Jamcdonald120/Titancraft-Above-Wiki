@@ -10,16 +10,77 @@ This iteration is a total revamp of the Above for the 10 year anniversary. In to
 - About 80% of the caves were done by DropDaBass.
 
 
-### Credits (incomplete):
-- Building:
-	- DropDaBass
-	- Aelflaed
-	- LiteHorizon
-	- GrifterMage
-- Coding:
-	- Limbrogger
-	- DeadNight4
-	- Mirabela
+### Credits:
+<details><summary>Project Management:</summary>
+- Aelflaed
+- DropDaBass
+- GrifterMage
+- Limbrogger
+- LiteHorizon
+- TPdenhaag</details>
+<details><summary>Building:</summary>
+- Aelflaed
+- ARocketEngineer
+- Caableguy
+- CptCuddlefish
+- DropDaBass
+- Elaysah
+- FictionalXCI
+- Limbrogger
+- LiteHorizon
+- Lorondu
+- Techd84
+- TPdenhaag
+- Zalvy</details>
+<details><summary>Coding:</summary>
+- Aelflaed
+- DeadNight4
+- DropDaBass
+- GrifterMage
+- GrimBirb
+- Limbrogger
+- LiteHorizon
+- Mirabela</details>
+<details><summary>Assets:</summary>
+- AHG2002
+- disney_architect
+- EREMILION
+- lentebriesje
+- Trydar </details>
+<details><summary>Testing & Implementation:</summary>
+- 1yottabyte
+- CptCuddlefish
+- DeadNight4
+- FictionalXCI
+- GrimBirb
+- Limbrogger
+- LiteHorizon
+- Lorondu
+- Mirabela
+- TPdenhaag
+- Zalvy
+</details>
+<details><summary>Special Thanks:</summary>
+- anita520t
+- Autom
+- be_loved
+- Bellanne
+- DisasterMaker89
+- FluorescentZebra
+- jaek95
+- jamcdonald120
+- JoHoste
+- Lavendarfox
+- Limabravo
+- mathw
+- mattertec
+- RambleWheels
+- Sykst
+- Tango
+- Terkanil
+- unwovenrainbow
+- xWildSlicerx
+- YesItsTyler</details>
 
 An in-game version of the credits exists somewhere for players to find.
 
