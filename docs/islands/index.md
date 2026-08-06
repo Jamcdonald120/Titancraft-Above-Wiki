@@ -8,20 +8,20 @@ There are also shortcuts to discover, accessed through ancient mineshafts or und
 
 Each island has a material block associated with it.
 
-|Island|Block|Notable Points of Interest|
+|Island names|Block|Notable Points of Interest|
 |---|---|---|
-|The Village Island|Stripped Oak|Spawn, The Village, Mineshaft hub|
+|Village Island<br>Spawn Island<br>Starter Island|Stripped Oak|Spawn, The Village, Mineshaft hub|
 |[Mangrove Swamp Island](mangrove-swamp.md)|Stripped Mangrove log||
-|Dried Riverbed Island|Coarse Dirt|Dullahan's Crypt|
-|Birch Forest Island|Birch log|Bunnies of Caerbannog Lair|
+|Dried Riverbed Island<br>Crypt Island|Coarse Dirt|Dullahan's Crypt|
+|Birch Island<br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
 |Volt's Island|Iron Ore|Volt|
-|[Volcano Island](volcano.md)|Blackstone|Resetting Bastion, Strider racing, Vera|
+|[Volcano Island<br>Nether Island](volcano.md)|Blackstone|Resetting Bastion, Strider racing, Vera|
 |Spruce Mountain Island|Spruce Log||
-|[Turtle Island](ocean-island.md)|Prismarine|Ocean Monument|
+|[Turtle Island<br>Ocean Island<br>Tropical Island](ocean-island.md)|Prismarine|Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
-|Jungle Forest Island|Bamboo|Hang Gliding, Jungle Temple|
+|Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
 |Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
-|[Mesa Island](mesa.md)|Teracotta||
-|Grimora's Swamp Island|Clay|Grimora|
+|[Mesa Island](mesa.md)|Teracotta|Von Fiend|
+|Gremora's Swamp Island|Clay|Grimora|
 |[Snow Mountain Island](snow.md)|Ice|Ice Maze|
-|Dark Oak Forest Island|Dark Oak Planks|The Mansion, Hansel and Gretel|
+|Dark Oak Island|Dark Oak Planks|The Mansion, Hansel and Gretel|
