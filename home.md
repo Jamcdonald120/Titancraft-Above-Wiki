@@ -2,7 +2,7 @@
 title: Intro
 description: 
 published: true
-date: 2026-08-07T05:55:47.202Z
+date: 2026-08-07T05:59:01.686Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T01:39:53.077Z
@@ -20,7 +20,7 @@ This page is a spoiler free introduction to "what even is The Above?" The rest o
 
 The Above is an entirely custom made deadly dimension built specially for the Titancraft server. It is filled with unique landscapes, single and multiplayer minigames, combat bosses, puzzles, and a ton of secrets to discover. The Above is intended as end-game content and introduces new powerful mobs and game mechanics that aren't in vanilla minecraft. Expect the unexpected, always be on your guard. The Above can be explored solo but is better (and safer) when explored with a friend.. or seven. There are numerous Above exclusive rewards that bring a "vanilla+" style element to Titancraft.
 
-This guide is a community work with contributions from many players. The Titancraft staff and mods are not involved, it is for players, by players. If you want to contribute to the guide, feel free to edit. Bugs and issues with The Above itself should be reported via the [Titancraft bug tracker](https://github.com/Titancraft-Datapacking/Titancraft-BugTracker/issues).
+This guide is a community work with contributions from many players. The Titancraft staff and mods are not involved, it is for players, by players. If you want to contribute to the guide, feel free to edit. Bugs and issues with The Above itself should be reported via the [Titancraft bug tracker](https://github.com/Titancraft-Datapacking/Titancraft-BugTracker/issues). Feedback and sugestions  should be submitted via the [Titancraft feedback form](https://forms.gle/u5r2WcujphvK1BTb9)
 
 ## Getting ready to go
 
