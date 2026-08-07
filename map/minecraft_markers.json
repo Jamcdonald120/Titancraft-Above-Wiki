@@ -486,5 +486,21 @@
     "y": 2779,
     "players": "",
     "event_type": ""
+  },
+  {
+    "name": "UFO",
+    "group": "UFO Location",
+    "x": 2362,
+    "y": 2640,
+    "players": "",
+    "event_type": ""
+  },
+  {
+    "name": "UFO test",
+    "group": "test",
+    "x": 2362,
+    "y": 2640,
+    "players": "",
+    "event_type": ""
   }
 ]
