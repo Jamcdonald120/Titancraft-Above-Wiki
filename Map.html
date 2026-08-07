@@ -1,0 +1,221 @@
+<!--
+title: The Above Map
+description: 
+published: true
+date: 2026-08-07T17:56:36.959Z
+tags: 
+editor: code
+dateCreated: 2026-08-07T17:56:36.959Z
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Above</title>
+  
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Leaflet Search Plugin CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-search@3.0.5/dist/leaflet-search.min.css" />
+  <script src="https://unpkg.com/leaflet-search@3.0.5/dist/leaflet-search.min.js"></script>
+
+  <style>
+    body, html { 
+      margin: 0; 
+      padding: 0; 
+      height: 100%; 
+      width: 100%; 
+      background: #121111; 
+    }
+    #map { 
+      width: 100vw; 
+      height: 100vh; 
+      background: #121111; 
+    }
+
+    /* --- DARK MODE LEAFLET UI STYLES --- */
+
+    /* Layer Control Box (Top Right) */
+    .leaflet-control-layers {
+      background-color: #1e1d1d !important;
+      color: #e0e0e0 !important;
+      border: 1px solid #333 !important;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5) !important;
+      border-radius: 8px !important;
+    }
+
+    /* Zoom Controls (+ / - Buttons) */
+    .leaflet-control-zoom a {
+      background-color: #1e1d1d !important;
+      color: #e0e0e0 !important;
+      border-bottom: 1px solid #333 !important;
+    }
+    .leaflet-control-zoom a:hover {
+      background-color: #2a2929 !important;
+      color: #fff !important;
+    }
+
+    /* Dark Mode Search Bar Styles */
+    .leaflet-control-search {
+      background: #1e1d1d !important;
+      border: 1px solid #333 !important;
+      border-radius: 8px !important;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5) !important;
+    }
+    .leaflet-control-search .search-input {
+      background: #121111 !important;
+      color: #fff !important;
+      border: 1px solid #333 !important;
+      border-radius: 4px !important;
+      outline: none;
+      padding: 4px 8px;
+    }
+    .leaflet-control-search .search-tooltip {
+      background-color: #1e1d1d !important;
+      border: 1px solid #333 !important;
+      border-radius: 6px !important;
+    }
+    .leaflet-control-search .search-tip {
+      background: #1e1d1d !important;
+      color: #ccc !important;
+      border-bottom: 1px solid #2a2929 !important;
+    }
+    .leaflet-control-search .search-tip-select, 
+    .leaflet-control-search .search-tip:hover {
+      background-color: #2a2929 !important;
+      color: #58a6ff !important;
+    }
+
+    /* Popups Container & Tip */
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip {
+      background-color: #1e1d1d !important;
+      color: #e0e0e0 !important;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.6) !important;
+      border: 1px solid #333;
+    }
+
+    /* Close Button on Popups */
+    .leaflet-container a.leaflet-popup-close-button {
+      color: #888 !important;
+    }
+    .leaflet-container a.leaflet-popup-close-button:hover {
+      color: #fff !important;
+    }
+
+    /* Popup Text */
+    .poi-popup { font-family: system-ui, -apple-system, sans-serif; min-width: 160px; }
+    .poi-popup h3 { margin: 0 0 6px 0; color: #58a6ff; font-size: 16px; }
+    .poi-popup p { margin: 4px 0; color: #aaa; font-size: 13px; }
+    .poi-popup b { color: #ddd; }
+
+    /* Bottom Attribution Bar */
+    .leaflet-container .leaflet-control-attribution {
+      background: rgba(18, 17, 17, 0.8) !important;
+      color: #666 !important;
+    }
+    .leaflet-container .leaflet-control-attribution a {
+      color: #888 !important;
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+  // Canvas dimensions
+  const imgWidth = 3200;
+  const imgHeight = 3200;
+  const imageBounds = [[0, 0], [imgHeight, imgWidth]];
+
+  const map = L.map('map', {
+    crs: L.CRS.Simple,
+    minZoom: -2,
+    maxZoom: 2,
+    zoomSnap: 0.5
+  });
+
+  // Load the base map image
+  L.imageOverlay('the_above_map.png', imageBounds).addTo(map);
+  map.fitBounds(imageBounds);
+
+  // Define explicit pin icon with bottom-center anchor point [12, 41]
+  const defaultIcon = L.icon({
+    iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+    shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],   
+    popupAnchor: [1, -34]
+  });
+
+  // Master layer group containing all searchable markers
+  const allMarkersLayer = L.layerGroup().addTo(map);
+
+  // Store category layer groups dynamically for toggle controls
+  const categoryLayers = {};
+
+  // Fetch the markers
+  fetch('minecraft_markers.json')
+    .then(res => res.json())
+    .then(markers => {
+      markers.forEach(poi => {
+        // Convert GIMP Top-Left Y to Leaflet Bottom-Left Y coordinate space
+        const leafletY = imgHeight - poi.y;
+        const leafletX = poi.x;
+        const category = poi.group || "General";
+
+        // Create category layer group if it doesn't exist
+        if (!categoryLayers[category]) {
+          categoryLayers[category] = L.layerGroup().addTo(map);
+        }
+
+        // Build optional HTML strings for Event Type and Players
+        const eventTypeHTML = poi.event_type ? `<p><b>Type:</b> ${poi.event_type}</p>` : '';
+        const playersHTML = poi.players ? `<p><b>Players:</b> ${poi.players}</p>` : '';
+
+        // Create individual marker
+        const marker = L.marker([leafletY, leafletX], { 
+          icon: defaultIcon,
+          title: poi.name
+        }).bindPopup(`
+          <div class="poi-popup">
+            <h3>${poi.name}</h3>
+            <p><b>Group:</b> ${category}</p>
+            ${eventTypeHTML}
+            ${playersHTML}
+          </div>
+        `);
+
+        // Add marker to category group and master search group
+        marker.addTo(categoryLayers[category]);
+        marker.addTo(allMarkersLayer);
+      });
+
+      // Add category filter toggles
+      L.control.layers(null, categoryLayers, { collapsed: false }).addTo(map);
+
+      // Add Search Control
+      const searchControl = new L.Control.Search({
+        layer: allMarkersLayer,
+        propertyName: 'title',
+        initial: false,
+        zoom: 1,
+        marker: false,
+        moveToLocation: function(latlng, title, map) {
+          map.setView(latlng, 1);
+          allMarkersLayer.eachLayer(function(marker) {
+            if (marker.options.title === title) {
+              marker.openPopup();
+            }
+          });
+        }
+      });
+
+      map.addControl(searchControl);
+    });
+</script>
+</body>
+</html>
