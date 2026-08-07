@@ -2,7 +2,7 @@
 title: Intro
 description: 
 published: true
-date: 2026-08-07T03:32:12.065Z
+date: 2026-08-07T03:35:18.316Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T01:39:53.077Z
@@ -14,7 +14,7 @@ This page is a spoiler free introduction to "what even is the Above?" The rest o
 
 <div class="alert alert-info">
 
-The wiki is in the process of being updated for the current season. If you have any updates or corrections you can edit this on Github or post in the Discord channel.
+The wiki is in the process of being updated for the current season. If you have any updates or corrections you can edit this by login in with your discord
 
 </div>
   
