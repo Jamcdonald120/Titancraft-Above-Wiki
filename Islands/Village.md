@@ -2,7 +2,7 @@
 title: The Village
 description: Safest place in the Above! But that isn't saying much...
 published: true
-date: 2026-08-08T10:25:05.631Z
+date: 2026-08-08T16:22:25.568Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T10:25:05.631Z
@@ -38,4 +38,4 @@ The village walls have three taller watchtowers at the main gates, each of which
 - [The Dried Lakebed](../Islands/DriedLakebed) to the north
 - [Birch forest island](../Islands/BirchForest) to the east
 - A swamp/desert [stepping stone](../Islands/SteppingStones) to the south (east side)
-- A savannah stepping stone to the south (west side)
+- A savannah stepping stone denoted by Acacia Wood to the south (west side)
