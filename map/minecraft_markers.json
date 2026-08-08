@@ -463,7 +463,7 @@
 	"players": "",
     "event_type": ""
   },
-    {
+  {
     "name": "UFO",
     "group": "UFO Location",
     "x": 2555,
@@ -494,5 +494,29 @@
     "y": 2640,
     "players": "",
     "event_type": ""
+  },
+  {
+    "name": "Trapdoor Terror",
+    "group": "Events",
+    "x": 2648,
+    "y": 1241,
+    "players": "1",
+    "event_type": ""
+  },
+  { 
+    "name": "Snowman Fishing",
+    "group": "Events",
+    "x": 2787,
+    "y": 545,
+    "players": "1",
+    "event_type": "Time Trials"
+  },
+  {
+    "name": "Time Heist",
+    "group": "Events",
+    "x": 1557,
+    "y": 959,
+    "players": "1-12",
+    "event_type": "Combat /Maze"
   }
 ]
