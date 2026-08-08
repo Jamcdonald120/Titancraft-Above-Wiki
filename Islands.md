@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-08T02:12:23.252Z
+date: 2026-08-08T02:45:57.589Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -31,7 +31,7 @@ Each island has a material block associated with it.
 |Desert Island|Sand|Pryamid, Sphynx|
 |Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
 |Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
-|[Mesa Island](Mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
+|[Mesa Island<br>Badlands Island](Mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
 |Swamp Island<br>Gremora's Swamp Island|Clay|Gremora|
 |[Snow Mountain Island](Snow)|Ice|Ice Maze, Ice Boat Racing|
 |Dark Oak Island|Dark Oak Planks|The Mansion, Hansel and Gretel|
