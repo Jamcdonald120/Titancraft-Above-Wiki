@@ -2,7 +2,7 @@
 title: The Librarians
 description: 
 published: true
-date: 2026-08-08T01:30:37.123Z
+date: 2026-08-08T01:31:00.929Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T01:30:37.122Z
@@ -12,7 +12,7 @@ dateCreated: 2026-08-08T01:30:37.122Z
 
 In the Village there are three librarians who work in the library. The library is central to the Village, built of stone and has stained glass windows. It is one of the first places players new to The Above should explore.
 
-The library also contains ender chests as well as lecturns with information about [Coupons](../loot.md#coupons)
+The library also contains ender chests as well as lecturns with information about [Coupons](../loot#coupons)
 
 ## Giles
 
