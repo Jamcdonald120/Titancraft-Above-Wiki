@@ -2,7 +2,7 @@
 title: Stablemasters
 description: 
 published: true
-date: 2026-08-08T01:43:39.102Z
+date: 2026-08-08T02:25:39.854Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T01:43:39.102Z
@@ -17,7 +17,7 @@ The Stablemasters are villagers who run the High Horses™ stables dotted around
 |Ron|Central|The Village, south west in a two story house|
 |Siobhan|Southwest|Jungle Village|
 |Dawn|Southeast|Mesa Island|
-|Sean|Northwest|Snow Mountain Island|
+|Sean|Northeast|Snow Mountain Island|
 
 
-> This list is incomplete, please help fill in missing details. Missing northeast branch? {.is-info}
+> This list is incomplete, please help fill in missing details. Missing northwest branch? {.is-info}
