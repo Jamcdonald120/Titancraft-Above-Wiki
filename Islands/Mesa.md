@@ -2,7 +2,7 @@
 title: The Mesa
 description: 
 published: true
-date: 2026-08-08T03:08:12.548Z
+date: 2026-08-08T03:13:01.647Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T03:06:50.696Z
@@ -31,3 +31,9 @@ A small settlement exists in the northeast, along with a branch of High Horsesâ„
 - Southeast branch of High Horsesâ„¢ stables run by [Stablemaster Dawn](../NPCs/Stablemasters)
 - Ghast House
 - Von Fiend's Safari cars
+
+## Gateway Connections
+
+- Gremora's Swamp island to the north
+- Mangrove Swamp island to the north
+- Desert island to the west
