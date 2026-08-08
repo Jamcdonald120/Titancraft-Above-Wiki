@@ -1,8 +1,8 @@
 ---
-title: 
+title: Bhishma
 description: 
 published: true
-date: 2026-08-08T01:14:54.949Z
+date: 2026-08-08T01:15:22.335Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T01:14:54.949Z
