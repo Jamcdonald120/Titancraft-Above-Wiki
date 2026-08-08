@@ -2,7 +2,7 @@
 title: Transportation
 description: Summary of ways to get around
 published: true
-date: 2026-08-08T01:00:44.516Z
+date: 2026-08-08T01:54:00.409Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T01:00:44.516Z
@@ -22,9 +22,9 @@ At the edges of islands are gateways that connect to a similar portal across the
 
 ## Horses
 
-At the stables on the spawn island, and elsewhere in the Above, you can lease a horse to help you move around. You will need to give the stablemaster 1 Titanshard as a deposit and a horse will spawn with random colored armor. Horses are bound to the player that got it. 
+At the High Horse™ stables in the Above, you can lease a horse to help you move around. You will need to give the [Stablemasters](/NPCs/Stablemasters) 1 [Titanshard Gem](/Loot#gems) as a deposit and a horse will spawn with random colored armor. Horses are bound to the player that got it. 
 
-Once you are finished you can return the horse to any stable and get your deposit back.
+Once you are finished you can return the horse to any High Horse™ stable and get your deposit back.
 
 Failure to return the horse will result in needing to ring the Bell of Shame before another horse can be leased.
 
