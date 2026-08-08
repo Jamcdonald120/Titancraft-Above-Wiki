@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-08T02:11:00.807Z
+date: 2026-08-08T02:11:59.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -25,7 +25,7 @@ Each island has a material block associated with it.
 |Dried Riverbed Island<br>Crypt Island|Coarse Dirt|Dullahan's Crypt|
 |Birch Island<br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
 |Volt's Island|Iron Ore|Volt|
-|[Volcano Island<br>Nether Island](Islands/Volcano)|Blackstone|Resetting Bastion, Strider Racing, Vera, Midas|
+|[Volcano Island<br>Nether Island](Volcano)|Blackstone|Resetting Bastion, Strider Racing, Vera, Midas|
 |Spruce Mountain Island|Spruce Log|AElflaed Shrine, Mycelium Hub, Time Heist|
 |[Turtle Island<br>Ocean Island<br>Tropical Island](Islands/Ocean)|Prismarine|Resetting Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
