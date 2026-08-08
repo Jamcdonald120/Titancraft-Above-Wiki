@@ -1,8 +1,8 @@
 ---
-title: Intro
+title: Getting Started With The Above
 description: 
 published: true
-date: 2026-08-07T05:59:01.686Z
+date: 2026-08-08T01:48:21.293Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T01:39:53.077Z
@@ -12,9 +12,8 @@ dateCreated: 2026-08-07T01:39:53.077Z
 
 This page is a spoiler free introduction to "what even is The Above?" The rest of this wiki, however will contain spoilers. Readers beware!
 
-
 <div class="alert alert-info">
- <img src="/blamelite.webp" alt="blamelite.webp" style="display:block;float:left;"> The wiki is in the process of being updated for the current season. If you have any updates or corrections you can edit this by login in with your discord
+<img src="/blamelite.webp" alt="blamelite.webp" style="display:block;float:left;">The wiki is in the process of being updated for the current season. If you have any updates or corrections you can edit this by login in with your discord
 </div>
   
 
@@ -32,7 +31,7 @@ Before entering The Above, there are some things you should know:
 - The whole Above is in adventure mode, that means no block placing or destroying. Which, in turn, means you can't unpack items from any shulker boxes. You can take only what you carry.
 - Some challenges reset periodically, if you enter an area and it seems devoid of activity, try coming back later.
 - Some challenges are available with no reset, but have rewards that reset daily.
-- If you accept a quest, leaving The Above before completion and turning it in will fail that quest.
+- If you accept a quest, leaving The Above before completion and turning it in will fail that quest. `Confirmed as unintended behaviour`
 - The Above is best experienced with no gamma mod and hit boxes turned off. Some mods have compatibility issues.
 
 ## Going to The Above
