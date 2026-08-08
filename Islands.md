@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-08T02:45:57.589Z
+date: 2026-08-08T03:18:57.818Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -16,7 +16,7 @@ As elytra are no longer effective in the Season 11 Above, to traverse the space 
 
 There are also shortcuts to discover, accessed through ancient mineshafts or underwater caves. See [transportation](../transportation.md) for more info
 
-Each island has a material block associated with it.
+Each island has a material block associated with it. Knowing the material blocks is invaluable to using the fast travel networks.
 
 |Island names|Block|Notable Points of Interest|
 |---|---|---|
@@ -30,7 +30,7 @@ Each island has a material block associated with it.
 |[Turtle Island<br>Ocean Island<br>Tropical Island](Ocean)|Prismarine|Resetting Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
 |Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
-|Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
+|Oak Tree Island<br>Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
 |[Mesa Island<br>Badlands Island](Mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
 |Swamp Island<br>Gremora's Swamp Island|Clay|Gremora|
 |[Snow Mountain Island](Snow)|Ice|Ice Maze, Ice Boat Racing|
