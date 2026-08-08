@@ -2,7 +2,7 @@
 title: Harriet
 description: Village Cartographer
 published: true
-date: 2026-08-08T01:33:14.597Z
+date: 2026-08-08T01:34:39.907Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T01:21:10.986Z
