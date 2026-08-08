@@ -2,7 +2,7 @@
 title: About The Above
 description: History, Trivia, Credits
 published: true
-date: 2026-08-08T00:30:52.834Z
+date: 2026-08-08T00:32:36.521Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T00:30:52.834Z
@@ -19,6 +19,7 @@ This iteration is a total revamp of the Above for the 10 year anniversary. In to
 - All of the islands were made by Aelflaed using World Painter, which doesn't have settings for adding coral (which was new at the time), so AElflaed and LiteHorizon had to place it all by hand.
 - About 80% of the caves were done by DropDaBass.
 
+> Please add more trivia and history if you were there, Gandalf. 3,000 years ago {.is-info}
 
 ### Credits:
 <details><summary>Project Management:</summary>
