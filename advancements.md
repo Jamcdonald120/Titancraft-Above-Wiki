@@ -2,7 +2,7 @@
 title: Advancements
 description: 
 published: true
-date: 2026-08-08T00:18:17.921Z
+date: 2026-08-08T00:22:51.368Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T03:50:29.761Z
@@ -21,7 +21,8 @@ Titancraft boasts a fun array of additional advancements for players to achieve,
 <details><summary>Serial Finder - Open 1000 loot chests and barrels</summary>Only counts freshly reset chest/barrel openings, if someone else got there first, they got the credit</details>
 <details><summary>Fish your Wish - Fish at a lucky spot in the Above</summary>Use a fishing rod to successfully snag some loot from a fishing spot. These look like a ring of bubbles in the water</details>
 <details><summary>Just Follow the Needle - Sherlock Holmes has got nothing on you!</summary>Follow a scavenger compass to its loot! Simply hold the compass in your main hand and stand on the block it points to.</details>
-<details><summary>A Friendly Face - Not everyone here wants to kill you</summary>Talk to one of the NPCs `Does this have any limitations? villagers? traders? stablemasters?` </details>
+<details><summary>A Friendly Face - Not everyone here wants to kill you</summary> Talk to one of the NPCs<br>
+> Does this have any limitations? villagers? traders? stablemasters? {.is-info}</details>
 <details><summary>Go Quest, Young Man! - Complete any quest</summary>Quests are given by Victor and Victoria, go talk to them, follow their instruction and return to them aterwards</details>
 <details><summary>No Further Quest-ions - Complete all quests</summary>There are 8 total</details>
 <details><summary>Happens To The Best of Us - Sometimes you just can't help the RNG you know?</summary>Fail a quest `needs confirmation`</details>
