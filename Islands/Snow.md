@@ -2,7 +2,7 @@
 title: Snow Mountain
 description: 
 published: true
-date: 2026-08-08T02:26:47.731Z
+date: 2026-08-08T02:44:21.822Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:26:47.731Z
@@ -18,12 +18,12 @@ Just to the south, connected by two rope bridges, is a smaller spruce forest isl
 
 ## Challenges
 
-- Boat Races
-- Ice Maze
+- [Ice Boat Races](../Challenges/BoatRaces)
+- [The Ice Maze](../Challenges/IceMaze)
 
 ## Bosses
 
-- Kermode
+- [Kermode](../Bosses/Kermode)
 
 
 ## Points of Interest
