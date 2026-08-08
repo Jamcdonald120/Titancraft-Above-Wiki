@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-08T02:11:59.210Z
+date: 2026-08-08T02:12:23.252Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -27,11 +27,11 @@ Each island has a material block associated with it.
 |Volt's Island|Iron Ore|Volt|
 |[Volcano Island<br>Nether Island](Volcano)|Blackstone|Resetting Bastion, Strider Racing, Vera, Midas|
 |Spruce Mountain Island|Spruce Log|AElflaed Shrine, Mycelium Hub, Time Heist|
-|[Turtle Island<br>Ocean Island<br>Tropical Island](Islands/Ocean)|Prismarine|Resetting Ocean Monument|
+|[Turtle Island<br>Ocean Island<br>Tropical Island](Ocean)|Prismarine|Resetting Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
 |Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
 |Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
-|[Mesa Island](Islands/Mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
+|[Mesa Island](Mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
 |Swamp Island<br>Gremora's Swamp Island|Clay|Gremora|
-|[Snow Mountain Island](Islands/Snow)|Ice|Ice Maze, Ice Boat Racing|
+|[Snow Mountain Island](Snow)|Ice|Ice Maze, Ice Boat Racing|
 |Dark Oak Island|Dark Oak Planks|The Mansion, Hansel and Gretel|
