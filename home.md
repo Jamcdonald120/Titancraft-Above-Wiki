@@ -1,8 +1,8 @@
 ---
 title: Getting Started With The Above
-description: 
+description: Read this first!
 published: true
-date: 2026-08-08T01:48:21.293Z
+date: 2026-08-08T01:49:54.673Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T01:39:53.077Z
