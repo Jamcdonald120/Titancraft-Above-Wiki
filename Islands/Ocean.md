@@ -2,7 +2,7 @@
 title: Ocean Island
 description: As backwards as that sounds....
 published: true
-date: 2026-08-08T09:57:29.841Z
+date: 2026-08-08T16:21:30.345Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T09:56:23.149Z
@@ -28,6 +28,6 @@ The Ocean island, Tropical island, or Turtle island, is a medium sized [island](
 
 ## Gateway Connections
 - [Dark Oak Forest](../Islands/DarkOak) to the north
-- A savannah `I think?` [stepping stone](../Islands/SteppingStones) to the east
+- A savannah [stepping stone](../Islands/SteppingStones) denoted by Acacia Wood to the east
 - [The Desert](../Islands/Desert) to the east
 - [The Jungle](../Islands/Jungle) to the west (one in the north and one in the south of the island)
