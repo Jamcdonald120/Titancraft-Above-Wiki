@@ -2,7 +2,7 @@
 title: The Mesa
 description: 
 published: true
-date: 2026-08-08T03:07:51.869Z
+date: 2026-08-08T03:08:12.548Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T03:06:50.696Z
