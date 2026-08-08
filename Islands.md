@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-08T02:00:54.265Z
+date: 2026-08-08T02:07:41.324Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -21,17 +21,17 @@ Each island has a material block associated with it.
 |Island names|Block|Notable Points of Interest|
 |---|---|---|
 |Village Island<br>Spawn Island<br>Starter Island|Stripped Oak|Spawn, The Village, The Well, Mineshaft hub|
-|[Mangrove Swamp Island](Islands/mangrove-swamp)|Stripped Mangrove log|The Beastmaster|
+|[Mangrove Swamp Island](Islands/MangroveSwamp)|Stripped Mangrove log|The Beastmaster|
 |Dried Riverbed Island<br>Crypt Island|Coarse Dirt|Dullahan's Crypt|
 |Birch Island<br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
 |Volt's Island|Iron Ore|Volt|
-|[Volcano Island<br>Nether Island](volcano)|Blackstone|Resetting Bastion, Strider Racing, Vera, Midas|
+|[Volcano Island<br>Nether Island](Islands/Volcano)|Blackstone|Resetting Bastion, Strider Racing, Vera, Midas|
 |Spruce Mountain Island|Spruce Log|AElflaed Shrine, Mycelium Hub, Time Heist|
-|[Turtle Island<br>Ocean Island<br>Tropical Island](ocean-island.md)|Prismarine|Resetting Ocean Monument|
+|[Turtle Island<br>Ocean Island<br>Tropical Island](Islands/Ocean)|Prismarine|Resetting Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
 |Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
 |Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
-|[Mesa Island](mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
+|[Mesa Island](Islands/Mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
 |Swamp Island<br>Gremora's Swamp Island|Clay|Gremora|
-|[Snow Mountain Island](snow)|Ice|Ice Maze, Ice Boat Racing|
+|[Snow Mountain Island](Islands/Snow)|Ice|Ice Maze, Ice Boat Racing|
 |Dark Oak Island|Dark Oak Planks|The Mansion, Hansel and Gretel|
