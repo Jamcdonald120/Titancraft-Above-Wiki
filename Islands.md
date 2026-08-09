@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-09T16:52:27.009Z
+date: 2026-08-09T16:52:59.330Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -41,7 +41,7 @@ There are a number of small islands that are not connected physically to a large
 
 |Biome | Notable features|Material block|Connects to|
 |---|---|---|
-|Savanna blending into desert|Small sandstone campsite|Acacia wood|Dark Oak<br>The Village<br>Desert<br>Ocean|
+|Savanna blending into desert|Small sandstone campsite|Acacia Wood|Dark Oak<br>The Village<br>Desert<br>Ocean|
 |Jungle|None|Bamboo Block|Dark Oak<br>Jungle|
-|Three way blend of plains, mangrove swamp and desert|None|Acacia|The Village<br>Mangrove Swamp<Br>Desert|
+|Three way blend of plains, mangrove swamp and desert|None|Acacia Wood|The Village<br>Mangrove Swamp<Br>Desert|
 |Swamp blending into plains|Swamp tree over a small pool and waterfall|Packed Mud|Piggies island<br>Gremora's swamp|
