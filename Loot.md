@@ -2,7 +2,7 @@
 title: Loot
 description: What kind of stuff can you get from The Above?
 published: true
-date: 2026-08-08T00:49:58.903Z
+date: 2026-08-09T14:43:23.678Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T00:49:58.903Z
@@ -39,21 +39,22 @@ In the Village is the well. The well allows players to turn their Titanshard Gem
 
 ### Coupons
 
-- Sound
 - Armor stand
-- Silence
-- Mannequin - New for Season 11
-- Scale
-- Name
-- Lore
-- Edible item - New for Season 11
+- Block: Trade to a Moderator for one (1) aesthetic creative-only block, placed wherever you wish. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
+- Book/Sign: Trade to a Moderator for one (1) custom sign or written book with formatting and/or URL links. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
+- Display
+- Edible item - New for Season 11: Use in an anvil to make an item (or stack of items) edible. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
+- Enchantment: Use in an anvil to give an item (or stack of items) a shiny enchantment glint. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Hat
 - Item frame
-- Book/Sign
-- Display
-- Spawner
-- Block
-- Miniblock
+- Lore: Use at a Coupon Kiosk to add custom lore text to an item of your choice. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
+- Mannequin - New for Season 11
+- Miniblock: Use at a Coupon Kiosk to receive a customized miniblock to use for decoration. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
+- Name
+- Scale
+- Silence
+- Spawner: Right-click an entity with this coupon to set decorative spawner type. Place the coupon into a crafting grid to receive a spawner.
+- Sound
 
 
 ### Resources
