@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: false
-date: 2026-08-09T15:54:44.365Z
+date: 2026-08-09T15:55:40.583Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -22,7 +22,7 @@ Here you can find a list of all of the new enchantments that you can find in the
 ### Above Enchantments
 
 | Name | Summary | Incompatible With | Max Level | Primary Items | Secondary Items |  
-|-  
+| --- | --- | --- | --- | --- | --- |
 | Angler | Only catch fish (no junk or treasure) | | | Fishing Rod | |  
 | Bane of Swine | Increased damage against porcine-kind (Pigs, Pigmen, Zombie Pigmen, Hoglins, Zoglins) | Bane of Arthropods, Bane of Mortals, Breach, Density, Sharpness, Smite | Sword, Spear, Mace, Axe | |  
 | Bane of Mortals | Increased damage against players and "normal mortal" type mobs | Bane of Arthropods, Bane of Swine, Breach, Density, Sharpness, Smite | Sword, Spear, Mace, Axe | |  
