@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-09T16:49:31.244Z
+date: 2026-08-09T16:52:27.009Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -38,9 +38,10 @@ Each island has a material block associated with it. Knowing the material blocks
 
 ## Stepping Stones
 There are a number of small islands that are not connected physically to a larger island, do not feature any substantial minigames or challenges, and must be accessed via gateway portals. Where a small island is connected to a larger one by a physical bridge, information about that island can be found with its parent island.
+
 |Biome | Notable features|Material block|Connects to|
 |---|---|---|
 |Savanna blending into desert|Small sandstone campsite|Acacia wood|Dark Oak<br>The Village<br>Desert<br>Ocean|
 |Jungle|None|Bamboo Block|Dark Oak<br>Jungle|
 |Three way blend of plains, mangrove swamp and desert|None|Acacia|The Village<br>Mangrove Swamp<Br>Desert|
-|Swamp blending into plains|Swamp tree over a small pool|Packed Mud|Piggies island<br>Gremora's swamp|
+|Swamp blending into plains|Swamp tree over a small pool and waterfall|Packed Mud|Piggies island<br>Gremora's swamp|
