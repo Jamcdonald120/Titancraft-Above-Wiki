@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-09T16:52:59.330Z
+date: 2026-08-09T16:58:27.473Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -20,7 +20,7 @@ Each island has a material block associated with it. Knowing the material blocks
 
 |Island names|Block|Notable Points of Interest|
 |---|---|---|
-|Village Island<br>Spawn Island<br>Starter Island|Stripped Oak|Spawn, The Village, The Well, Mineshaft hub|
+|[Village Island<br>Spawn Island<br>Starter Island](../../Islands/Village)|Stripped Oak|Spawn, The Village, The Well, Mineshaft hub|
 |[Mangrove Swamp Island](Islands/MangroveSwamp)|Stripped Mangrove Wood|The Beastmaster|
 |Dried Riverbed Island<br>Crypt Island|Coarse Dirt|Dullahan's Crypt|
 |Birch Island<br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
