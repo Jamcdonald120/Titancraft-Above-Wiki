@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-08T03:18:57.818Z
+date: 2026-08-09T15:54:03.039Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -26,7 +26,7 @@ Each island has a material block associated with it. Knowing the material blocks
 |Birch Island<br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
 |Volt's Island|Iron Ore|Volt|
 |[Volcano Island<br>Nether Island](Volcano)|Blackstone|Resetting Bastion, Strider Racing, Vera, Midas|
-|Spruce Mountain Island|Spruce Log|AElflaed Shrine, Mycelium Hub, Time Heist|
+|Spruce Mountain Island<br>Evergreen Hills|Spruce Log|AElflaed Shrine, Mycelium Hub, Time Heist|
 |[Turtle Island<br>Ocean Island<br>Tropical Island](Ocean)|Prismarine|Resetting Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
 |Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
