@@ -1,8 +1,8 @@
 ---
 title: Enchantments
 description: Above-exclusive Enchantments
-published: true
-date: 2026-08-09T15:48:29.058Z
+published: false
+date: 2026-08-09T15:52:41.904Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
