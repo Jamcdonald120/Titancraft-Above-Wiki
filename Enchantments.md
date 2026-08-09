@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-09T15:46:09.979Z
+date: 2026-08-09T15:48:29.058Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -11,7 +11,10 @@ dateCreated: 2026-08-09T15:46:09.979Z
 # Enchantments
 
 Here you can find a list of all of the new enchantments that you can find in the Above. In addition to those appearing in the table below, many Vanilla enchantments are now available at a higher level than normal (for example Protection V or Unbreaking IV).
- 
+
+>  Okay, the table looks great in preview mode but apparently not once you publish it? What the heck?!
+{.is-danger}
+
  ### Above Enchantments
  | Name | Summary	| Incompatible With | Max Level | Primary Items | Secondary Items |
  |-
