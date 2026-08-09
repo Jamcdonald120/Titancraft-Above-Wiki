@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-09T15:54:03.039Z
+date: 2026-08-09T16:49:31.244Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -21,17 +21,26 @@ Each island has a material block associated with it. Knowing the material blocks
 |Island names|Block|Notable Points of Interest|
 |---|---|---|
 |Village Island<br>Spawn Island<br>Starter Island|Stripped Oak|Spawn, The Village, The Well, Mineshaft hub|
-|[Mangrove Swamp Island](Islands/MangroveSwamp)|Stripped Mangrove log|The Beastmaster|
+|[Mangrove Swamp Island](Islands/MangroveSwamp)|Stripped Mangrove Wood|The Beastmaster|
 |Dried Riverbed Island<br>Crypt Island|Coarse Dirt|Dullahan's Crypt|
 |Birch Island<br>Bunnies Island|Birch log|Bunnies of Caerbannog Lair, Bees|
 |Volt's Island|Iron Ore|Volt|
-|[Volcano Island<br>Nether Island](Volcano)|Blackstone|Resetting Bastion, Strider Racing, Vera, Midas|
+|[Volcano Island<br>Nether Island](Volcano)|Blackstone|Resetting Bastion, Strider Racing, Vesta, Midas|
 |Spruce Mountain Island<br>Evergreen Hills|Spruce Log|AElflaed Shrine, Mycelium Hub, Time Heist|
 |[Turtle Island<br>Ocean Island<br>Tropical Island](Ocean)|Prismarine|Resetting Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
-|Jungle Island|Bamboo|Hang Gliding, Jungle Temple|
+|Jungle Island|Bamboo Block|Hang Gliding, Jungle Temple|
 |Oak Tree Island<br>Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
-|[Mesa Island<br>Badlands Island](Mesa)|Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
+|[Mesa Island<br>Badlands Island](Mesa)|Orange Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
 |Swamp Island<br>Gremora's Swamp Island|Clay|Gremora|
 |[Snow Mountain Island](Snow)|Ice|Ice Maze, Ice Boat Racing|
 |Dark Oak Island|Dark Oak Planks|The Mansion, Hansel and Gretel|
+
+## Stepping Stones
+There are a number of small islands that are not connected physically to a larger island, do not feature any substantial minigames or challenges, and must be accessed via gateway portals. Where a small island is connected to a larger one by a physical bridge, information about that island can be found with its parent island.
+|Biome | Notable features|Material block|Connects to|
+|---|---|---|
+|Savanna blending into desert|Small sandstone campsite|Acacia wood|Dark Oak<br>The Village<br>Desert<br>Ocean|
+|Jungle|None|Bamboo Block|Dark Oak<br>Jungle|
+|Three way blend of plains, mangrove swamp and desert|None|Acacia|The Village<br>Mangrove Swamp<Br>Desert|
+|Swamp blending into plains|Swamp tree over a small pool|Packed Mud|Piggies island<br>Gremora's swamp|
