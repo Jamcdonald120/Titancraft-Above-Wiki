@@ -2,7 +2,7 @@
 title: Kermode Temp
 description: History, Trivia, Credits
 published: true
-date: 2026-08-10T16:58:36.889Z
+date: 2026-08-10T17:00:01.368Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
