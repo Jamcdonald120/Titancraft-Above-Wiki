@@ -2,7 +2,7 @@
 title: Loot
 description: What kind of stuff can you get from The Above?
 published: true
-date: 2026-08-09T14:43:23.678Z
+date: 2026-08-10T14:48:16.024Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T00:49:58.903Z
@@ -40,6 +40,7 @@ In the Village is the well. The well allows players to turn their Titanshard Gem
 ### Coupons
 
 - Armor stand
+- Banner: Use at a Coupon Kiosk to create a custom banner with more patterns than normally possible. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Block: Trade to a Moderator for one (1) aesthetic creative-only block, placed wherever you wish. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Book/Sign: Trade to a Moderator for one (1) custom sign or written book with formatting and/or URL links. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Display
