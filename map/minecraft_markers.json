@@ -522,7 +522,7 @@
   
   {
     "name": "Jungle Spectre",
-    "group": "Souls",
+    "group": "Spectre",
     "x": 535,
     "y": 2824,
     "players": "1",
@@ -530,7 +530,7 @@
   },
   {
     "name": "Mesa Spectre",
-    "group": "Souls",
+    "group": "Spectre",
     "x": 2581,
     "y": 2498,
     "players": "1",
@@ -538,7 +538,7 @@
   },
   {
     "name": "Birch Spectre",
-    "group": "Souls",
+    "group": "Spectre",
     "x": 2007,
     "y": 1206,
     "players": "1",
@@ -546,7 +546,7 @@
   },
   {
     "name": "Dark Oak Spectre",
-    "group": "Souls",
+    "group": "Spectre",
     "x": 399,
     "y": 1280,
     "players": "1",
@@ -554,7 +554,7 @@
   },
   {
     "name": "Desert Spectre",
-    "group": "Souls",
+    "group": "Spectre",
     "x": 1569,
     "y": 2787,
     "players": "1",
@@ -562,7 +562,7 @@
   },
   {
     "name": "Spruce Spectre",
-    "group": "Souls",
+    "group": "Spectre",
     "x": 1510,
     "y": 476,
     "players": "1",
@@ -570,7 +570,7 @@
   },
   {
     "name": "Ice Spectre",
-    "group": "Souls",
+    "group": "Spectre",
     "x": 2421,
     "y": 976,
     "players": "1",
