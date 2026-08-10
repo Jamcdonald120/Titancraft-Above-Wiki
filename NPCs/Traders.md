@@ -2,7 +2,7 @@
 title: Wandering Traders
 description: The merchants of The Above
 published: true
-date: 2026-08-08T01:35:10.759Z
+date: 2026-08-10T00:53:43.041Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T01:10:28.962Z
@@ -18,13 +18,13 @@ There are a number of traders wandering around the Above that players may encoun
 |---|---|---|
 |Beau / Belle|Blue|Miniblocks - Blocks are semi-randomly generated based on the inventory of the first player to interact per day. Trades require a [Titanshard Gem](../Loot#gems) as well as the block, in exchange for 8 miniblocks |
 |Bernie / Bonnie|Gray|[Tools](../Loot#tools)|
-|Bjorn|Brown|[Coupons](../Loot#coupons)|
+|Bjorn / Bethany|Brown|[Coupons](../Loot#coupons)|
 |Bobby / Bailey|Cyan/White stripes|[Resources](../Loot#resources)|
 |Bartholomew / Brooke|White|[Titanshard Gems](../Loot#gems) - at discounted rates. Generally between 14 and 24 [Titanshard Splinters](../Loot#splinters) for 3 Gems, which would normally cost 27 at the Shrine of Shattered Shards
 |Bridgette / Baxter|Black|Armor|
 |Barbara / Benny|Green|Enchanted Books|
-|Belinda|Yellow|Potions|
-|Brennen|Light Gray|Weapons|
+|Belinda / Blake|Yellow|Potions|
+|Becca / Brennen|Light Gray|Weapons|
 |---|---|---|
 |Loot Cache|Cyan|No trader, just a pile of loot chests and an ender chest|
 
