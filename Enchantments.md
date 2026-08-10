@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-10T00:58:14.573Z
+date: 2026-08-10T01:14:59.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -33,7 +33,7 @@ Here you can find a list of all of the new enchantments that you can find in the
 | Pulverize | Breaks down a block into the next "finer" block (gravel into sand, for example) | | | Pickaxe, Axe, Hoe, Shovel  
 | Reach | Increased block Interaction Range (+1 per level) | Any Protection | III | Chest Plate | Axe, Pick, Shovel |  
 | Resonance | When you hit a mob with it, it has the same effect as ringing a bell (all nearby mobs are highlighted) | | | Sword | |  
-| Rush | Increased Speed (I = 6.67%, III = 20%) | Leap, Steady, Stride | III | Elytra, Chestplate, Leggings | | 
+| Rush | Increased Speed (by 6.67% per level) | Leap, Steady, Stride | III | Elytra, Chestplate, Leggings | | 
 | Steady | Increased Knockback Resistance (II = +9, III = +10) | Leap, Rush, Stride | III | Chestplate, Leggings | |  
 | Stride | Increased Step Height (+1/2 block per level) | Leap, Rush, Steady | III | Leggings | |  
 | Squid Jig | Increased chance of catching an ink sack. | | | Fishing Rod | |  
