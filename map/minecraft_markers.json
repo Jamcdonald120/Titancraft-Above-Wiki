@@ -496,6 +496,14 @@
     "event_type": ""
   },
   {
+    "name": "UFO",
+    "group": "UFO Location",
+    "x": 2834,
+    "y": 2556,
+    "players": "",
+    "event_type": ""
+  },
+  {
     "name": "Trapdoor Terror",
     "group": "Events",
     "x": 2648,
@@ -695,5 +703,13 @@
     "y": 1792,
     "players": "",
     "event_type": ""
+  },
+  {
+    "name": "Spiders",
+    "group": "Events",
+    "x": 2823,
+    "y": 2594,
+    "players": "1+",
+    "event_type": "Combat"
   }
 ]
