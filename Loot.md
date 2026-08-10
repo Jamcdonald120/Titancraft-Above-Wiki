@@ -2,7 +2,7 @@
 title: Loot
 description: What kind of stuff can you get from The Above?
 published: true
-date: 2026-08-10T15:10:36.789Z
+date: 2026-08-10T15:17:16.843Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T00:49:58.903Z
@@ -49,7 +49,7 @@ In the Village is the well. The well allows players to turn their Titanshard Gem
 - Hat: Use in an anvil to give an item the ability to be equipped to the head slot. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Item Frame: Trade to a Moderator for one (1) custom item frame. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Lore: Use at a Coupon Kiosk to add custom lore text to an item of your choice. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
-- Mannequin - New for Season 11
+- Mannequin - New for Season 11: Trade to a Moderator for one (1) custom mannequin. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Miniblock: Use at a Coupon Kiosk to receive a customized miniblock to use for decoration. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Name: Use at a Coupon Kisok to rename an item using custom formatting and colors. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
 - Scale: Use at a Coupon Kisok to set the desired scale. Some conditions apply; visit the Kiosk area or type "/coupons-info" for details.
