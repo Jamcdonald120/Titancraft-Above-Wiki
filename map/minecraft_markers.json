@@ -517,6 +517,183 @@
     "x": 1557,
     "y": 959,
     "players": "1-12",
-    "event_type": "Combat /Maze"
+    "event_type": "Combat / Maze"
+  },
+  
+  {
+    "name": "Jungle Spectre",
+    "group": "Souls",
+    "x": 535,
+    "y": 2824,
+    "players": "1",
+    "event_type": "Combat"
+  },
+  {
+    "name": "Mesa Spectre",
+    "group": "Souls",
+    "x": 2581,
+    "y": 2498,
+    "players": "1",
+    "event_type": "Combat"
+  },
+  {
+    "name": "Birch Spectre",
+    "group": "Souls",
+    "x": 2007,
+    "y": 1206,
+    "players": "1",
+    "event_type": "Combat"
+  },
+  {
+    "name": "Dark Oak Spectre",
+    "group": "Souls",
+    "x": 399,
+    "y": 1280,
+    "players": "1",
+    "event_type": "Combat"
+  },
+  {
+    "name": "Desert Spectre",
+    "group": "Souls",
+    "x": 1569,
+    "y": 2787,
+    "players": "1",
+    "event_type": "Combat"
+  },
+  {
+    "name": "Spruce Spectre",
+    "group": "Souls",
+    "x": 1510,
+    "y": 476,
+    "players": "1",
+    "event_type": "Combat"
+  },
+  {
+    "name": "Ice Spectre",
+    "group": "Souls",
+    "x": 2421,
+    "y": 976,
+    "players": "1",
+    "event_type": "Combat"
+  },
+  {
+    "name": "Stables",
+    "group": "Stables",
+    "x": 288,
+    "y": 895,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Stables",
+    "group": "Stables",
+    "x": 2264,
+    "y": 757,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Stables",
+    "group": "Stables",
+    "x": 2801,
+    "y": 2366,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Stables",
+    "group": "Stables",
+    "x": 454,
+    "y": 2405,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Stables",
+    "group": "Stables",
+    "x": 1664,
+    "y": 1783,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Mushroom",
+    "group": "Mushroom Teleports",
+    "x": 1835,
+    "y": 690,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Mushroom",
+    "group": "Mushroom Teleports",
+    "x": 2629,
+    "y": 1850,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Mushroom",
+    "group": "Mushroom Teleports",
+    "x": 1597,
+    "y": 2651,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Mushroom",
+    "group": "Mushroom Teleports",
+    "x": 694,
+    "y": 1532,
+    "players": "",
+    "event_type": "Transport"
+  },
+  {
+    "name": "Bed",
+    "group": "Village",
+    "x": 419,
+    "y": 897,
+    "players": "",
+    "event_type": ""
+  },
+  {
+    "name": "Bed",
+    "group": "Village",
+    "x": 461,
+    "y": 2470,
+    "players": "",
+    "event_type": ""
+  },
+  {
+    "name": "Bed",
+    "group": "Village",
+    "x": 289,
+    "y": 924,
+    "players": "",
+    "event_type": ""
+  },
+  {
+    "name": "Bed",
+    "group": "Village",
+    "x": 1620,
+    "y": 1757,
+    "players": "",
+    "event_type": ""
+  },
+  {
+    "name": "Bed",
+    "group": "Village",
+    "x": 1771,
+    "y": 1698,
+    "players": "",
+    "event_type": ""
+  },
+  {
+    "name": "Bed",
+    "group": "Village",
+    "x": 1665,
+    "y": 1792,
+    "players": "",
+    "event_type": ""
   }
 ]
