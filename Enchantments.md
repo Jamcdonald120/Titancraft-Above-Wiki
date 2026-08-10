@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-09T15:57:30.634Z
+date: 2026-08-10T00:39:57.136Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -35,6 +35,6 @@ Here you can find a list of all of the new enchantments that you can find in the
 | Resonance | When you hit a mob with it, it has the same effect as ringing a bell (all nearby mobs are highlighted) | | | Sword | |  
 | Rush | Increased Speed (I = 6.67%, III = 20%) | Leap, Steady, Stride | III | Leggings | |  
 | Steady | Increased Knockback Resistance (II = +9, III = +10) | Leap, Rush, Stride | III | Chestplate, Leggings | |  
-| Stride | ? | Leap, Rush, Steady | ? | Leggings | |  
+| Stride | Increased Step Height (+1/2 block per level) | Leap, Rush, Steady | III | Leggings | |  
 | Squid Jig | Increased chance of catching an ink sack. | | | Fishing Rod | |  
 | Void | If a weapon with Void kills a mob, it drops no loot or XP | | | Sword, Axe, Spear, Bow, Crossbow, Mace | Pickaxe, Shovel, Hoe |
