@@ -2,7 +2,7 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-11T17:18:00.669Z
+date: 2026-08-11T18:13:07.310Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
@@ -20,7 +20,7 @@ The Beasties spawned are a random mixed selection of 6 different types:
 * "Ravagita": Small Ravagers that deal great knockback to anything they hit.
 * "Yeet Pig": Small Hoglins that launch whoever it hits several blocks in the air.
 * "Polar Fear": Small Polar Bears who chase and maul their targets.
-* Large fragile Axolotls that quickly approach their target and self destruct, like creepers.
+* "Creeperlotl": Large fragile Axolotls that quickly approach their target and self destruct, like creepers.
 * Large Armadillos that scurry towards their target and attack in rapid succession when near.
 * Small Sniffers that scurry towards their target and attack in rapid succession when near.
 
