@@ -2,14 +2,14 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-11T18:13:07.310Z
+date: 2026-08-11T19:12:15.152Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
 ---
 
 ## **Location**
-The Beastmaster is a boss on the Mangrove Swamp island. They are enclosed in an open arena near the center of the island.
+The Beastmaster is a boss on the [Mangrove Swamp island](../Islands/Mangrove). They are enclosed in an open arena near the center of the island. Surounding their arena are many spikes with mob heads on.
 
 ## **Fight**
 The Beastmaster fights with two distinct phases, one where they run towards their target to punch them, and another where they slowly stalk their target and send Beasties to fight for them. They start the fight in their aggressive phase, and switch to their Beastie phase every time one of 6 segments of their healthbar has been depleted.
@@ -21,15 +21,15 @@ The Beasties spawned are a random mixed selection of 6 different types:
 * "Yeet Pig": Small Hoglins that launch whoever it hits several blocks in the air.
 * "Polar Fear": Small Polar Bears who chase and maul their targets.
 * "Creeperlotl": Large fragile Axolotls that quickly approach their target and self destruct, like creepers.
-* Large Armadillos that scurry towards their target and attack in rapid succession when near.
-* Small Sniffers that scurry towards their target and attack in rapid succession when near.
+* "Armakillo": Large Armadillos that scurry towards their target and attack in rapid succession when near.
+* `Name needed`: Small Sniffers that scurry towards their target and attack in rapid succession when near.
 
 After all 10 Beasties are defeated, the Beastmaster returns to their aggressive phase and becomes vulnerable again.
 
 When the Beastmaster's final healthbar segment is depleted, they will die and drop their rewards.
 
 ## **Rewards**
-On defeat, the Beastmaster drops 30 Titan Splinters.
+On defeat, the Beastmaster drops 30 [Titanshard Splinters](../Loot#splinters).
 
 ## **Strategy**
 During their aggressive phase, the Beastmaster doesn't pose a major threat, as their punches don't deal a lot of damage. This makes it a good time to recover lost health or apply potions to yourself and allies.
