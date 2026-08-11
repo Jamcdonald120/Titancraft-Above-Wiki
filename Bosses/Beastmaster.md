@@ -2,7 +2,7 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-11T17:06:43.613Z
+date: 2026-08-11T17:13:59.244Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
@@ -24,7 +24,9 @@ The types of beasties spawned is a random selection of 6 different types:
 * Large Armadillos that scurry towards their target and attack in rapid succession when near.
 * Small Sniffers that scurry towards their target and attack in rapid succession when near.
 
-When the Beastmaster's final healthbar segment is depleted, they will die and drop their reward.
+After all 10 Beasties are defeated, the Beastmaster returns to their aggressive phase and becomes vulnerable again.
+
+When the Beastmaster's final healthbar segment is depleted, they will die and drop their rewards.
 
 ## **Rewards**
 On defeat, the Beastmaster drops 30 Titan Splinters.
@@ -34,7 +36,7 @@ During their aggressive phase, the Beastmaster doesn't pose a major threat, as t
 
 During their Beasties phase, players must constantly stay on the move to avoid getting cornered or caught in the water. The swarm of Beasties' relentless attacks can make escaping a poor position very difficult, especially since **wind charges do not work in the Beastmaster's arena**. Staying mobile has the added benefit of keeping the Beasties away from the Beastmaster's ring of invulnerability, as all the Beasties move faster than the Beastmaster during this phase.
 
-Using weapons capable of huge damage, such as an enchanted mace, it is possible to take multiple segments of health off of the Beastmaster's healthbar in a single attack. Doing so allows players to "skip" Beasties phases and speed up the fight. Doing this, however, can greatly increase the challenge of the fight, as sets of Beasties from skipped phases still spawn without regard to the current phase's set. The extra sets of beasties will also continue to exist into the Beastmaster's aggressive phase, as the kill requirements for skipped Beasties phases are not carried over. **The ability to skip phases may not be intended and could be removed in the future.**
+Using weapons capable of huge damage, such as an enchanted mace, it is possible to take multiple segments of health off of the Beastmaster's healthbar in a single attack. Doing so allows players to "skip" Beasties phases and speed up the fight. Doing this, however, can greatly increase the challenge of the fight, as sets of Beasties from skipped phases still spawn without regard to the current phase's set. The extra sets of beasties will also continue to exist into the Beastmaster's aggressive phase, as the kill requirements for skipped Beasties phases are not added to the current set. **The ability to skip phases may not be intended and could be removed in the future.**
 
 ## **History**
 Added Season 11
