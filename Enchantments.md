@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-10T01:14:59.398Z
+date: 2026-08-11T13:24:06.043Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -27,7 +27,7 @@ Here you can find a list of all of the new enchantments that you can find in the
 | Forge | Transforms broken blocks as if they had been cooked in a furnace | | | Pickaxe, Axe, Shovel | Fishing Rod |  
 | Green Thumb | Changes blocks into a "green" variety (Dirt to Rooted Dirt, Grass to Moss etc.) | ? | | Pickaxe, Shovel | |  
 | Hydrate | Changes blocks into the "wet" version (Dirt to Mud etc.) | ? | IV | ? | ? |  
-| Leap | Increased Vertical Jump Distance | Rush, Steady, Stride | III | Leggings | |  
+| Leap | Increased Vertical Jump Distance (III is +0.27 Jump Strength and +2 Safe Fall Distance) | Rush, Steady, Stride | III | Leggings | |  
 | Persist | Increases the Decay time if the item is dropped on the ground (+5 minutes per level) | | V | Any | |  
 | Philia | Converts any item in the target materials family into the target material. (ie: Philia: Oak would turn any wood or leaf item into its Oak equivalent; Philia: Blackstone would turn any stone into its Blackstone equivalent) | Fortune, Silk Touch | | Pick, Axe, Hoe, Shears, Shovel | |  
 | Pulverize | Breaks down a block into the next "finer" block (gravel into sand, for example) | | | Pickaxe, Axe, Hoe, Shovel  
