@@ -2,7 +2,7 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-11T17:13:59.244Z
+date: 2026-08-11T17:18:00.669Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
@@ -16,7 +16,7 @@ The Beastmaster fights with two distinct phases, one where they run towards thei
 
 During the Beastie phase, the Beastmaster is immune to all forms of damage, and will continuously spawn Beasties until 10 Beasties have been spawned, spawning no more than 4 Beasties simultaneously. They also emit an aura around them that renders all nearby Beasties invulnerable, requiring players to lure the Beasties away from the Beastmaster.
 
-The types of beasties spawned is a random selection of 6 different types:
+The Beasties spawned are a random mixed selection of 6 different types:
 * "Ravagita": Small Ravagers that deal great knockback to anything they hit.
 * "Yeet Pig": Small Hoglins that launch whoever it hits several blocks in the air.
 * "Polar Fear": Small Polar Bears who chase and maul their targets.
