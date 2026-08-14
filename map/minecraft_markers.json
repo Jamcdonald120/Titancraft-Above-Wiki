@@ -5,7 +5,8 @@
     "x": 1749,
     "y": 1035,
 	  "players": "1-6",
-    "event_type": "Tournament"
+    "event_type": "Tournament",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Skeet Shoot",
@@ -13,7 +14,8 @@
     "x": 2878,
     "y": 2542,
 	  "players": "1",
-    "event_type": "Tournament"
+    "event_type": "Tournament",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Elytra Course",
@@ -21,7 +23,8 @@
     "x": 528,
     "y": 2694,
 	  "players": "1",
-    "event_type": "Tournament"
+    "event_type": "Tournament",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Monument",
@@ -29,7 +32,8 @@
     "x": 1000,
     "y": 2488,
 	  "players": "1-8",
-    "event_type": "Combat / Maze"
+    "event_type": "Combat / Maze",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Hedge Maze",
@@ -37,7 +41,8 @@
     "x": 2711,
     "y": 1591,
 	  "players": "1+",
-    "event_type": "Maze"
+    "event_type": "Maze",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Pyramid Maze",
@@ -45,7 +50,8 @@
     "x": 1787,
     "y": 2722,
 	  "players": "1-8",
-    "event_type": "Combat / Maze"
+    "event_type": "Combat / Maze",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Hansel and Gretel",
@@ -53,7 +59,8 @@
     "x": 902,
     "y": 1835,
 	  "players": "1+",
-    "event_type": "Combat / Tournament"
+    "event_type": "Combat / Tournament",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Mansion",
@@ -61,7 +68,8 @@
     "x": 557,
     "y": 1792,
 	  "players": "1-8",
-    "event_type": "Combat / Puzzle"
+    "event_type": "Combat / Puzzle",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Strider Race",
@@ -69,7 +77,8 @@
     "x": 678,
     "y": 204,
 	  "players": "1-6",
-    "event_type": "Race"
+    "event_type": "Race",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Kovac",
@@ -77,7 +86,8 @@
     "x": 1813,
     "y": 355,
 	  "players": "",
-    "event_type": "Transmutation"
+    "event_type": "Transmutation",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Boat Race",
@@ -85,7 +95,8 @@
     "x": 2752,
     "y": 795,
 	  "players": "1",
-    "event_type": "Time Trials"
+    "event_type": "Time Trials",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Ice Maze",
@@ -93,7 +104,8 @@
     "x": 2345,
     "y": 503,
 	  "players": "1+",
-    "event_type": "Maze"
+    "event_type": "Maze",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Pig Race",
@@ -101,7 +113,8 @@
     "x": 2483,
     "y": 1673,
 	  "players": "2-6",
-    "event_type": "Race"
+    "event_type": "Race",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Bunny",
@@ -109,7 +122,8 @@
     "x": 2246,
     "y": 1474,
 	  "players": "1-12",
-    "event_type": "Collection"
+    "event_type": "Collection",
+    "wiki_url": "https://wiki.titancraft.nexus/en/Challenges/Minigames/Bunnies"
   },
   {
     "name": "Beastmaster",
@@ -117,7 +131,8 @@
     "x": 2309,
     "y": 2086,
 	  "players": "1-6",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Volt",
@@ -125,7 +140,8 @@
     "x": 1178,
     "y": 1406,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Sphynx",
@@ -133,7 +149,8 @@
     "x": 1760,
     "y": 2297,
 	  "players": "1+",
-    "event_type": "Combat / Tournament"
+    "event_type": "Combat / Tournament",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Gremora",
@@ -141,7 +158,8 @@
     "x": 2752,
     "y": 2145,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Von Feind",
@@ -149,7 +167,8 @@
     "x": 2450,
     "y": 2904,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Bee Queen",
@@ -157,7 +176,8 @@
     "x": 2157,
     "y": 1195,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "BroodMother",
@@ -165,7 +185,8 @@
     "x": 597,
     "y": 1711,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Dullohan",
@@ -173,7 +194,8 @@
     "x": 1606,
     "y": 1234,
 	  "players": "1-6",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Kermode",
@@ -181,7 +203,8 @@
     "x": 2246,
     "y": 475,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Tango",
@@ -189,7 +212,8 @@
     "x": 797,
     "y": 578,
 	  "players": "1-12",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Midas",
@@ -197,7 +221,8 @@
     "x": 367,
     "y": 543,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Vesta",
@@ -205,7 +230,8 @@
     "x": 973,
     "y": 989,
 	  "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Spruce Conduit",
@@ -460,8 +486,9 @@
     "group": "Events",
     "x": 2016,
     "y": 2795,
-	"players": "",
-    "event_type": ""
+	  "players": "",
+    "event_type": "",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "UFO",
@@ -469,7 +496,8 @@
     "x": 2555,
     "y": 2751,
     "players": "",
-    "event_type": ""
+    "event_type": "",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "UFO",
@@ -477,7 +505,8 @@
     "x": 2362,
     "y": 2640,
     "players": "",
-    "event_type": ""
+    "event_type": "",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "UFO",
@@ -485,7 +514,8 @@
     "x": 2726,
     "y": 2779,
     "players": "",
-    "event_type": ""
+    "event_type": "",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "UFO",
@@ -493,7 +523,8 @@
     "x": 2362,
     "y": 2640,
     "players": "",
-    "event_type": ""
+    "event_type": "",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "UFO",
@@ -501,7 +532,8 @@
     "x": 2834,
     "y": 2556,
     "players": "",
-    "event_type": ""
+    "event_type": "",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Trapdoor Terror",
@@ -509,7 +541,8 @@
     "x": 2648,
     "y": 1241,
     "players": "1",
-    "event_type": ""
+    "event_type": "",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   { 
     "name": "Snowman Fishing",
@@ -517,7 +550,8 @@
     "x": 2787,
     "y": 545,
     "players": "1",
-    "event_type": "Time Trials"
+    "event_type": "Time Trials",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Time Heist",
@@ -525,7 +559,8 @@
     "x": 1557,
     "y": 959,
     "players": "1-12",
-    "event_type": "Combat / Maze"
+    "event_type": "Combat / Maze",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   
   {
@@ -534,7 +569,8 @@
     "x": 535,
     "y": 2824,
     "players": "1",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Mesa Spectre",
@@ -542,7 +578,8 @@
     "x": 2581,
     "y": 2498,
     "players": "1",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Birch Spectre",
@@ -550,7 +587,8 @@
     "x": 2007,
     "y": 1206,
     "players": "1",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Dark Oak Spectre",
@@ -558,7 +596,8 @@
     "x": 399,
     "y": 1280,
     "players": "1",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Desert Spectre",
@@ -566,7 +605,8 @@
     "x": 1569,
     "y": 2787,
     "players": "1",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Spruce Spectre",
@@ -574,7 +614,8 @@
     "x": 1510,
     "y": 476,
     "players": "1",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Ice Spectre",
@@ -582,7 +623,8 @@
     "x": 2421,
     "y": 976,
     "players": "1",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Stables",
@@ -590,7 +632,8 @@
     "x": 288,
     "y": 895,
     "players": "",
-    "event_type": "Transport"
+    "event_type": "Transport",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Stables",
@@ -598,7 +641,8 @@
     "x": 2264,
     "y": 757,
     "players": "",
-    "event_type": "Transport"
+    "event_type": "Transport",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Stables",
@@ -606,7 +650,8 @@
     "x": 2801,
     "y": 2366,
     "players": "",
-    "event_type": "Transport"
+    "event_type": "Transport",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Stables",
@@ -614,7 +659,8 @@
     "x": 454,
     "y": 2405,
     "players": "",
-    "event_type": "Transport"
+    "event_type": "Transport",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Stables",
@@ -622,7 +668,8 @@
     "x": 1664,
     "y": 1783,
     "players": "",
-    "event_type": "Transport"
+    "event_type": "Transport",
+    "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
     "name": "Mushroom",
@@ -667,6 +714,14 @@
   {
     "name": "Bed",
     "group": "Village",
+    "x": 289,
+    "y": 924,
+    "players": "",
+    "event_type": ""
+  },
+  {
+    "name": "Bed",
+    "group": "Village",
     "x": 461,
     "y": 2470,
     "players": "",
@@ -675,8 +730,8 @@
   {
     "name": "Bed",
     "group": "Village",
-    "x": 289,
-    "y": 924,
+    "x": 2839,
+    "y": 2438,
     "players": "",
     "event_type": ""
   },
@@ -710,6 +765,25 @@
     "x": 2823,
     "y": 2594,
     "players": "1+",
-    "event_type": "Combat"
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
+  },
+  {
+    "name": "Resetting Bastion",
+    "group": "Events",
+    "x": 679,
+    "y": 229,
+    "players": "1+",
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
+  },
+  {
+    "name": "Lava Kraken",
+    "group": "Events",
+    "x": 497,
+    "y": 382,
+    "players": "1+",
+    "event_type": "Combat",
+    "wiki_url": "https://wiki.titancraft.nexus"
   }
 ]
