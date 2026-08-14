@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-11T18:14:45.276Z
+date: 2026-08-14T22:54:38.806Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -38,6 +38,6 @@ Here you can find a list of all of the new enchantments that you can find in the
 | Rush | Increased Speed (by 6.67% per level) | Leap, Steady, Stride | III | Elytra, Chestplate, Leggings | | 
 | Slaughter | ? | ? | IV | | |
 | Steady | Increased Knockback Resistance (II = +9, III = +10) | Leap, Rush, Stride | III | Chestplate, Leggings | |  
-| Stride | Increased Step Height (+1/2 block per level) | Leap, Rush, Steady | III | Leggings | |  
+| Stride | Increased Step Height (+1/2 block per level) | Leap, Rush, Steady, Protection | III | Leggings | |  
 | Squid Jig | Increased chance of catching an ink sack. | | | Fishing Rod | |  
 | Void | If a weapon with Void kills a mob, it drops no loot or XP. Same for any blocks mined. | | | Sword, Axe, Spear, Bow, Crossbow, Mace | Pickaxe, Shovel, Hoe |
