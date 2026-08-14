@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-14T22:54:38.806Z
+date: 2026-08-14T23:02:34.974Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -34,7 +34,7 @@ Here you can find a list of all of the new enchantments that you can find in the
 | Philia | Converts any item in the target materials family into the target material. (ie: Philia: Oak would turn any wood or leaf item into its Oak equivalent; Philia: Blackstone would turn any stone into its Blackstone equivalent) | Fortune, Silk Touch | | Pick, Axe, Hoe, Shears, Shovel | |  
 | Pulverize | Breaks down a block into the next "finer" block (gravel into sand, for example) | | | Pickaxe, Axe, Hoe, Shovel  
 | Reach | Increased block Interaction Range (+1 per level) | Any Protection | III | Chest Plate | Axe, Pick, Shovel |  
-| Resonance | When you hit a mob with it, it has the same effect as ringing a bell (all nearby mobs are highlighted) | | | Sword | |  
+| Resonance | When you hit a mob with it, it has the same effect as ringing a bell (all nearby mobs are highlighted) | Sharpness | | Sword | |  
 | Rush | Increased Speed (by 6.67% per level) | Leap, Steady, Stride | III | Elytra, Chestplate, Leggings | | 
 | Slaughter | ? | ? | IV | | |
 | Steady | Increased Knockback Resistance (II = +9, III = +10) | Leap, Rush, Stride | III | Chestplate, Leggings | |  
