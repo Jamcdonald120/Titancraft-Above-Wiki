@@ -2,7 +2,7 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-15T23:31:46.371Z
+date: 2026-08-15T23:38:42.676Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
@@ -26,6 +26,11 @@ dateCreated: 2026-08-10T16:57:59.757Z
 The Beastmaster is a boss on the [Mangrove Swamp island](../Islands/Mangrove). They are enclosed in an open arena near the center of the island. Surounding their arena are many spikes with mob heads on.
 
 ## **Fight**
+```
+#warning
+The Beastmaster fight can deal high amounts of damage to armor, particularaly helmets.  Mending before and after is recomended
+```
+
 The Beastmaster fights with two distinct phases, one where they run towards their target to punch them, and another where they slowly stalk their target and send Beasties to fight for them. They start the fight in their aggressive phase, and switch to their Beastie phase every time one of 6 segments of their healthbar has been depleted.
 
 During the Beastie phase, the Beastmaster is immune to all forms of damage, and will continuously spawn Beasties until a set amount of Beasties have been spawned, spawning no more than 4 Beasties simultaneously. The amount of Beasties that need to be defeated to end the phase starts at 3, and raises each subsequent time the Beastie phase begins, going to 4, 6, 8, and 10 kills respectively. While there are Beasties active in the arena, The Beastmaster emits an aura around them that renders all nearby Beasties invulnerable, requiring players to lure the Beasties away from the Beastmaster.
