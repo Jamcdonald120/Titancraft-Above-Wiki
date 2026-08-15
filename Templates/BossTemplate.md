@@ -2,12 +2,15 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T21:41:48.887Z
+date: 2026-08-15T23:42:33.015Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
 ---
 
+```
+#unfinished
+```
 ## **Location**
 The [[Boss]] is a boss on the [Island](../Islands/). They are ... 
 
