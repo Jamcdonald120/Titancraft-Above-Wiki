@@ -2,7 +2,7 @@
 title: Victoria and Victor
 description: 
 published: true
-date: 2026-08-14T22:54:27.445Z
+date: 2026-08-15T00:26:34.493Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T10:39:56.657Z
@@ -17,7 +17,9 @@ Neither will take a player who talks to them without a weapon in hand seriously,
 For a more detailed walkthrough for each quest, check the [quests](../Challenges/Quests) page
 |Quest|Description|Locations|
 |---|---|---|
+|Dusty|`Details needed`| [The Desert](../Islands/Desert) |
 |Musty|`Details needed`| [The swamp](../Islands/Swamp) |
+|Rusty|`Details needed`| [Ice Mountain](../Islands/IceMountain) |
 |Rescue the Archaeologist|Some bookworm archeologist has gotten themselves burried alive, go dig em up|[Desert island](/..Islands/Desert)|
 |Free the Villagers|You'd think folks'd be smarter than this. Beneath the dark forest spiders have overrun the old caves. They've webbed up some “adventurous” villagers and left them hanging like stores of food. I've pulled people out of webs before. Not all of them made it. You need to get down there, clear the spiders, and free anyone still breathing. No time to waste!|[The Dark Forest](/...Islands/DarkOakForest)|
 |Protect the Baby Turtles|Some idiots with claws and teeth found a turtles nursery by the ocean and decided it was easy prey. They're not wrong, unless you show up. Get to the island, wipe out the raiders, and keep the babies alive.|[Ocean Island](/...Islands/OceanIsland)|
