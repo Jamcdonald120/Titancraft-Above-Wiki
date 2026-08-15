@@ -2,7 +2,7 @@
 title: To Do List
 description: To Do List for wikipedia editors
 published: false
-date: 2026-08-15T22:36:08.843Z
+date: 2026-08-15T23:26:50.025Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T19:32:36.505Z
@@ -65,6 +65,7 @@ Dark Oak Island
 ## NPCs
 Harriet
 Victoria and Victor  (Quest details)
+Traders
 
 ## Structures
 Frog Statues (Various islands)
