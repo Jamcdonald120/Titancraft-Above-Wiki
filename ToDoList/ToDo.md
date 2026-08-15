@@ -2,7 +2,7 @@
 title: Midas
 description: Bosses page
 published: false
-date: 2026-08-15T19:32:36.505Z
+date: 2026-08-15T19:32:53.403Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T19:32:36.505Z
