@@ -2,7 +2,7 @@
 title: To Do List
 description: To Do List for wikipedia editors
 published: false
-date: 2026-08-15T19:35:16.027Z
+date: 2026-08-15T22:36:08.843Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T19:32:36.505Z
@@ -29,7 +29,7 @@ Dullahan - Copy and paste from old wiki
 ## Challenges (Aeth/DrivenDemon to figure out verbage and categories here)
 Bunnies - Copy and paste from old wiki
 Trap door - Copy and paste from old wiki
-Pyramid 
+Pyramid - Copy from old wiki
 Pillager Outpost
 Resetting Bastion
 UFO
@@ -37,7 +37,7 @@ Skeet Shooting
 Flaming Spider Cave
 Elytra Course
 Resetting Monument
-Mansion
+Mansion - Copy from old wiki
 Pig Race
 Hedge Maze
 Strider race
