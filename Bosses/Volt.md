@@ -2,12 +2,25 @@
 title: Volt
 description: History, Trivia, Credits
 published: true
-date: 2026-08-15T17:04:49.803Z
+date: 2026-08-15T23:33:53.923Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T17:02:19.114Z
 ---
 
+```
+#bossSidebar
+{
+ "name":"Volt",
+ "image":"path",
+ "class":"???",
+ "health":"1",
+ "timeToSolo":"1",
+ "rewards":{"splinters":24,
+            "other":["Special Poppy: 1","Channling Trident: 1"]
+  }
+}
+```
 ## **Location**
 Volt is a boss on a [lone island northwest of the starting village](../Islands/LightningRod). They rest idle atop a hill, shattered and unmoving.
 
@@ -22,8 +35,7 @@ While Volt is active, they will send electrical charges to the various lightning
 
 Like regular Iron Golems, Volt will visually crack as they take damage, which players can use to gauge how healthy Volt is.
 
-## **Rewards**
-On defeat, Volt drops 24 [Titanshard Splinters](../Loot#splinters) and a single Poppy that holds a message in it's lore.
+
 
 ## **Strategy**
 Many of Volt's attacks deal very high damage, so players wishing to fight them will want to bring good armor. A way to get away from Volt for healing purposes is also recommended, as Volt is very fast and can easily keep up with players sprinting away from them.
