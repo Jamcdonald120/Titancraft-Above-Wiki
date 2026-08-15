@@ -2,7 +2,7 @@
 title: Midas
 description: Bosses page
 published: true
-date: 2026-08-15T23:52:14.814Z
+date: 2026-08-15T23:52:40.438Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T17:27:07.455Z
@@ -20,7 +20,7 @@ dateCreated: 2026-08-10T17:27:07.455Z
  "class":"Pig",
  "health":"1",
  "timeToSolo":"1",
- "rewards":{"splinters":XX,
+ "rewards":{"splinters":"XX",
             "other":["Random Tool (or Sword) with [Midas Touch](../enchantments#Midas): 1"]
   }
 }
