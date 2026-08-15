@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T19:51:12.201Z
+date: 2026-08-15T20:36:52.600Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -29,7 +29,7 @@ Tied to the achievement...
 Added Season X
 Made by...
 
-<sidebar>
+## sidebar
 {
  "name":"[[boss]]",
  "image":"path",
@@ -38,7 +38,6 @@ Made by...
  "timeToSolo":1,
  "rewards":{"splinters":#,
             "other":["[duno, some loot](loot#some)"]
-  },
+  }
   
 }
-</sidebar>
