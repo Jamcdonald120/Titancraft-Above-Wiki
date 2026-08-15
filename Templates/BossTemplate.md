@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T21:31:31.595Z
+date: 2026-08-15T21:31:55.683Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -37,7 +37,7 @@ Made by...
  "image":"path",
  "class":"Undead",
  "health":"1",
- "timeToSolo":1,
+ "timeToSolo":"1",
  "rewards":{"splinters":#,
             "other":["[duno, some loot](loot#some)"]
   }
