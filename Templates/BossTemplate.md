@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T23:42:33.015Z
+date: 2026-08-15T23:54:46.120Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -10,6 +10,21 @@ dateCreated: 2026-08-15T18:28:26.747Z
 
 ```
 #unfinished
+```
+
+
+```
+#bossSidebar
+{
+ "name":"[[boss]]",
+ "image":"path",
+ "class":"Undead",
+ "health":"1",
+ "timeToSolo":"1",
+ "rewards":{"splinters":1,
+            "other":["[duno, some loot](loot#some)"]
+  }
+}
 ```
 ## **Location**
 The [[Boss]] is a boss on the [Island](../Islands/). They are ... 
@@ -31,17 +46,3 @@ Tied to the achievement...
 Added Season X
 Made by...
 
-
-```
-#bossSidebar
-{
- "name":"[[boss]]",
- "image":"path",
- "class":"Undead",
- "health":"1",
- "timeToSolo":"1",
- "rewards":{"splinters":1,
-            "other":["[duno, some loot](loot#some)"]
-  }
-}
-```
