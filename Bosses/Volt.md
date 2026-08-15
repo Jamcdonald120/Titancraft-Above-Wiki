@@ -2,7 +2,7 @@
 title: Volt
 description: History, Trivia, Credits
 published: true
-date: 2026-08-15T23:33:53.923Z
+date: 2026-08-15T23:36:34.187Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T17:02:19.114Z
@@ -47,4 +47,5 @@ When flung high in the air by Volt's melee attack, players will need to plan a s
 Brave players can alternatively take advantage of the height gained from being flung with a **Mace**. Landing a hit on Volt with a mace after being flung both deals very high damage to Volt, and fully resets the players accumulated fall damage. If enchanted with Wind Burst, players can chain high damage smash attacks repeatedly against Volt, a strategy which Volt doesn't have a direct way to counter.
 
 ## **History**
-Added Season 11
+OG Boss from Season 1
+Ohm, Amp, and Watt added Season 11
