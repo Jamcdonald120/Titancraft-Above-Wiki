@@ -2,13 +2,13 @@
 title: To Do List
 description: To Do List for wikipedia editors
 published: false
-date: 2026-08-15T19:33:14.072Z
+date: 2026-08-15T19:33:36.223Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T19:32:36.505Z
 ---
 
-## **To Do*
+## To Do
 
 ## General:
 Create a "Science! page for figuring out what the enchants to
