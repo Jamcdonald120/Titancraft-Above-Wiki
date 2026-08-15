@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T18:59:25.724Z
+date: 2026-08-15T19:24:24.431Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -24,9 +24,11 @@ On defeat, the [[Boss]] drops X [Titanshard Splinters](../Loot#splinters). Anyth
 ## **Strategy**
 Detail optimal strategy to defeat the boss...
 
+## **Trivia**
+Tied to the achievement...
+
 ## **History**
 Added Season X
 Made by...
 
-## **Trivia**
-Tied to the achievement...
+
