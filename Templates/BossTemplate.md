@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T21:35:38.895Z
+date: 2026-08-15T21:39:53.363Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -30,7 +30,7 @@ Made by...
 
 
 ```
-#sidebar
+#bossSidebar
 {
  "name":"[[boss]]",
  "image":"path",
