@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T20:37:53.987Z
+date: 2026-08-15T20:39:21.751Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -29,8 +29,9 @@ Tied to the achievement...
 Added Season X
 Made by...
 
-## sidebar
-```sidebar
+
+```
+#sidebar
 {
  "name":"[[boss]]",
  "image":"path",
