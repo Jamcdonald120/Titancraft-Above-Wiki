@@ -1,7 +1,7 @@
 [
   {
     "name": "Archery",
-    "group": "Events",
+    "group": "Minigames",
     "x": 1749,
     "y": 1035,
 	  "players": "1-6",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Skeet Shoot",
-    "group": "Events",
+    "group": "Minigames",
     "x": 2878,
     "y": 2542,
 	  "players": "1",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Elytra Course",
-    "group": "Events",
+    "group": "Minigames",
     "x": 528,
     "y": 2694,
 	  "players": "1",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Strider Race",
-    "group": "Events",
+    "group": "Minigames",
     "x": 678,
     "y": 204,
 	  "players": "1-6",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Boat Race",
-    "group": "Events",
+    "group": "Minigames",
     "x": 2752,
     "y": 795,
 	  "players": "1",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Ice Maze",
-    "group": "Events",
+    "group": "Minigames",
     "x": 2345,
     "y": 503,
 	  "players": "1+",
@@ -117,8 +117,8 @@
     "wiki_url": "https://wiki.titancraft.nexus"
   },
   {
-    "name": "Bunny",
-    "group": "Events",
+    "name": "Bunnies",
+    "group": "Minigames",
     "x": 2246,
     "y": 1474,
 	  "players": "1-12",
@@ -537,7 +537,7 @@
   },
   {
     "name": "Trapdoor Terror",
-    "group": "Events",
+    "group": "Minigames",
     "x": 2648,
     "y": 1241,
     "players": "1",
@@ -546,7 +546,7 @@
   },
   { 
     "name": "Snowman Fishing",
-    "group": "Events",
+    "group": "Minigames",
     "x": 2787,
     "y": 545,
     "players": "1",
@@ -555,7 +555,7 @@
   },
   {
     "name": "Time Heist",
-    "group": "Events",
+    "group": "Minigames",
     "x": 1557,
     "y": 959,
     "players": "1-12",
@@ -783,7 +783,7 @@
     "x": 497,
     "y": 382,
     "players": "1+",
-    "event_type": "Combat",
+    "event_type": "",
     "wiki_url": "https://wiki.titancraft.nexus"
   }
 ]
