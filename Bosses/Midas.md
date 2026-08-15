@@ -2,7 +2,7 @@
 title: Midas
 description: Bosses page
 published: true
-date: 2026-08-15T23:49:36.653Z
+date: 2026-08-15T23:51:21.159Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T17:27:07.455Z
@@ -10,6 +10,20 @@ dateCreated: 2026-08-10T17:27:07.455Z
 
 ```
 #unfinished
+```
+
+```
+#bossSidebar
+{
+ "name":"Midas",
+ "image":"path",
+ "class":"Pig",
+ "health":"1",
+ "timeToSolo":"1",
+ "rewards":{"splinters":XX,
+            "other":[Random Tool (or Sword) with"[Midas Touch](../enchantments#Midas)":1]
+  }
+}
 ```
 ## **Location**
 Midas is a Piglin who turns everything he touches to gold. He lives in a golden cave in the [Volcano](../Islands/bolcano) island. 
@@ -43,16 +57,3 @@ Made by...
 
 
 
-```
-#bossSidebar
-{
- "name":"[[boss]]",
- "image":"path",
- "class":"Undead",
- "health":"1",
- "timeToSolo":"1",
- "rewards":{"splinters":1,
-            "other":["[duno, some loot](loot#some)"]
-  }
-}
-```
