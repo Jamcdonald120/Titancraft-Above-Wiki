@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T21:31:55.683Z
+date: 2026-08-15T21:32:17.703Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -41,6 +41,5 @@ Made by...
  "rewards":{"splinters":#,
             "other":["[duno, some loot](loot#some)"]
   }
-  
 }
 ```
