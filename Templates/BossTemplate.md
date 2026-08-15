@@ -2,7 +2,7 @@
 title: BossTemplate
 description: Template to use for bosses
 published: false
-date: 2026-08-15T21:32:17.703Z
+date: 2026-08-15T21:35:38.895Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
@@ -12,7 +12,6 @@ dateCreated: 2026-08-15T18:28:26.747Z
 The [[Boss]] is a boss on the [Island](../Islands/). They are ... 
 
 *Picture of Arena*
-
 
 ## **Fight**
 Description of the fight...
