@@ -2,11 +2,25 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-15T16:02:41.795Z
+date: 2026-08-15T23:31:46.371Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
 ---
+
+```
+#bossSidebar
+{
+ "name":"Beastmaster",
+ "image":"path",
+ "class":"Pig",
+ "health":"1",
+ "timeToSolo":"1",
+ "rewards":{"splinters":30,
+            "other":[]
+  }
+}
+```
 
 ## **Location**
 The Beastmaster is a boss on the [Mangrove Swamp island](../Islands/Mangrove). They are enclosed in an open arena near the center of the island. Surounding their arena are many spikes with mob heads on.
@@ -27,9 +41,6 @@ The Beasties spawned are a random mixed selection of 6 different types:
 After all Beasties are defeated, the Beastmaster returns to their aggressive phase and becomes vulnerable again.
 
 When the Beastmaster's final healthbar segment is depleted, they will die and drop their rewards.
-
-## **Rewards**
-On defeat, the Beastmaster drops 30 [Titanshard Splinters](../Loot#splinters).
 
 ## **Strategy**
 During their aggressive phase, the Beastmaster doesn't pose a major threat, as their punches don't deal a lot of damage. This makes it a good time to recover lost health or apply potions to yourself and allies.
