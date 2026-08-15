@@ -2,7 +2,7 @@
 title: Islands
 description: 
 published: true
-date: 2026-08-09T16:58:27.473Z
+date: 2026-08-15T19:22:31.033Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:00:54.265Z
@@ -30,7 +30,7 @@ Each island has a material block associated with it. Knowing the material blocks
 |[Turtle Island<br>Ocean Island<br>Tropical Island](Ocean)|Prismarine|Resetting Ocean Monument|
 |Desert Island|Sand|Pryamid, Sphynx|
 |Jungle Island|Bamboo Block|Hang Gliding, Jungle Temple|
-|Oak Tree Island<br>Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
+|Packed Mud Island<br>Piggies Island|Packed Mud|Pig Racing, Hedge Maze|
 |[Mesa Island<br>Badlands Island](Mesa)|Orange Teracotta|Skeet Shooting, UFO Encounter, Von Fiend|
 |Swamp Island<br>Gremora's Swamp Island|Clay|Gremora|
 |[Snow Mountain Island](Snow)|Ice|Ice Maze, Ice Boat Racing|
