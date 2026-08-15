@@ -1,8 +1,8 @@
 ---
 title: Volt
-description: 
+description: History, Trivia, Credits
 published: true
-date: 2026-08-15T17:02:19.114Z
+date: 2026-08-15T17:04:49.803Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T17:02:19.114Z
