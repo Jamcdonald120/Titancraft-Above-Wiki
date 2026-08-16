@@ -2,7 +2,7 @@
 title: Queen Bee 
 description: Queen Bee 
 published: true
-date: 2026-08-16T00:09:50.707Z
+date: 2026-08-16T00:17:00.027Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:09:50.707Z
@@ -18,7 +18,7 @@ dateCreated: 2026-08-16T00:09:50.707Z
 {
  "name":"Queen Bee",
  "image":"path",
- "class":"Undead",
+ "class":"Mortal",
  "health":"1",
  "timeToSolo":"1",
  "rewards":{"splinters":1,
