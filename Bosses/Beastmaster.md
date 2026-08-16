@@ -2,7 +2,7 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-15T23:38:42.676Z
+date: 2026-08-16T07:09:23.882Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
@@ -14,8 +14,8 @@ dateCreated: 2026-08-10T16:57:59.757Z
  "name":"Beastmaster",
  "image":"path",
  "class":"Pig",
- "health":"1",
- "timeToSolo":"1",
+ "health":"6*",
+ "timeToSolo":"8",
  "rewards":{"splinters":30,
             "other":[]
   }
