@@ -2,7 +2,7 @@
 title: Dullahan
 description: 
 published: true
-date: 2026-08-16T04:17:54.746Z
+date: 2026-08-16T04:18:04.452Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:37:38.777Z
@@ -18,7 +18,7 @@ dateCreated: 2026-08-16T00:37:38.777Z
 {
  "name":"Dullahan",
  "image":"path",
- "class":"???",
+ "class":"Undead",
  "health":"1",
  "timeToSolo":"1",
  "rewards":{"splinters":0,
