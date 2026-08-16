@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-16T14:57:55.919Z
+date: 2026-08-16T15:03:15.780Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -49,23 +49,24 @@ Here is a list of all of the enchantments that can go above normal level limitat
 
 | Name | Normal Max Level | New Max Level |
 | --- | --- | --- | --- | --- | --- |
+| Bane of Arthropods | V | VI |
+| Blast Protection | IV | V |
 | Efficiency | V | VI |
+| Fire Protection | IV | V |
+| Fortune | III | V (on Hoes only); X (on a limited-use Iron Pickaxe) |
+| Frost Walker | IV | V |
+| Impaling | V | VI |
+| Looting | III | IV |
+| Lunge | III | IV |
+| Piercing | IV | V |
+| Projectile Protection | IV | V | 
+| Protection | IV | V |
+| Punch | III | IV |
+| Resperation | IV | V |
+| Riptide | III | IV |
 | Sharpness | V | VI |
 | Smite | V | VI |
-| Bane of Arthropods | V | VI |
-| Unbreaking | III | IV (on most things); V (on Flint and Steel or Shears) |
-| Fortune | III | V (on Hoes only); X (on a limited-use Iron Pickaxe) |
-| Protection | IV | V |
-| Blast Protection | IV | V |
-| Projectile Protection | IV | V | 
-| Fire Protection | IV | V |
-| Resperation | IV | V |
 | Soul Speed | III | IV |
-| Swift Sneak | III | IV |
-| Frost Walker | IV | V |
-| Looting | III | IV |
 | Sweeping Edge | III | V |
-| Punch | III | IV |
-| Impaling | V | VI |
-| Riptide | III | IV |
-| Piercing | IV | V |
+| Swift Sneak | III | IV |
+| Unbreaking | III | IV (on most things); V (on Flint and Steel or Shears) |
