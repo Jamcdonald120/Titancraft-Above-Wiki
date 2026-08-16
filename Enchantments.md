@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-16T14:13:55.530Z
+date: 2026-08-16T14:15:09.343Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -50,7 +50,7 @@ Here you can find a list of all of the new enchantments that you can find in the
 | Sharpness | V | VI |
 | Smite | V | VI |
 | Bane of Arthropods | V | VI |
-| Unbreaking | III | IV |
+| Unbreaking | III | IV (on most things); V (on Flint and Steel or Shears) |
 | Fortune | III | V (on Hoes only); X (on a limited-use Iron Pickaxe) |
 | Protection | IV | V |
 | Blast Protection | IV | V |
