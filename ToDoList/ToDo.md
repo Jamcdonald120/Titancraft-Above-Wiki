@@ -2,7 +2,7 @@
 title: To Do List
 description: To Do List for wikipedia editors
 published: false
-date: 2026-08-15T23:26:50.025Z
+date: 2026-08-16T14:04:48.951Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T19:32:36.505Z
@@ -11,7 +11,7 @@ dateCreated: 2026-08-15T19:32:36.505Z
 ## To Do
 
 ## General:
-Create a "Science! page for figuring out what the enchants to
+Create a "Science! page for figuring out what the enchants to - Maelwys
 
 ## Bosses
 Von Fiend - Copy and paste from old wiki
