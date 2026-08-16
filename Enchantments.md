@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-16T15:03:15.780Z
+date: 2026-08-16T15:23:04.038Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -61,7 +61,7 @@ Here is a list of all of the enchantments that can go above normal level limitat
 | Piercing | IV | V |
 | Projectile Protection | IV | V | 
 | Protection | IV | V |
-| Punch | III | IV |
+| Punch | II | IV |
 | Resperation | IV | V |
 | Riptide | III | IV |
 | Sharpness | V | VI |
