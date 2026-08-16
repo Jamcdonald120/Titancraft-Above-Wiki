@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-16T14:15:09.343Z
+date: 2026-08-16T14:16:16.808Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -44,6 +44,8 @@ Here you can find a list of all of the new enchantments that you can find in the
 
 
 ### Vanilla Enchantments
+Here is a list of all of the enchantments that can go above normal level limitations, when you acquire them in the Above.
+
 | Name | Normal Max Level | New Max Level |
 | --- | --- | --- | --- | --- | --- |
 | Efficiency | V | VI |
