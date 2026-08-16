@@ -2,7 +2,7 @@
 title: Broodmother
 description: 
 published: true
-date: 2026-08-16T07:52:28.593Z
+date: 2026-08-16T07:52:37.760Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:36:01.100Z
@@ -22,7 +22,7 @@ dateCreated: 2026-08-16T00:36:01.100Z
  "health":"1",
  "timeToSolo":"5 Minutes",
  "rewards":{"splinters":"28?",
-            "other":["[Cobwebs](https://minecraft.wiki/w/Cobweb)": ~ 2 Stacks]
+            "other":["[Cobwebs](https://minecraft.wiki/w/Cobweb)": 84]
   }
 }
 ```
