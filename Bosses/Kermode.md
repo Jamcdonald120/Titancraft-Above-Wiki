@@ -2,7 +2,7 @@
 title: Kermode
 description: The Bear
 published: true
-date: 2026-08-16T00:05:49.013Z
+date: 2026-08-16T00:07:33.530Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:05:49.013Z
@@ -22,7 +22,7 @@ dateCreated: 2026-08-16T00:05:49.013Z
  "health":"1",
  "timeToSolo":"1",
  "rewards":{"splinters":"XX",
-            "other":["Blue Ice: 32"]
+            "other":["[Blue Ice](https://minecraft.wiki/w/Blue_Ice): 32"]
   }
 }
 ```
