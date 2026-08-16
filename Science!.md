@@ -2,13 +2,15 @@
 title: Science!
 description: List for figuring out above enchants and what they do
 published: false
-date: 2026-08-16T13:27:49.618Z
+date: 2026-08-16T13:28:47.951Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T19:40:00.802Z
 ---
 
 ## Science!
+
+Listed below are the actual results from the "transformational" enchantments that were introduced in the above. If you perform Science! and learn new results not included here, please let us know so we can list them!
 
 ### Bleach
 Removes any Dye color from the blocks (Dyed Terracotta to normal Terracotta, Dyed Wool to White Wool etc.)
