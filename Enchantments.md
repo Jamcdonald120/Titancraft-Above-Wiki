@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-15T00:08:42.570Z
+date: 2026-08-16T14:13:55.530Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -41,3 +41,27 @@ Here you can find a list of all of the new enchantments that you can find in the
 | Stride | Increased Step Height (+1/2 block per level) | Leap, Rush, Steady, Protection `The incompatibility with Protection has been reported as a bug` | III | Leggings | |  
 | Squid Jig | Increased chance of catching an ink sack. | | | Fishing Rod | |  
 | Void | If a weapon with Void kills a mob, it drops no loot or XP. Same for any blocks mined. | | | Sword, Axe, Spear, Bow, Crossbow, Mace | Pickaxe, Shovel, Hoe |
+
+
+### Vanilla Enchantments
+| Name | Normal Max Level | New Max Level |
+| --- | --- | --- | --- | --- | --- |
+| Efficiency | V | VI |
+| Sharpness | V | VI |
+| Smite | V | VI |
+| Bane of Arthropods | V | VI |
+| Unbreaking | III | IV |
+| Fortune | III | V (on Hoes only); X (on a limited-use Iron Pickaxe) |
+| Protection | IV | V |
+| Blast Protection | IV | V |
+| Projectile Protection | IV | V | 
+| Fire Protection | IV | V |
+| Resperation | IV | V |
+| Soul Speed | IV | V |
+| Frost Walker | IV | V |
+| Looting | III | IV |
+| Sweeping Edge | III | V |
+| Punch | III | IV |
+| Impaling | V | VI |
+| Riptide | III | IV |
+| Piercing | IV | V |
