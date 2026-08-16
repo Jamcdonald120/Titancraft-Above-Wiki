@@ -2,7 +2,7 @@
 title: Dullahan
 description: 
 published: true
-date: 2026-08-16T00:37:38.777Z
+date: 2026-08-16T00:45:20.350Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:37:38.777Z
@@ -22,7 +22,7 @@ dateCreated: 2026-08-16T00:37:38.777Z
  "health":"1",
  "timeToSolo":"1",
  "rewards":{"splinters":0,
-            "other":["Cosmetic Head Coupon"]
+            "other":["Dullahan Head: 1"]
   }
 }
 ```
