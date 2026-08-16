@@ -1,8 +1,8 @@
 ---
 title: BossTemplate
-description: Template to use for bosses
+description: 
 published: false
-date: 2026-08-15T23:54:46.120Z
+date: 2026-08-16T00:18:10.307Z
 tags: template
 editor: markdown
 dateCreated: 2026-08-15T18:28:26.747Z
