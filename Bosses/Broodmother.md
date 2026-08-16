@@ -2,7 +2,7 @@
 title: Broodmother
 description: 
 published: true
-date: 2026-08-16T00:36:01.100Z
+date: 2026-08-16T07:50:40.367Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:36:01.100Z
@@ -20,8 +20,8 @@ dateCreated: 2026-08-16T00:36:01.100Z
  "image":"path",
  "class":"Arachnid",
  "health":"1",
- "timeToSolo":"1",
- "rewards":{"splinters":"XX",
+ "timeToSolo":"5 Minutes",
+ "rewards":{"splinters":"28?",
             "other":["[Cobwebs](https://minecraft.wiki/w/Cobweb)"]
   }
 }
