@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-16T14:16:16.808Z
+date: 2026-08-16T14:28:52.525Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -59,7 +59,8 @@ Here is a list of all of the enchantments that can go above normal level limitat
 | Projectile Protection | IV | V | 
 | Fire Protection | IV | V |
 | Resperation | IV | V |
-| Soul Speed | IV | V |
+| Soul Speed | III | IV |
+| Swift Sneak | III | IV |
 | Frost Walker | IV | V |
 | Looting | III | IV |
 | Sweeping Edge | III | V |
