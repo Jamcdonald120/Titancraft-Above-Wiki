@@ -2,7 +2,7 @@
 title: Dullahan
 description: 
 published: true
-date: 2026-08-16T00:45:20.350Z
+date: 2026-08-16T04:17:54.746Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:37:38.777Z
@@ -26,13 +26,14 @@ dateCreated: 2026-08-16T00:37:38.777Z
   }
 }
 ```
+
 ## **Location**
-The Dullahan is a boss on the [Island](../Islands/). They are ... 
+The Dullahan is a boss on the [Island](../Islands/). He are ... 
 
 *Picture of Arena*
 
 ## **Fight**
-Description of the fight...
+Dullahan is the only boss meant to be farmed.  He is always avaliable to be spawned and will give a reward no matter how many times he is killed per day.  However, the reward is only useful for turning in to special decorative mob heads such as the Tango Hermit party heads.
 
 *Picture of individual Boss*
 
@@ -40,7 +41,8 @@ Description of the fight...
 Detail optimal strategy to defeat the boss...
 
 ## **Trivia**
-Tied to the achievement...
+* Dullahan named after the [headless horseman](https://en.wikipedia.org/wiki/Dullahan) from Irish Mythology
+
 
 ## **History**
 Added Season X
