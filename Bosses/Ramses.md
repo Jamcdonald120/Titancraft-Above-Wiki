@@ -2,7 +2,7 @@
 title: Ramses
 description: 
 published: true
-date: 2026-08-16T00:16:41.163Z
+date: 2026-08-16T06:29:24.816Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:16:41.163Z
@@ -20,8 +20,8 @@ dateCreated: 2026-08-16T00:16:41.163Z
  "image":"path",
  "class":"Undead",
  "health":"1",
- "timeToSolo":"1",
- "rewards":{"splinters":1,
+ "timeToSolo":"10 Minutes",
+ "rewards":{"splinters":18,
             "other":["[Nether Star](https://minecraft.wiki/w/Nether_Star): 1"]
   }
 }
