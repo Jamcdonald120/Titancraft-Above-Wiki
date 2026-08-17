@@ -2,7 +2,7 @@
 title: Von Fiend
 description: Did someone say Decapitation?
 published: true
-date: 2026-08-17T20:54:57.658Z
+date: 2026-08-17T21:01:04.767Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T23:58:49.852Z
@@ -22,12 +22,13 @@ dateCreated: 2026-08-15T23:58:49.852Z
  "health":"1",
  "timeToSolo":"1",
  "rewards":{"splinters":"24",
-            "other":["Unique Single-Use High-Damage Axe that gives the mob head of any normal mob killed with it: 1"]
+ 					  "other":["Head of Von Fiend's most recent victim: 1",
+            "other":["Unique single-use high-damage axe that gives the mob head of any normal mob killed with it: 1"]
   }
 }
 ```
 ## **Location**
-Von Fiend is a boss on the [Island](../Islands/). They are ... 
+Von Fiend is a boss on the [Badlands Island](../Islands/Mesa). They patrol near the 2 parked campers at the southern end of the island.
 
 *Picture of Arena*
 
@@ -40,7 +41,7 @@ Description of the fight...
 Detail optimal strategy to defeat the boss...
 
 ## **Trivia**
-Tied to the achievement...
+- If killed by Von Fiend, players are awarded the ***Off with your head!*** advancement.
 
 ## **History**
 Added Season X
