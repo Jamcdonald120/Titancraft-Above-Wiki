@@ -132,7 +132,7 @@
     "y": 2086,
 	  "players": "1-6",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Beastmaster"
   },
   {
     "name": "Volt",
@@ -141,7 +141,7 @@
     "y": 1406,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Volt"
   },
   {
     "name": "Sphynx",
@@ -150,7 +150,7 @@
     "y": 2297,
 	  "players": "1+",
     "event_type": "Combat / Tournament",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Ramses"
   },
   {
     "name": "Gremora",
@@ -159,7 +159,7 @@
     "y": 2145,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Gremora"
   },
   {
     "name": "Von Feind",
@@ -168,7 +168,7 @@
     "y": 2904,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Von_Feind"
   },
   {
     "name": "Bee Queen",
@@ -177,7 +177,7 @@
     "y": 1195,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Queen_Bee"
   },
   {
     "name": "BroodMother",
@@ -186,7 +186,7 @@
     "y": 1711,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Broodmother"
   },
   {
     "name": "Dullohan",
@@ -195,7 +195,7 @@
     "y": 1234,
 	  "players": "1-6",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Dullahan"
   },
   {
     "name": "Kermode",
@@ -204,7 +204,7 @@
     "y": 475,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Kermode"
   },
   {
     "name": "Tango",
@@ -213,7 +213,7 @@
     "y": 578,
 	  "players": "1-12",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/The_Fallen_One"
   },
   {
     "name": "Midas",
@@ -222,7 +222,7 @@
     "y": 543,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Midas"
   },
   {
     "name": "Vesta",
@@ -231,7 +231,7 @@
     "y": 989,
 	  "players": "1+",
     "event_type": "Combat",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/Bosses/Vesta"
   },
   {
     "name": "Spruce Conduit",
@@ -633,7 +633,7 @@
     "y": 895,
     "players": "",
     "event_type": "Teleport",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/NPCs/Stablemasters"
   },
   {
     "name": "Stables",
@@ -642,7 +642,7 @@
     "y": 757,
     "players": "",
     "event_type": "Teleport",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/NPCs/Stablemasters"
   },
   {
     "name": "Stables",
@@ -651,7 +651,7 @@
     "y": 2366,
     "players": "",
     "event_type": "Teleport",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/NPCs/Stablemasters"
   },
   {
     "name": "Stables",
@@ -660,7 +660,7 @@
     "y": 2405,
     "players": "",
     "event_type": "Teleport",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/NPCs/Stablemasters"
   },
   {
     "name": "Stables",
@@ -669,7 +669,7 @@
     "y": 1783,
     "players": "",
     "event_type": "Teleport",
-    "wiki_url": "https://wiki.titancraft.nexus"
+    "wiki_url": "https://wiki.titancraft.nexus/en/NPCs/Stablemasters"
   },
   {
     "name": "Mushroom",
