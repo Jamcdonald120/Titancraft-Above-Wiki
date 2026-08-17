@@ -2,7 +2,7 @@
 title: Kermode
 description: The Bear
 published: true
-date: 2026-08-17T17:24:18.234Z
+date: 2026-08-17T17:38:59.776Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:05:49.013Z
@@ -18,7 +18,7 @@ dateCreated: 2026-08-16T00:05:49.013Z
 {
  "name":"Kermode",
  "image":"path",
- "class":"Undead",
+ "class":"N/A",
  "health":"1",
  "timeToSolo":"2",
  "rewards":{"splinters":"12",
@@ -47,8 +47,10 @@ Kermode doesn't hit very hard or have a lot of health compared to other bosses i
 
 The spawning Breezes can serve to disrupt this strategy, but otherwise aren't very threatening. Kermode's low health means it's likely they won't even have time to spawn before Kermode is defeated, assuming the player is fighting with a weapon.
 
+There is Powder Snow dotted around the arena. Player's may opt to bring leather boots to prevent getting stuck in it.
+
 ## **Trivia**
-Tied to the achievement...
+- Defeating Kermode without a weapon (only using fist punches) will reward players the ***With my Bear Hands*** advancement.
 
 ## **History**
 Added Season X
