@@ -2,7 +2,7 @@
 title: Von Fiend
 description: Did someone say Decapitation?
 published: true
-date: 2026-08-15T23:59:07.765Z
+date: 2026-08-17T20:54:57.658Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T23:58:49.852Z
@@ -21,7 +21,7 @@ dateCreated: 2026-08-15T23:58:49.852Z
  "class":"Alive?",
  "health":"1",
  "timeToSolo":"1",
- "rewards":{"splinters":"XX",
+ "rewards":{"splinters":"24",
             "other":["Unique Single-Use High-Damage Axe that gives the mob head of any normal mob killed with it: 1"]
   }
 }
