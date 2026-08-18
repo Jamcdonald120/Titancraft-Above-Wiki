@@ -2,7 +2,7 @@
 title: Von Feind
 description: Did someone say Decapitation?
 published: true
-date: 2026-08-18T19:58:29.719Z
+date: 2026-08-18T19:58:57.715Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T19:58:29.718Z
@@ -18,7 +18,7 @@ dateCreated: 2026-08-18T19:58:29.718Z
 {
  "name":"Von Fiend",
  "image":"path",
- "class":"Alive?",
+ "class":"Mortal",
  "health":"1",
  "timeToSolo":"3",
  "rewards":{"splinters":"24",
