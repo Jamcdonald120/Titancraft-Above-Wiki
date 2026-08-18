@@ -2,7 +2,7 @@
 title: Von Fiend
 description: Did someone say Decapitation?
 published: true
-date: 2026-08-18T20:22:26.967Z
+date: 2026-08-18T20:32:13.472Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-15T23:58:49.852Z
@@ -10,7 +10,7 @@ dateCreated: 2026-08-15T23:58:49.852Z
 
 ```
 #redirect
-Von_feind
+Bosses/Von_feind
 ```
 ```
 #unfinished
