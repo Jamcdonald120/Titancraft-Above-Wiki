@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-16T15:23:04.038Z
+date: 2026-08-18T03:27:48.431Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -18,17 +18,18 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 
 | Name | Summary | Incompatible With | Max Level | Primary Items | Secondary Items |  
 | --- | --- | --- | --- | --- | --- |
-| Angler | Only catch fish (no junk or treasure) | Junker | | Fishing Rod | |  
+| Angler | Only catch fish (no junk or treasure) | Dredge, Junker | | Fishing Rod | |  
 | Bane of Swine | Increased damage against porcine-kind (Pigs, Pigmen, Zombie Pigmen, Hoglins, Zoglins) | Bane of Arthropods, Bane of Mortals, Breach, Density, Sharpness, Smite | | Sword, Spear, Mace, Axe | |  
 | Bane of Mortals | Increased damage against players and "normal mortal" type mobs (Pillagers, Evokers etc.) | Bane of Arthropods, Bane of Swine, Breach, Density, Sharpness, Smite | | Sword, Spear, Mace, Axe | |  
 | Bleach | Removes any Dye color from the blocks (Dyed Terracotta to normal Terracotta, Dyed Wool to White Wool etc.) | | | Pickaxe, Axe, Shovel, Shears | |  
 | Catch and Release | Adds a chance to catch a fish in a bucket | | | Fishing Rod | |  
 | Chisel | Changes blocks into the cut variety (Sandstone to Cut Sandstone, Quartz to Quartz brick, Nether brick to Chiseled nether brick) | | | Pickaxe | |  
+| Dredge | ? | Angler, Junker | | Fishing Rod | |  
 | Extract | Extracts components from blocks (Granite or Diorite give Quartz, Andesite gives Diorite) | | | Pickaxe, Axe, Shovel | Spear |  
 | Forge | Transforms broken blocks as if they had been cooked in a furnace | | | Pickaxe, Axe, Shovel | Fishing Rod |  
 | Green Thumb | Changes blocks into a "green" variety (Dirt to Rooted Dirt, Grass to Moss etc.) | ? | | Pickaxe, Shovel | |  
 | Hydrate | Changes blocks into the "wet" version (Dirt to Mud etc.) | ? | IV | ? | ? |  
-| Junker | Only catch junk (no fish or treasure) | Angler | | Fishing Rod | |
+| Junker | Only catch junk (no fish or treasure) | Angler, Dredge | | Fishing Rod | |
 | Leap | Increased Vertical Jump Distance (III is +0.27 Jump Strength and +2 Safe Fall Distance) | Rush, Steady, Stride | III | Leggings | |  
 | Oxidation | Increases the oxidation state of copper blocks | | | Pickaxe | |
 | Persist | Increases the Decay time if the item is dropped on the ground (+5 minutes per level) | | V | Any | |  
