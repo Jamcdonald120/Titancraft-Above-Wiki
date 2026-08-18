@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-18T14:55:57.121Z
+date: 2026-08-18T16:39:20.241Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -11,7 +11,8 @@ dateCreated: 2026-08-09T15:46:09.979Z
 # Enchantments
 
 Here you can find a list of all of the new enchantments that you can find in the Above. In addition to those appearing in the table below, many Vanilla enchantments are now available at a higher level than normal (for example Protection V or Unbreaking IV).
-An Above enchantment and a higher level Vanilla enchantment can be combined on a single piece of gear, for example Elytra with Unbreaking IV can be combined with a Rush III book (double check the anvil output when combining to ensure all enchantments are being combined correctly).
+
+An Above enchantment and a higher level Vanilla enchantment can be combined on a single piece of gear, for example Elytra with Unbreaking IV can be combined with a Rush III book. When combining a higher level Vanilla enchantment with an Above Enchantment, Minecraft will try to take the Vanilla enchantment back to Vanilla levels (Unbreaking IV > Unbreaking III for example). To avoid this, make sure the higher level Vanilla enchantment is in the left slot of the Anvil and what you are trying to combine doesn't have any conflicting enchantments. *Always double check the anvil output when combining to ensure all enchantments are being combined correctly.*
 
 
 ### Above Enchantments
