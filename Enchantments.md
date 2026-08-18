@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-18T03:29:02.349Z
+date: 2026-08-18T14:55:57.121Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -46,7 +46,12 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 
 
 ### Vanilla Enchantments
-Here is a list of all of the enchantments that can go above normal level limitations, when you acquire them in the Above.
+Here is a list of all of the enchantments that can go above normal level limitations, when you acquire them in the Above. When trying to combine enchantments in an anvil, it's important to be aware of which slot the items/enchantments are in. If you put an over-leveled Vanilla enchantment in the second anvil slot, or put an over-leveled Vanilla enchantment in the first anvil slot and the same (but Vanilla-leveled) enchantment in the second slot, the final item will be subject to normal Vanilla level rules. Always double-check your final item BEFORE removing it from the Anvil.
+For example: 
+- Sword with Unbreaking IV + Sword with Void = Sword with Unbreaking IV and Void.
+- Sword with Void + Sword with Unbreaking IV = Sword with Unbreaking III and Void.
+- Sword with Unbreaking IV + Sword with Void and Unbreaking III = Sword with Unbreaking III and Void.
+
 
 | Name | Normal Max Level | New Max Level |
 | --- | --- | --- | --- | --- | --- |
