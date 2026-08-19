@@ -2,7 +2,7 @@
 title: Queen Bee 
 description: Queen Bee 
 published: true
-date: 2026-08-19T20:24:46.803Z
+date: 2026-08-19T20:29:53.842Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:09:50.707Z
@@ -15,7 +15,7 @@ dateCreated: 2026-08-16T00:09:50.707Z
  "name":"Queen Bee",
  "image":"/queen_bee.png",
  "class":"Arthropod",
- "health":"5",
+ "health":"1",
  "timeToSolo":"3-5 minutes",
  "rewards":{"splinters":18,
             "other":["[Wither Rose](https://minecraft.wiki/w/Wither_Rose): 99"]
