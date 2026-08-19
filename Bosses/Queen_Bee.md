@@ -2,15 +2,11 @@
 title: Queen Bee 
 description: Queen Bee 
 published: true
-date: 2026-08-19T20:24:28.244Z
+date: 2026-08-19T20:24:46.803Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:09:50.707Z
 ---
-
-```
-#unfinished
-```
 
 
 ```
