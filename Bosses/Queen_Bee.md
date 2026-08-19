@@ -2,7 +2,7 @@
 title: Queen Bee 
 description: Queen Bee 
 published: true
-date: 2026-08-19T19:50:10.523Z
+date: 2026-08-19T19:51:48.308Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:09:50.707Z
@@ -30,13 +30,13 @@ dateCreated: 2026-08-16T00:09:50.707Z
 Queen Bee  is a boss on the [Birch](../Islands/Birch) island. She is found under a larger birch tree in a honey cave.
 You can tell if she will spawn if there are floating honey particles in the cave as you enter and you hear smaller bees popping out of their hives. She is notably larger than the other bees.
 
-![queen_bee_arena.png](/queen_bee_arena.png)
+![queen_bee_arena.png](/queen_bee_arena.png =960x)
 Pictured: Queen Bee's spawn location
 
 ## **Fight**
 After a short while in the honey cave/hive, the Queen Bee will spawn. During the fight with her, she will periodically spawn her own stronger larger bees as protection and also give herself and surrounding bees some regen.
 
-![queen_bee_and_minions.png](/queen_bee_and_minions.png)
+![queen_bee_and_minions.png](/queen_bee_and_minions.png =960x)
 Pictured: Queen Bee (glowing) and subjects with regen
 
 ## **Strategy**
