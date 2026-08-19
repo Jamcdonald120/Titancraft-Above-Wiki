@@ -2,7 +2,7 @@
 title: Queen Bee 
 description: Queen Bee 
 published: true
-date: 2026-08-19T20:24:10.680Z
+date: 2026-08-19T20:24:28.244Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:09:50.707Z
@@ -17,7 +17,7 @@ dateCreated: 2026-08-16T00:09:50.707Z
 #bossSidebar
 {
  "name":"Queen Bee",
- "image":"(/queen_bee.png)",
+ "image":"/queen_bee.png",
  "class":"Arthropod",
  "health":"5",
  "timeToSolo":"3-5 minutes",
