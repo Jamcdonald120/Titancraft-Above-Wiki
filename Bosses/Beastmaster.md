@@ -2,7 +2,7 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-19T21:15:18.107Z
+date: 2026-08-20T14:21:11.990Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
@@ -44,7 +44,7 @@ The Beasts spawned are a random mixed selection of 6 different types:
 * "Polar Fear": Small Polar Bears who chase and maul their targets.
 * "Creeperlotl": Large fragile Axolotls that quickly approach their target and self destruct, like creepers.  Self destruct DOES NOT count as a beast kill.
 * "Armakillo": Large Armadillos that scurry towards their target and attack in rapid succession when near.
-* `Name needed`: Small Sniffers that scurry towards their target and attack in rapid succession when near.
+* `Name needed`: Small Sniffers that scurry towards their target and attack in rapid succession when near. They run really fast when panicking after being damaged.
 
 After all Beasts are defeated, Beastmaster returns to their aggressive phase and becomes vulnerable again.
 
