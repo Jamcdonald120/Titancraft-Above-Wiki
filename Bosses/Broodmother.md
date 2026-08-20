@@ -2,7 +2,7 @@
 title: Broodmother
 description: 
 published: true
-date: 2026-08-20T14:53:44.537Z
+date: 2026-08-20T14:54:25.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:36:01.100Z
@@ -17,6 +17,7 @@ dateCreated: 2026-08-16T00:36:01.100Z
 #bossSidebar
 {
  "name":"Broodmother",
+ "image":"",
  "class":"Arachnid",
  "health":"300",
  "timeToSolo":"5 Minutes",
@@ -25,7 +26,6 @@ dateCreated: 2026-08-16T00:36:01.100Z
   }
 }
 ```
-*"image":"path", put this in bossSidebar once an image of Brood is ready*
 
 ## **Location**
 The Broodmother is a boss on the [Dark Oak island](../Islands/DarkOak). She is a giant spider who lives in a cobweb filled cave connected to a cave system around the center of the island.
