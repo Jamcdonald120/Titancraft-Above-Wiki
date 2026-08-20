@@ -2,7 +2,7 @@
 title: Von Feind
 description: Did someone say Decapitation?
 published: true
-date: 2026-08-20T14:19:18.229Z
+date: 2026-08-20T14:22:44.677Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T19:58:29.718Z
@@ -22,7 +22,7 @@ dateCreated: 2026-08-18T19:58:29.718Z
  "health":"250",
  "timeToSolo":"3 minutes",
  "rewards":{"splinters":"24",
- "other":["Unique single-use high-damage axe that gives the mob head of any normal mob killed with it: 1", "Head of Von Fiend's most recent victim: 1"]
+ "other":["Unique single-use high-damage axe that gives the mob head of any normal mob killed with it: 1", "Head of Von Feind's most recent victim: 1"]
   }
 }
 ```
