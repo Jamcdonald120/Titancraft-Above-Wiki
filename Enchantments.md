@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-18T16:39:20.241Z
+date: 2026-08-20T16:59:45.072Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -15,7 +15,7 @@ Here you can find a list of all of the new enchantments that you can find in the
 An Above enchantment and a higher level Vanilla enchantment can be combined on a single piece of gear, for example Elytra with Unbreaking IV can be combined with a Rush III book. When combining a higher level Vanilla enchantment with an Above Enchantment, Minecraft will try to take the Vanilla enchantment back to Vanilla levels (Unbreaking IV > Unbreaking III for example). To avoid this, make sure the higher level Vanilla enchantment is in the left slot of the Anvil and what you are trying to combine doesn't have any conflicting enchantments. *Always double check the anvil output when combining to ensure all enchantments are being combined correctly.*
 
 
-### Above Enchantments
+## Above Enchantments
 
 | Name | Summary | Incompatible With | Max Level | Primary Items | Secondary Items |  
 | --- | --- | --- | --- | --- | --- |
@@ -46,13 +46,8 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Void | If a weapon with Void kills a mob, it drops no loot or XP. Same for any blocks mined. | | | Sword, Axe, Spear, Bow, Crossbow, Mace | Pickaxe, Shovel, Hoe |
 
 
-### Vanilla Enchantments
-Here is a list of all of the enchantments that can go above normal level limitations, when you acquire them in the Above. When trying to combine enchantments in an anvil, it's important to be aware of which slot the items/enchantments are in. If you put an over-leveled Vanilla enchantment in the second anvil slot, or put an over-leveled Vanilla enchantment in the first anvil slot and the same (but Vanilla-leveled) enchantment in the second slot, the final item will be subject to normal Vanilla level rules. Always double-check your final item BEFORE removing it from the Anvil.
-For example: 
-- Sword with Unbreaking IV + Sword with Void = Sword with Unbreaking IV and Void.
-- Sword with Void + Sword with Unbreaking IV = Sword with Unbreaking III and Void.
-- Sword with Unbreaking IV + Sword with Void and Unbreaking III = Sword with Unbreaking III and Void.
-
+## Vanilla Enchantments
+Here is a list of all of the enchantments that can go above normal level limitations, when you acquire them in the Above.
 
 | Name | Normal Max Level | New Max Level |
 | --- | --- | --- | --- | --- | --- |
@@ -77,3 +72,10 @@ For example:
 | Sweeping Edge | III | V |
 | Swift Sneak | III | IV |
 | Unbreaking | III | IV (on most things); V (on Flint and Steel or Shears) |
+
+### Combining Above Enchantments
+ hen trying to combine enchantments in an anvil, it's important to be aware of which slot the items/enchantments are in. If you put an over-leveled Vanilla enchantment in the second anvil slot, or put an over-leveled Vanilla enchantment in the first anvil slot and the same (but Vanilla-leveled) enchantment in the second slot, the final item will be subject to normal Vanilla level rules. Always double-check your final item BEFORE removing it from the Anvil.
+For example: 
+- Sword with Unbreaking IV + Sword with Void = Sword with Unbreaking IV and Void.
+- Sword with Void + Sword with Unbreaking IV = Sword with Unbreaking III and Void.
+- Sword with Unbreaking IV + Sword with Void and Unbreaking III = Sword with Unbreaking III and Void.
