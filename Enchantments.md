@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-21T18:44:00.692Z
+date: 2026-08-21T18:46:04.899Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -29,7 +29,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Extract | Extracts components from blocks (Granite or Diorite give Quartz, Andesite gives Diorite) | | | Pickaxe, Axe, Shovel | Spear |  
 | Forge | Transforms broken blocks as if they had been cooked in a furnace | | | Pickaxe, Axe, Shovel | Fishing Rod |  
 | Green Thumb | Changes blocks into a "green" variety (Dirt to Rooted Dirt, Grass to Moss etc.) | ? | | Pickaxe, Shovel | |  
-| Hydrate | Changes blocks into the "wet" version (Dirt to Mud etc.) | ? | IV | ? | ? |  
+| Hydrate | Changes blocks into the "wet" version (Dirt to Mud etc.) Will also deal more damage to Blazes when on a weapon. | ? | IV | Shovel | Sword, Bow, Axe, Hoe |  
 | Junker | Only catch junk (no fish or treasure) | Angler | | Fishing Rod | |
 | Leap | Increased Vertical Jump Distance (III is +0.27 Jump Strength and +2 Safe Fall Distance) | Rush, Steady, Stride | III | Leggings | |  
 | Oxidation | Increases the oxidation state of copper blocks | | | Pickaxe | |
