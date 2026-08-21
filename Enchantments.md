@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-20T16:59:59.360Z
+date: 2026-08-21T18:42:53.526Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -22,7 +22,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Angler | Only catch fish (no junk or treasure) | Junker | | Fishing Rod | |  
 | Bane of Swine | Increased damage against porcine-kind (Pigs, Pigmen, Zombie Pigmen, Hoglins, Zoglins) | Bane of Arthropods, Bane of Mortals, Breach, Density, Sharpness, Smite | | Sword, Spear, Mace, Axe | |  
 | Bane of Mortals | Increased damage against players and "normal mortal" type mobs (Pillagers, Evokers etc.) | Bane of Arthropods, Bane of Swine, Breach, Density, Sharpness, Smite | | Sword, Spear, Mace, Axe | |  
-| Bleach | Removes any Dye color from the blocks (Dyed Terracotta to normal Terracotta, Dyed Wool to White Wool etc.) | | | Pickaxe, Axe, Shovel, Shears | |  
+| Bleach | Removes any Dye color from the blocks (Dyed Terracotta to normal Terracotta, Dyed Wool to White Wool etc.) | | | Pickaxe, Axe, Shovel, Shears | Sword (hitting dyed sheep turns them white) |  
 | Catch and Release | Adds a chance to catch a fish in a bucket | | | Fishing Rod | |  
 | Chisel | Changes blocks into the cut variety (Sandstone to Cut Sandstone, Quartz to Quartz brick, Nether brick to Chiseled nether brick) | | | Pickaxe | |  
 | Dredge | ? |  | | Fishing Rod | |  
