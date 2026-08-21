@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-21T18:42:53.526Z
+date: 2026-08-21T18:44:00.692Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -36,7 +36,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Persist | Increases the Decay time if the item is dropped on the ground (+5 minutes per level) | | V | Any | |  
 | Philia | Converts any item in the target materials family into the target material. (ie: Philia: Oak would turn any wood or leaf item into its Oak equivalent; Philia: Blackstone would turn any stone into its Blackstone equivalent) | Fortune, Silk Touch | | Pick, Axe, Hoe, Shears, Shovel | |  
 | Pulverize | Breaks down a block into the next "finer" block (gravel into sand, for example) | | | Pickaxe, Axe, Hoe, Shovel  
-| Reach | Increased block Interaction Range (+1 per level) | Any Protection | III | Chest Plate | Axe, Pick, Shovel |  
+| Reach | Increased block and mob interaction range (+1 per level) | Any Protection | III | Chest Plate | Axe, Pick, Shovel |  
 | Resonance | When you hit a mob with it, it has the same effect as ringing a bell (all nearby mobs are highlighted) `This is currently bugged and is appearing on other tools and weapons` | | | Crystal | |  
 | Rush | Increased Speed (by 6.67% per level) | Leap, Steady, Stride | III | Elytra, Chestplate, Leggings | | 
 | Slaughter | ? | ? | IV | | |
