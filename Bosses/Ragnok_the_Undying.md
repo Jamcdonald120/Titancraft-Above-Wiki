@@ -2,7 +2,7 @@
 title: Ragnok the Undying
 description: Ragnok the Undying
 published: true
-date: 2026-08-21T07:12:44.871Z
+date: 2026-08-21T07:14:47.444Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-21T07:12:44.871Z
@@ -22,7 +22,7 @@ dateCreated: 2026-08-21T07:12:44.871Z
  "health":"~100-150",
  "timeToSolo":"3-10 minutes",
  "rewards":{"splinters":18,
-            "other":["[Ragnok's Bow]()"]
+            "other":["[Ragnok's Bow](../Boss_Drops/Ragnoks_Bow)"]
   }
 }
 ```
