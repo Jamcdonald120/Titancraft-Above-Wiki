@@ -2,7 +2,7 @@
 title: Kermode
 description: The Bear
 published: true
-date: 2026-08-17T17:38:59.776Z
+date: 2026-08-22T20:54:25.704Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:05:49.013Z
@@ -17,7 +17,7 @@ dateCreated: 2026-08-16T00:05:49.013Z
 #bossSidebar
 {
  "name":"Kermode",
- "image":"path",
+ "image":"![kermode.png](/bosses/kermode.png)",
  "class":"N/A",
  "health":"1",
  "timeToSolo":"2",
