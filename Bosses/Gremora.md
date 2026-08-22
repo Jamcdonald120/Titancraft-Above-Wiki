@@ -2,7 +2,7 @@
 title: Gremora
 description: Gremora the Witch
 published: true
-date: 2026-08-20T05:22:43.127Z
+date: 2026-08-22T22:01:31.465Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:03:53.355Z
@@ -20,7 +20,7 @@ dateCreated: 2026-08-16T00:03:53.355Z
  "image":"/bosses/gremora-with-minions-8.png",
  "class":"Mortal",
  "health":"1",
- "timeToSolo":"1",
+ "timeToSolo":"2 Minutes*",
  "rewards":{"splinters":"18",
             "other":["Random Above potions / Potion ingredients"]
   }
