@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-21T18:46:04.899Z
+date: 2026-08-30T02:01:01.582Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -59,6 +59,7 @@ Here is a list of all of the enchantments that can go above normal level limitat
 | Frost Walker | IV | V |
 | Impaling | V | VI |
 | Looting | III | IV |
+| Loyalty | III | IV |
 | Lunge | III | IV |
 | Piercing | IV | V |
 | Projectile Protection | IV | V | 
