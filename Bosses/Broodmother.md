@@ -2,7 +2,7 @@
 title: Broodmother
 description: 
 published: true
-date: 2026-08-30T21:05:29.126Z
+date: 2026-08-30T21:05:52.832Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:36:01.100Z
@@ -17,7 +17,7 @@ dateCreated: 2026-08-16T00:36:01.100Z
 #bossSidebar
 {
  "name":"Broodmother",
- "image":"",
+ "image":"/Broodmother.png",
  "class":"Arachnid",
  "health":"300",
  "timeToSolo":"5 Minutes",
