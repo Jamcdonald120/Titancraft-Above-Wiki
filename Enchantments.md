@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-30T02:01:01.582Z
+date: 2026-08-30T19:43:38.679Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -53,13 +53,14 @@ Here is a list of all of the enchantments that can go above normal level limitat
 | --- | --- | --- | --- | --- | --- |
 | Bane of Arthropods | V | VI |
 | Blast Protection | IV | V |
+| Density | V | VI |
 | Efficiency | V | VI |
 | Fire Protection | IV | V |
 | Fortune | III | V (on Hoes only); X (on a limited-use Iron Pickaxe) |
 | Frost Walker | IV | V |
 | Impaling | V | VI |
 | Looting | III | IV |
-| Loyalty | III | IV |
+| Loyalty | III | VI |
 | Lunge | III | IV |
 | Piercing | IV | V |
 | Projectile Protection | IV | V | 
@@ -73,6 +74,7 @@ Here is a list of all of the enchantments that can go above normal level limitat
 | Sweeping Edge | III | V |
 | Swift Sneak | III | IV |
 | Unbreaking | III | IV (on most things); V (on Flint and Steel or Shears) |
+| Wind Burst | III | IV |
 
 ## Combining Above Enchantments
  hen trying to combine enchantments in an anvil, it's important to be aware of which slot the items/enchantments are in. If you put an over-leveled Vanilla enchantment in the second anvil slot, or put an over-leveled Vanilla enchantment in the first anvil slot and the same (but Vanilla-leveled) enchantment in the second slot, the final item will be subject to normal Vanilla level rules. Always double-check your final item BEFORE removing it from the Anvil.
