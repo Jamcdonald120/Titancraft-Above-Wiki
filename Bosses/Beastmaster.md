@@ -2,7 +2,7 @@
 title: Beastmaster
 description: History, Trivia, Credits
 published: true
-date: 2026-08-20T14:21:11.990Z
+date: 2026-09-01T18:00:03.239Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T16:57:59.757Z
@@ -42,7 +42,7 @@ The Beasts spawned are a random mixed selection of 6 different types:
 * "Ravagito": Small Ravagers that deal great knockback to anything they hit.
 * "Yeet Pig": Small Hoglins that launch whoever it hits several blocks in the air.
 * "Polar Fear": Small Polar Bears who chase and maul their targets.
-* "Creeperlotl": Large fragile Axolotls that quickly approach their target and self destruct, like creepers.  Self destruct DOES NOT count as a beast kill.
+* "Creeperlotl": Large fragile Axolotls that quickly approach their target and self destruct, like creepers.  Self destruct DOES NOT count as a beast kill. The Creeperlotl's self destruct acts as Charged Creeper blast, causing any nearby vanilla mobs (skeleton, zombie, creeper) to drop their heads.
 * "Armakillo": Large Armadillos that scurry towards their target and attack in rapid succession when near.
 * `Name needed`: Small Sniffers that scurry towards their target and attack in rapid succession when near. They run really fast when panicking after being damaged.
 
