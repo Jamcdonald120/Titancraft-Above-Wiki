@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-08-30T19:43:38.679Z
+date: 2026-09-02T16:45:36.646Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -39,7 +39,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Reach | Increased block and mob interaction range (+1 per level) | Any Protection | III | Chest Plate | Axe, Pick, Shovel |  
 | Resonance | When you hit a mob with it, it has the same effect as ringing a bell (all nearby mobs are highlighted) `This is currently bugged and is appearing on other tools and weapons` | | | Crystal | |  
 | Rush | Increased Speed (by 6.67% per level) | Leap, Steady, Stride | III | Elytra, Chestplate, Leggings | | 
-| Slaughter | ? | ? | IV | | |
+| Slaughter | ? | ? | V | | |
 | Steady | Increased Knockback Resistance (II = +9, III = +10) | Leap, Rush, Stride | III | Chestplate, Leggings | |  
 | Stride | Increased Step Height (+1/2 block per level) | Leap, Rush, Steady, Protection `The incompatibility with Protection has been reported as a bug` | III | Leggings | |  
 | Squid Jig | Increased chance of catching an ink sack. | | | Fishing Rod | |  
