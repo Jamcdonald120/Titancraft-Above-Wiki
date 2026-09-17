@@ -2,7 +2,7 @@
 title: Volcano Island
 description: La La La Lavaa
 published: true
-date: 2026-08-08T03:16:56.219Z
+date: 2026-09-17T20:09:47.229Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T02:04:56.142Z
@@ -24,7 +24,7 @@ An estate house with a courtyard exists in the south east.
 ## Bosses
 - [Midas](../Bosses/Midas)
 - [Vera](../Bosses/Vera)
-- [The Fallen One](../Bosses/TheFallenOne)
+- [The Fallen One](../Bosses/The_Fallen_One)
 
 ## Gateway Connections
 
