@@ -2,7 +2,7 @@
 title: Vesta
 description: 
 published: true
-date: 2026-08-16T00:21:54.730Z
+date: 2026-09-24T23:16:51.971Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-16T00:21:54.730Z
@@ -17,7 +17,7 @@ dateCreated: 2026-08-16T00:21:54.730Z
 #bossSidebar
 {
  "name":"Vesta",
- "image":"path",
+ "image":"/bosses/vesta.png",
  "class":"N/A",
  "health":"20*",
  "timeToSolo":"1",
@@ -32,10 +32,7 @@ Vesta is a boss on the [Volcano](../Islands/) island. She is ...
 *Picture of Arena*
 
 ## **Fight**
-```
-#borked
-Vesta does not reliably take damage from the projectiles
-```
+
 Description of the fight...
 
 *Picture of individual Boss*
