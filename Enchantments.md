@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-09-11T21:39:51.835Z
+date: 2026-09-25T01:14:03.199Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -24,7 +24,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Bane of Mortals | Increased damage against players and "normal mortal" type mobs (Pillagers, Evokers etc.) | Bane of Arthropods, Bane of Swine, Breach, Density, Sharpness, Smite | | Sword, Spear, Mace, Axe | |  
 | Bleach | Removes any Dye color from the blocks (Dyed Terracotta to normal Terracotta, Dyed Wool to White Wool etc.) | | | Pickaxe, Axe, Shovel, Shears | Sword (hitting dyed sheep turns them white) |  
 | Catch and Release | Adds a chance to catch a fish in a bucket | | | Fishing Rod | |  
-| Chisel | Changes blocks into the cut variety (Sandstone to Cut Sandstone, Quartz to Quartz brick, Nether brick to Chiseled nether brick) | | | Pickaxe | |  
+| Chisel | Changes blocks into the cut variety (Sandstone to Cut Sandstone, Quartz to Quartz brick, Nether brick to Chiseled nether brick, Axe auto-strips logs and auto-carves pumpkins) | | | Pickaxe, Axe | |  
 | Dredge | ? |  | | Fishing Rod | |  
 | Extract | Extracts components from blocks (Granite or Diorite give Quartz, Andesite gives Diorite) | | | Pickaxe, Axe, Shovel | Spear |  
 | Forge | Transforms broken blocks as if they had been cooked in a furnace | | | Pickaxe, Axe, Shovel | Fishing Rod |  
