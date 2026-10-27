@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-10-27T04:50:00.002Z
+date: 2026-10-27T04:59:35.075Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -32,6 +32,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Hydrate | Changes blocks into the "wet" version (Dirt to Mud etc.) Will also deal more damage to Blazes when on a weapon. | ? | IV | Shovel | Sword, Bow, Axe, Hoe |  
 | Junker | Only catch junk (no fish or treasure) | Angler | | Fishing Rod | |
 | Leap | Increased Vertical Jump Distance (III is +0.27 Jump Strength and +2 Safe Fall Distance) | Rush, Steady, Stride | III | Leggings | |  
+| Nerf| | | | Sword |
 | Oxidation | Increases the oxidation state of copper blocks | | | Pickaxe | |
 | Persist | Increases the Decay time if the item is dropped on the ground (+5 minutes per level) | | V | Any | |  
 | Philia | Converts any item in the target materials family into the target material. (ie: Philia: Oak would turn any wood or leaf item into its Oak equivalent; Philia: Blackstone would turn any stone into its Blackstone equivalent) | Fortune, Silk Touch | | Pick, Axe, Hoe, Shears, Shovel | |  
