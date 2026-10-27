@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-10-27T04:59:35.075Z
+date: 2026-10-27T05:00:07.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -26,7 +26,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Catch and Release | Adds a chance to catch a fish in a bucket | | | Fishing Rod | |  
 | Chisel | Changes blocks into the cut variety (Sandstone to Cut Sandstone, Quartz to Quartz brick, Nether brick to Chiseled nether brick, Axe auto-strips logs and auto-carves pumpkins) | | | Pickaxe, Axe | |  
 | Dredge | ? |  | | Fishing Rod | |  
-| Extract | Extracts components from blocks (Granite or Diorite give Quartz, Andesite gives Diorite) | | | Pickaxe, Axe, Shovel | Spear |  
+| Extract | Extracts components from blocks (Granite or Diorite give Quartz, Andesite gives Diorite) | | | Pickaxe, Axe, Shovel | Spear, Sword |  
 | Forge | Transforms broken blocks as if they had been cooked in a furnace | | | Pickaxe, Axe, Shovel | Fishing Rod |  
 | Green Thumb | Changes blocks into a "green" variety (Dirt to Rooted Dirt, Grass to Moss etc.) | ? | | Pickaxe, Shovel | |  
 | Hydrate | Changes blocks into the "wet" version (Dirt to Mud etc.) Will also deal more damage to Blazes when on a weapon. | ? | IV | Shovel | Sword, Bow, Axe, Hoe |  
