@@ -2,7 +2,7 @@
 title: Enchantments
 description: Above-exclusive Enchantments
 published: true
-date: 2026-09-25T01:14:03.199Z
+date: 2026-10-27T04:50:00.002Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-09T15:46:09.979Z
@@ -36,7 +36,7 @@ An Above enchantment and a higher level Vanilla enchantment can be combined on a
 | Persist | Increases the Decay time if the item is dropped on the ground (+5 minutes per level) | | V | Any | |  
 | Philia | Converts any item in the target materials family into the target material. (ie: Philia: Oak would turn any wood or leaf item into its Oak equivalent; Philia: Blackstone would turn any stone into its Blackstone equivalent) | Fortune, Silk Touch | | Pick, Axe, Hoe, Shears, Shovel | |  
 | Pulverize | Breaks down a block into the next "finer" block (gravel into sand, for example) | | | Pickaxe, Axe, Hoe, Shovel  
-| Picky | Unknown | | | Unknown
+| Picky | Unknown | | | Fishing Rod
 | Reach | Increased block and mob interaction range (+1 per level) | Any Protection | III | Chest Plate | Axe, Pick, Shovel |  
 | Resonance | When you hit a mob with it, it has the same effect as ringing a bell (all nearby mobs are highlighted) `This is currently bugged and is appearing on other tools and weapons` | | | Crystal | |  
 | Rush | Increased Speed (by 6.67% per level) | Leap, Steady, Stride | III | Elytra, Chestplate, Leggings | | 
@@ -57,6 +57,7 @@ Here is a list of all of the enchantments that can go above normal level limitat
 | Density | V | VI |
 | Efficiency | V | VI |
 | Fire Protection | IV | V |
+| Flame Aspect | II | V
 | Fortune | III | V (on Hoes only); X (on a limited-use Iron Pickaxe) |
 | Frost Walker | IV | V |
 | Impaling | V | VI |
@@ -78,7 +79,7 @@ Here is a list of all of the enchantments that can go above normal level limitat
 | Wind Burst | III | IV |
 
 ## Combining Above Enchantments
- hen trying to combine enchantments in an anvil, it's important to be aware of which slot the items/enchantments are in. If you put an over-leveled Vanilla enchantment in the second anvil slot, or put an over-leveled Vanilla enchantment in the first anvil slot and the same (but Vanilla-leveled) enchantment in the second slot, the final item will be subject to normal Vanilla level rules. Always double-check your final item BEFORE removing it from the Anvil.
+When trying to combine enchantments in an anvil, it's important to be aware of which slot the items/enchantments are in. If you put an over-leveled Vanilla enchantment in the second anvil slot, or put an over-leveled Vanilla enchantment in the first anvil slot and the same (but Vanilla-leveled) enchantment in the second slot, the final item will be subject to normal Vanilla level rules. Always double-check your final item BEFORE removing it from the Anvil.
 For example: 
 - Sword with Unbreaking IV + Sword with Void = Sword with Unbreaking IV and Void.
 - Sword with Void + Sword with Unbreaking IV = Sword with Unbreaking III and Void.
